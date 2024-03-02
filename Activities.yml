@@ -277,7 +277,7 @@
    name: yo_yo
    location: assets/Activities/yo_yo.png
    strings: 
-   - ':yo_yo:'
+   - ':yo-yo:'
 - 
    name: kite
    location: assets/Activities/kite.png

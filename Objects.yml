@@ -33,6 +33,7 @@
    location: assets/Objects/shirt.png
    strings: 
    - ':shirt:'
+   - ':tshirt:'
 - 
    name: jeans
    location: assets/Objects/jeans.png
@@ -77,7 +78,7 @@
    name: one_piece_swimsuit
    location: assets/Objects/one_piece_swimsuit.png
    strings: 
-   - ':one_piece_swimsuit:'
+   - ':one-piece_swimsuit:'
 - 
    name: briefs
    location: assets/Objects/briefs.png
@@ -138,6 +139,7 @@
    location: assets/Objects/mans_shoe.png
    strings: 
    - ':mans_shoe:'
+   - ':shoe:'
 - 
    name: athletic_shoe
    location: assets/Objects/athletic_shoe.png
@@ -393,6 +395,7 @@
    location: assets/Objects/phone.png
    strings: 
    - ':phone:'
+   - ':telephone:'
 - 
    name: telephone_receiver
    location: assets/Objects/telephone_receiver.png
@@ -553,6 +556,7 @@
    location: assets/Objects/izakaya_lantern.png
    strings: 
    - ':izakaya_lantern:'
+   - ':lantern:'
 - 
    name: diya_lamp
    location: assets/Objects/diya_lamp.png
@@ -573,6 +577,7 @@
    location: assets/Objects/book.png
    strings: 
    - ':book:'
+   - ':open_book:'
 - 
    name: green_book
    location: assets/Objects/green_book.png
@@ -697,12 +702,13 @@
    name: envelope
    location: assets/Objects/envelope.png
    strings: 
+   - ':email:'
    - ':envelope:'
 - 
    name: e_mail
    location: assets/Objects/e_mail.png
    strings: 
-   - ':e_mail:'
+   - ':e-mail:'
 - 
    name: incoming_envelope
    location: assets/Objects/incoming_envelope.png
@@ -793,6 +799,7 @@
    location: assets/Objects/memo.png
    strings: 
    - ':memo:'
+   - ':pencil:'
 - 
    name: briefcase
    location: assets/Objects/briefcase.png
@@ -1132,7 +1139,7 @@
    name: x_ray
    location: assets/Objects/x_ray.png
    strings: 
-   - ':x_ray:'
+   - ':x-ray:'
 - 
    name: door
    location: assets/Objects/door.png

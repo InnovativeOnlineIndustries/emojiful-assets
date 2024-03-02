@@ -328,6 +328,7 @@
    location: assets/Animals & Nature/feet.png
    strings: 
    - ':feet:'
+   - ':paw_prints:'
 - 
    name: turkey
    location: assets/Animals & Nature/turkey.png
@@ -477,7 +478,7 @@
    name: t_rex
    location: assets/Animals & Nature/t_rex.png
    strings: 
-   - ':t_rex:'
+   - ':t-rex:'
 - 
    name: whale
    location: assets/Animals & Nature/whale.png
@@ -493,6 +494,7 @@
    location: assets/Animals & Nature/dolphin.png
    strings: 
    - ':dolphin:'
+   - ':flipper:'
 - 
    name: seal
    location: assets/Animals & Nature/seal.png
@@ -563,6 +565,7 @@
    location: assets/Animals & Nature/bee.png
    strings: 
    - ':bee:'
+   - ':honeybee:'
 - 
    name: beetle
    location: assets/Animals & Nature/beetle.png
@@ -573,6 +576,7 @@
    location: assets/Animals & Nature/ladybug.png
    strings: 
    - ':ladybug:'
+   - ':lady_beetle:'
 - 
    name: cricket
    location: assets/Animals & Nature/cricket.png

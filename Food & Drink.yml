@@ -303,6 +303,7 @@
    location: assets/Food & Drink/fried_egg.png
    strings: 
    - ':fried_egg:'
+   - ':cooking:'
 - 
    name: shallow_pan_of_food
    location: assets/Food & Drink/shallow_pan_of_food.png
@@ -653,6 +654,7 @@
    location: assets/Food & Drink/hocho.png
    strings: 
    - ':hocho:'
+   - ':knife:'
 - 
    name: jar
    location: assets/Food & Drink/jar.png

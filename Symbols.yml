@@ -102,7 +102,7 @@
    name: non_potable_water
    location: assets/Symbols/non_potable_water.png
    strings: 
-   - ':non_potable_water:'
+   - ':non-potable_water:'
 - 
    name: no_pedestrians
    location: assets/Symbols/no_pedestrians.png
@@ -563,6 +563,7 @@
    location: assets/Symbols/exclamation.png
    strings: 
    - ':exclamation:'
+   - ':heavy_exclamation_mark:'
 - 
    name: wavy_dash
    location: assets/Symbols/wavy_dash.png
@@ -583,6 +584,7 @@
    location: assets/Symbols/medical_symbol.png
    strings: 
    - ':medical_symbol:'
+   - ':staff_of_aesculapius:'
 - 
    name: recycle
    location: assets/Symbols/recycle.png

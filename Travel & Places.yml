@@ -443,6 +443,7 @@
    location: assets/Travel & Places/car.png
    strings: 
    - ':car:'
+   - ':red_car:'
 - 
    name: oncoming_automobile
    location: assets/Travel & Places/oncoming_automobile.png
@@ -593,6 +594,7 @@
    location: assets/Travel & Places/boat.png
    strings: 
    - ':boat:'
+   - ':sailboat:'
 - 
    name: canoe
    location: assets/Travel & Places/canoe.png
@@ -873,6 +875,7 @@
    location: assets/Travel & Places/moon.png
    strings: 
    - ':moon:'
+   - ':waxing_gibbous_moon:'
 - 
    name: full_moon
    location: assets/Travel & Places/full_moon.png
@@ -978,16 +981,19 @@
    location: assets/Travel & Places/mostly_sunny.png
    strings: 
    - ':mostly_sunny:'
+   - ':sun_small_cloud:'
 - 
    name: barely_sunny
    location: assets/Travel & Places/barely_sunny.png
    strings: 
    - ':barely_sunny:'
+   - ':sun_behind_cloud:'
 - 
    name: partly_sunny_rain
    location: assets/Travel & Places/partly_sunny_rain.png
    strings: 
    - ':partly_sunny_rain:'
+   - ':sun_behind_rain_cloud:'
 - 
    name: rain_cloud
    location: assets/Travel & Places/rain_cloud.png
@@ -1003,11 +1009,13 @@
    location: assets/Travel & Places/lightning.png
    strings: 
    - ':lightning:'
+   - ':lightning_cloud:'
 - 
    name: tornado
    location: assets/Travel & Places/tornado.png
    strings: 
    - ':tornado:'
+   - ':tornado_cloud:'
 - 
    name: fog
    location: assets/Travel & Places/fog.png
