@@ -1,0 +1,5 @@
+!com.hrznstudio.emojiful.CommonClass$YamlEmoji
+name: women_wrestling
+location: assets/Missing/women_wrestling.png
+strings: !java.util.Arrays$ArrayList
+- ':women_wrestling:'

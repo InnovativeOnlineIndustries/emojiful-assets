@@ -1,0 +1,980 @@
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: aerial_tramway
+   location: assets/Travel & Places/aerial_tramway.png
+   strings: !java.util.Arrays$ArrayList
+   - ':aerial_tramway:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: airplane
+   location: assets/Travel & Places/airplane.png
+   strings: !java.util.Arrays$ArrayList
+   - ':airplane:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: airplane_arriving
+   location: assets/Travel & Places/airplane_arriving.png
+   strings: !java.util.Arrays$ArrayList
+   - ':airplane_arriving:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: airplane_departure
+   location: assets/Travel & Places/airplane_departure.png
+   strings: !java.util.Arrays$ArrayList
+   - ':airplane_departure:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: alarm_clock
+   location: assets/Travel & Places/alarm_clock.png
+   strings: !java.util.Arrays$ArrayList
+   - ':alarm_clock:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: ambulance
+   location: assets/Travel & Places/ambulance.png
+   strings: !java.util.Arrays$ArrayList
+   - ':ambulance:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: anchor
+   location: assets/Travel & Places/anchor.png
+   strings: !java.util.Arrays$ArrayList
+   - ':anchor:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: articulated_lorry
+   location: assets/Travel & Places/articulated_lorry.png
+   strings: !java.util.Arrays$ArrayList
+   - ':articulated_lorry:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: auto_rickshaw
+   location: assets/Travel & Places/auto_rickshaw.png
+   strings: !java.util.Arrays$ArrayList
+   - ':auto_rickshaw:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: bank
+   location: assets/Travel & Places/bank.png
+   strings: !java.util.Arrays$ArrayList
+   - ':bank:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: barber
+   location: assets/Travel & Places/barber.png
+   strings: !java.util.Arrays$ArrayList
+   - ':barber:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: beach
+   location: assets/Travel & Places/beach.png
+   strings: !java.util.Arrays$ArrayList
+   - ':beach:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: bellhop
+   location: assets/Travel & Places/bellhop.png
+   strings: !java.util.Arrays$ArrayList
+   - ':bellhop:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: bike
+   location: assets/Travel & Places/bike.png
+   strings: !java.util.Arrays$ArrayList
+   - ':bike:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: blue_car
+   location: assets/Travel & Places/blue_car.png
+   strings: !java.util.Arrays$ArrayList
+   - ':blue_car:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: bricks
+   location: assets/Travel & Places/bricks.png
+   strings: !java.util.Arrays$ArrayList
+   - ':bricks:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: bridge_at_night
+   location: assets/Travel & Places/bridge_at_night.png
+   strings: !java.util.Arrays$ArrayList
+   - ':bridge_at_night:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: bullettrain_front
+   location: assets/Travel & Places/bullettrain_front.png
+   strings: !java.util.Arrays$ArrayList
+   - ':bullettrain_front:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: bullettrain_side
+   location: assets/Travel & Places/bullettrain_side.png
+   strings: !java.util.Arrays$ArrayList
+   - ':bullettrain_side:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: bus
+   location: assets/Travel & Places/bus.png
+   strings: !java.util.Arrays$ArrayList
+   - ':bus:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: busstop
+   location: assets/Travel & Places/busstop.png
+   strings: !java.util.Arrays$ArrayList
+   - ':busstop:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: camping
+   location: assets/Travel & Places/camping.png
+   strings: !java.util.Arrays$ArrayList
+   - ':camping:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: canoe
+   location: assets/Travel & Places/canoe.png
+   strings: !java.util.Arrays$ArrayList
+   - ':canoe:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: carousel_horse
+   location: assets/Travel & Places/carousel_horse.png
+   strings: !java.util.Arrays$ArrayList
+   - ':carousel_horse:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: church
+   location: assets/Travel & Places/church.png
+   strings: !java.util.Arrays$ArrayList
+   - ':church:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: circus_tent
+   location: assets/Travel & Places/circus_tent.png
+   strings: !java.util.Arrays$ArrayList
+   - ':circus_tent:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: cityscape
+   location: assets/Travel & Places/cityscape.png
+   strings: !java.util.Arrays$ArrayList
+   - ':cityscape:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: city_sunset
+   location: assets/Travel & Places/city_sunset.png
+   strings: !java.util.Arrays$ArrayList
+   - ':city_sunset:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: classical_building
+   location: assets/Travel & Places/classical_building.png
+   strings: !java.util.Arrays$ArrayList
+   - ':classical_building:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: clock1
+   location: assets/Travel & Places/clock1.png
+   strings: !java.util.Arrays$ArrayList
+   - ':clock1:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: clock10
+   location: assets/Travel & Places/clock10.png
+   strings: !java.util.Arrays$ArrayList
+   - ':clock10:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: clock1030
+   location: assets/Travel & Places/clock1030.png
+   strings: !java.util.Arrays$ArrayList
+   - ':clock1030:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: clock11
+   location: assets/Travel & Places/clock11.png
+   strings: !java.util.Arrays$ArrayList
+   - ':clock11:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: clock1130
+   location: assets/Travel & Places/clock1130.png
+   strings: !java.util.Arrays$ArrayList
+   - ':clock1130:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: clock12
+   location: assets/Travel & Places/clock12.png
+   strings: !java.util.Arrays$ArrayList
+   - ':clock12:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: clock1230
+   location: assets/Travel & Places/clock1230.png
+   strings: !java.util.Arrays$ArrayList
+   - ':clock1230:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: clock130
+   location: assets/Travel & Places/clock130.png
+   strings: !java.util.Arrays$ArrayList
+   - ':clock130:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: clock2
+   location: assets/Travel & Places/clock2.png
+   strings: !java.util.Arrays$ArrayList
+   - ':clock2:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: clock230
+   location: assets/Travel & Places/clock230.png
+   strings: !java.util.Arrays$ArrayList
+   - ':clock230:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: clock3
+   location: assets/Travel & Places/clock3.png
+   strings: !java.util.Arrays$ArrayList
+   - ':clock3:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: clock330
+   location: assets/Travel & Places/clock330.png
+   strings: !java.util.Arrays$ArrayList
+   - ':clock330:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: clock4
+   location: assets/Travel & Places/clock4.png
+   strings: !java.util.Arrays$ArrayList
+   - ':clock4:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: clock430
+   location: assets/Travel & Places/clock430.png
+   strings: !java.util.Arrays$ArrayList
+   - ':clock430:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: clock5
+   location: assets/Travel & Places/clock5.png
+   strings: !java.util.Arrays$ArrayList
+   - ':clock5:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: clock530
+   location: assets/Travel & Places/clock530.png
+   strings: !java.util.Arrays$ArrayList
+   - ':clock530:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: clock6
+   location: assets/Travel & Places/clock6.png
+   strings: !java.util.Arrays$ArrayList
+   - ':clock6:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: clock630
+   location: assets/Travel & Places/clock630.png
+   strings: !java.util.Arrays$ArrayList
+   - ':clock630:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: clock7
+   location: assets/Travel & Places/clock7.png
+   strings: !java.util.Arrays$ArrayList
+   - ':clock7:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: clock730
+   location: assets/Travel & Places/clock730.png
+   strings: !java.util.Arrays$ArrayList
+   - ':clock730:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: clock8
+   location: assets/Travel & Places/clock8.png
+   strings: !java.util.Arrays$ArrayList
+   - ':clock8:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: clock830
+   location: assets/Travel & Places/clock830.png
+   strings: !java.util.Arrays$ArrayList
+   - ':clock830:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: clock9
+   location: assets/Travel & Places/clock9.png
+   strings: !java.util.Arrays$ArrayList
+   - ':clock9:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: clock930
+   location: assets/Travel & Places/clock930.png
+   strings: !java.util.Arrays$ArrayList
+   - ':clock930:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: closed_umbrella
+   location: assets/Travel & Places/closed_umbrella.png
+   strings: !java.util.Arrays$ArrayList
+   - ':closed_umbrella:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: cloud
+   location: assets/Travel & Places/cloud.png
+   strings: !java.util.Arrays$ArrayList
+   - ':cloud:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: comet
+   location: assets/Travel & Places/comet.png
+   strings: !java.util.Arrays$ArrayList
+   - ':comet:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: compass
+   location: assets/Travel & Places/compass.png
+   strings: !java.util.Arrays$ArrayList
+   - ':compass:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: construction
+   location: assets/Travel & Places/construction.png
+   strings: !java.util.Arrays$ArrayList
+   - ':construction:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: convenience_store
+   location: assets/Travel & Places/convenience_store.png
+   strings: !java.util.Arrays$ArrayList
+   - ':convenience_store:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: crescent_moon
+   location: assets/Travel & Places/crescent_moon.png
+   strings: !java.util.Arrays$ArrayList
+   - ':crescent_moon:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: cyclone
+   location: assets/Travel & Places/cyclone.png
+   strings: !java.util.Arrays$ArrayList
+   - ':cyclone:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: department_store
+   location: assets/Travel & Places/department_store.png
+   strings: !java.util.Arrays$ArrayList
+   - ':department_store:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: desert
+   location: assets/Travel & Places/desert.png
+   strings: !java.util.Arrays$ArrayList
+   - ':desert:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: droplet
+   location: assets/Travel & Places/droplet.png
+   strings: !java.util.Arrays$ArrayList
+   - ':droplet:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: earth_africa
+   location: assets/Travel & Places/earth_africa.png
+   strings: !java.util.Arrays$ArrayList
+   - ':earth_africa:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: earth_americas
+   location: assets/Travel & Places/earth_americas.png
+   strings: !java.util.Arrays$ArrayList
+   - ':earth_americas:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: earth_asia
+   location: assets/Travel & Places/earth_asia.png
+   strings: !java.util.Arrays$ArrayList
+   - ':earth_asia:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: european_castle
+   location: assets/Travel & Places/european_castle.png
+   strings: !java.util.Arrays$ArrayList
+   - ':european_castle:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: european_post_office
+   location: assets/Travel & Places/european_post_office.png
+   strings: !java.util.Arrays$ArrayList
+   - ':european_post_office:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: factory
+   location: assets/Travel & Places/factory.png
+   strings: !java.util.Arrays$ArrayList
+   - ':factory:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: ferris_wheel
+   location: assets/Travel & Places/ferris_wheel.png
+   strings: !java.util.Arrays$ArrayList
+   - ':ferris_wheel:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: ferry
+   location: assets/Travel & Places/ferry.png
+   strings: !java.util.Arrays$ArrayList
+   - ':ferry:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: fire
+   location: assets/Travel & Places/fire.png
+   strings: !java.util.Arrays$ArrayList
+   - ':fire:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: fire_engine
+   location: assets/Travel & Places/fire_engine.png
+   strings: !java.util.Arrays$ArrayList
+   - ':fire_engine:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: first_quarter_moon
+   location: assets/Travel & Places/first_quarter_moon.png
+   strings: !java.util.Arrays$ArrayList
+   - ':first_quarter_moon:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: first_quarter_moon_with_face
+   location: assets/Travel & Places/first_quarter_moon_with_face.png
+   strings: !java.util.Arrays$ArrayList
+   - ':first_quarter_moon_with_face:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flying_saucer
+   location: assets/Travel & Places/flying_saucer.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flying_saucer:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: fog
+   location: assets/Travel & Places/fog.png
+   strings: !java.util.Arrays$ArrayList
+   - ':fog:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: foggy
+   location: assets/Travel & Places/foggy.png
+   strings: !java.util.Arrays$ArrayList
+   - ':foggy:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: fountain
+   location: assets/Travel & Places/fountain.png
+   strings: !java.util.Arrays$ArrayList
+   - ':fountain:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: fuelpump
+   location: assets/Travel & Places/fuelpump.png
+   strings: !java.util.Arrays$ArrayList
+   - ':fuelpump:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: full_moon
+   location: assets/Travel & Places/full_moon.png
+   strings: !java.util.Arrays$ArrayList
+   - ':full_moon:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: full_moon_with_face
+   location: assets/Travel & Places/full_moon_with_face.png
+   strings: !java.util.Arrays$ArrayList
+   - ':full_moon_with_face:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: globe_with_meridians
+   location: assets/Travel & Places/globe_with_meridians.png
+   strings: !java.util.Arrays$ArrayList
+   - ':globe_with_meridians:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: helicopter
+   location: assets/Travel & Places/helicopter.png
+   strings: !java.util.Arrays$ArrayList
+   - ':helicopter:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: hindu_temple
+   location: assets/Travel & Places/hindu_temple.png
+   strings: !java.util.Arrays$ArrayList
+   - ':hindu_temple:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: hospital
+   location: assets/Travel & Places/hospital.png
+   strings: !java.util.Arrays$ArrayList
+   - ':hospital:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: hotel
+   location: assets/Travel & Places/hotel.png
+   strings: !java.util.Arrays$ArrayList
+   - ':hotel:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: hotsprings
+   location: assets/Travel & Places/hotsprings.png
+   strings: !java.util.Arrays$ArrayList
+   - ':hotsprings:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: hourglass
+   location: assets/Travel & Places/hourglass.png
+   strings: !java.util.Arrays$ArrayList
+   - ':hourglass:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: hourglass_flowing_sand
+   location: assets/Travel & Places/hourglass_flowing_sand.png
+   strings: !java.util.Arrays$ArrayList
+   - ':hourglass_flowing_sand:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: house
+   location: assets/Travel & Places/house.png
+   strings: !java.util.Arrays$ArrayList
+   - ':house:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: house_with_garden
+   location: assets/Travel & Places/house_with_garden.png
+   strings: !java.util.Arrays$ArrayList
+   - ':house_with_garden:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: hut
+   location: assets/Travel & Places/hut.png
+   strings: !java.util.Arrays$ArrayList
+   - ':hut:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: island
+   location: assets/Travel & Places/island.png
+   strings: !java.util.Arrays$ArrayList
+   - ':island:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: japan
+   location: assets/Travel & Places/japan.png
+   strings: !java.util.Arrays$ArrayList
+   - ':japan:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: japanese_castle
+   location: assets/Travel & Places/japanese_castle.png
+   strings: !java.util.Arrays$ArrayList
+   - ':japanese_castle:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: kaaba
+   location: assets/Travel & Places/kaaba.png
+   strings: !java.util.Arrays$ArrayList
+   - ':kaaba:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: last_quarter_moon
+   location: assets/Travel & Places/last_quarter_moon.png
+   strings: !java.util.Arrays$ArrayList
+   - ':last_quarter_moon:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: last_quarter_moon_with_face
+   location: assets/Travel & Places/last_quarter_moon_with_face.png
+   strings: !java.util.Arrays$ArrayList
+   - ':last_quarter_moon_with_face:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: light_rail
+   location: assets/Travel & Places/light_rail.png
+   strings: !java.util.Arrays$ArrayList
+   - ':light_rail:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: love_hotel
+   location: assets/Travel & Places/love_hotel.png
+   strings: !java.util.Arrays$ArrayList
+   - ':love_hotel:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: luggage
+   location: assets/Travel & Places/luggage.png
+   strings: !java.util.Arrays$ArrayList
+   - ':luggage:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: manual_wheelchair
+   location: assets/Travel & Places/manual_wheelchair.png
+   strings: !java.util.Arrays$ArrayList
+   - ':manual_wheelchair:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: map
+   location: assets/Travel & Places/map.png
+   strings: !java.util.Arrays$ArrayList
+   - ':map:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: metro
+   location: assets/Travel & Places/metro.png
+   strings: !java.util.Arrays$ArrayList
+   - ':metro:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: milk
+   location: assets/Travel & Places/milk.png
+   strings: !java.util.Arrays$ArrayList
+   - ':milk:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: milky_way
+   location: assets/Travel & Places/milky_way.png
+   strings: !java.util.Arrays$ArrayList
+   - ':milky_way:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: minibus
+   location: assets/Travel & Places/minibus.png
+   strings: !java.util.Arrays$ArrayList
+   - ':minibus:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: monorail
+   location: assets/Travel & Places/monorail.png
+   strings: !java.util.Arrays$ArrayList
+   - ':monorail:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: mosque
+   location: assets/Travel & Places/mosque.png
+   strings: !java.util.Arrays$ArrayList
+   - ':mosque:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: motorcycle
+   location: assets/Travel & Places/motorcycle.png
+   strings: !java.util.Arrays$ArrayList
+   - ':motorcycle:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: motorized_wheelchair
+   location: assets/Travel & Places/motorized_wheelchair.png
+   strings: !java.util.Arrays$ArrayList
+   - ':motorized_wheelchair:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: motorway
+   location: assets/Travel & Places/motorway.png
+   strings: !java.util.Arrays$ArrayList
+   - ':motorway:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: motor_scooter
+   location: assets/Travel & Places/motor_scooter.png
+   strings: !java.util.Arrays$ArrayList
+   - ':motor_scooter:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: mountain
+   location: assets/Travel & Places/mountain.png
+   strings: !java.util.Arrays$ArrayList
+   - ':mountain:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: mountain_cableway
+   location: assets/Travel & Places/mountain_cableway.png
+   strings: !java.util.Arrays$ArrayList
+   - ':mountain_cableway:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: mountain_railway
+   location: assets/Travel & Places/mountain_railway.png
+   strings: !java.util.Arrays$ArrayList
+   - ':mountain_railway:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: mount_fuji
+   location: assets/Travel & Places/mount_fuji.png
+   strings: !java.util.Arrays$ArrayList
+   - ':mount_fuji:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: new_moon
+   location: assets/Travel & Places/new_moon.png
+   strings: !java.util.Arrays$ArrayList
+   - ':new_moon:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: new_moon_with_face
+   location: assets/Travel & Places/new_moon_with_face.png
+   strings: !java.util.Arrays$ArrayList
+   - ':new_moon_with_face:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: night_with_stars
+   location: assets/Travel & Places/night_with_stars.png
+   strings: !java.util.Arrays$ArrayList
+   - ':night_with_stars:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: ocean
+   location: assets/Travel & Places/ocean.png
+   strings: !java.util.Arrays$ArrayList
+   - ':ocean:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: octagonal_sign
+   location: assets/Travel & Places/octagonal_sign.png
+   strings: !java.util.Arrays$ArrayList
+   - ':octagonal_sign:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: office
+   location: assets/Travel & Places/office.png
+   strings: !java.util.Arrays$ArrayList
+   - ':office:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: oncoming_automobile
+   location: assets/Travel & Places/oncoming_automobile.png
+   strings: !java.util.Arrays$ArrayList
+   - ':oncoming_automobile:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: oncoming_bus
+   location: assets/Travel & Places/oncoming_bus.png
+   strings: !java.util.Arrays$ArrayList
+   - ':oncoming_bus:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: oncoming_police_car
+   location: assets/Travel & Places/oncoming_police_car.png
+   strings: !java.util.Arrays$ArrayList
+   - ':oncoming_police_car:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: oncoming_taxi
+   location: assets/Travel & Places/oncoming_taxi.png
+   strings: !java.util.Arrays$ArrayList
+   - ':oncoming_taxi:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: parachute
+   location: assets/Travel & Places/parachute.png
+   strings: !java.util.Arrays$ArrayList
+   - ':parachute:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: partly_sunny
+   location: assets/Travel & Places/partly_sunny.png
+   strings: !java.util.Arrays$ArrayList
+   - ':partly_sunny:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: pickup_truck
+   location: assets/Travel & Places/pickup_truck.png
+   strings: !java.util.Arrays$ArrayList
+   - ':pickup_truck:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: playground_slide
+   location: assets/Travel & Places/playground_slide.png
+   strings: !java.util.Arrays$ArrayList
+   - ':playground_slide:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: police_car
+   location: assets/Travel & Places/police_car.png
+   strings: !java.util.Arrays$ArrayList
+   - ':police_car:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: post_office
+   location: assets/Travel & Places/post_office.png
+   strings: !java.util.Arrays$ArrayList
+   - ':post_office:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: railway_car
+   location: assets/Travel & Places/railway_car.png
+   strings: !java.util.Arrays$ArrayList
+   - ':railway_car:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: railway_track
+   location: assets/Travel & Places/railway_track.png
+   strings: !java.util.Arrays$ArrayList
+   - ':railway_track:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: rainbow
+   location: assets/Travel & Places/rainbow.png
+   strings: !java.util.Arrays$ArrayList
+   - ':rainbow:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: red_car
+   location: assets/Travel & Places/red_car.png
+   strings: !java.util.Arrays$ArrayList
+   - ':red_car:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: ringed_planet
+   location: assets/Travel & Places/ringed_planet.png
+   strings: !java.util.Arrays$ArrayList
+   - ':ringed_planet:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: ring_buoy
+   location: assets/Travel & Places/ring_buoy.png
+   strings: !java.util.Arrays$ArrayList
+   - ':ring_buoy:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: rock
+   location: assets/Travel & Places/rock.png
+   strings: !java.util.Arrays$ArrayList
+   - ':rock:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: rocket
+   location: assets/Travel & Places/rocket.png
+   strings: !java.util.Arrays$ArrayList
+   - ':rocket:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: roller_coaster
+   location: assets/Travel & Places/roller_coaster.png
+   strings: !java.util.Arrays$ArrayList
+   - ':roller_coaster:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: roller_skate
+   location: assets/Travel & Places/roller_skate.png
+   strings: !java.util.Arrays$ArrayList
+   - ':roller_skate:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: rotating_light
+   location: assets/Travel & Places/rotating_light.png
+   strings: !java.util.Arrays$ArrayList
+   - ':rotating_light:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: sailboat
+   location: assets/Travel & Places/sailboat.png
+   strings: !java.util.Arrays$ArrayList
+   - ':sailboat:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: satellite
+   location: assets/Travel & Places/satellite.png
+   strings: !java.util.Arrays$ArrayList
+   - ':satellite:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: school
+   location: assets/Travel & Places/school.png
+   strings: !java.util.Arrays$ArrayList
+   - ':school:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: scooter
+   location: assets/Travel & Places/scooter.png
+   strings: !java.util.Arrays$ArrayList
+   - ':scooter:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: seat
+   location: assets/Travel & Places/seat.png
+   strings: !java.util.Arrays$ArrayList
+   - ':seat:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: shinto_shrine
+   location: assets/Travel & Places/shinto_shrine.png
+   strings: !java.util.Arrays$ArrayList
+   - ':shinto_shrine:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: ship
+   location: assets/Travel & Places/ship.png
+   strings: !java.util.Arrays$ArrayList
+   - ':ship:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: skateboard
+   location: assets/Travel & Places/skateboard.png
+   strings: !java.util.Arrays$ArrayList
+   - ':skateboard:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: snowflake
+   location: assets/Travel & Places/snowflake.png
+   strings: !java.util.Arrays$ArrayList
+   - ':snowflake:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: snowman
+   location: assets/Travel & Places/snowman.png
+   strings: !java.util.Arrays$ArrayList
+   - ':snowman:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: speedboat
+   location: assets/Travel & Places/speedboat.png
+   strings: !java.util.Arrays$ArrayList
+   - ':speedboat:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: stadium
+   location: assets/Travel & Places/stadium.png
+   strings: !java.util.Arrays$ArrayList
+   - ':stadium:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: star
+   location: assets/Travel & Places/star.png
+   strings: !java.util.Arrays$ArrayList
+   - ':star:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: star2
+   location: assets/Travel & Places/star2.png
+   strings: !java.util.Arrays$ArrayList
+   - ':star2:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: stars
+   location: assets/Travel & Places/stars.png
+   strings: !java.util.Arrays$ArrayList
+   - ':stars:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: station
+   location: assets/Travel & Places/station.png
+   strings: !java.util.Arrays$ArrayList
+   - ':station:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: statue_of_liberty
+   location: assets/Travel & Places/statue_of_liberty.png
+   strings: !java.util.Arrays$ArrayList
+   - ':statue_of_liberty:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: steam_locomotive
+   location: assets/Travel & Places/steam_locomotive.png
+   strings: !java.util.Arrays$ArrayList
+   - ':steam_locomotive:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: stopwatch
+   location: assets/Travel & Places/stopwatch.png
+   strings: !java.util.Arrays$ArrayList
+   - ':stopwatch:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: sunny
+   location: assets/Travel & Places/sunny.png
+   strings: !java.util.Arrays$ArrayList
+   - ':sunny:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: sunrise
+   location: assets/Travel & Places/sunrise.png
+   strings: !java.util.Arrays$ArrayList
+   - ':sunrise:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: sunrise_over_mountains
+   location: assets/Travel & Places/sunrise_over_mountains.png
+   strings: !java.util.Arrays$ArrayList
+   - ':sunrise_over_mountains:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: sun_with_face
+   location: assets/Travel & Places/sun_with_face.png
+   strings: !java.util.Arrays$ArrayList
+   - ':sun_with_face:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: suspension_railway
+   location: assets/Travel & Places/suspension_railway.png
+   strings: !java.util.Arrays$ArrayList
+   - ':suspension_railway:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: synagogue
+   location: assets/Travel & Places/synagogue.png
+   strings: !java.util.Arrays$ArrayList
+   - ':synagogue:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: taxi
+   location: assets/Travel & Places/taxi.png
+   strings: !java.util.Arrays$ArrayList
+   - ':taxi:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: tent
+   location: assets/Travel & Places/tent.png
+   strings: !java.util.Arrays$ArrayList
+   - ':tent:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: thermometer
+   location: assets/Travel & Places/thermometer.png
+   strings: !java.util.Arrays$ArrayList
+   - ':thermometer:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: timer
+   location: assets/Travel & Places/timer.png
+   strings: !java.util.Arrays$ArrayList
+   - ':timer:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: tokyo_tower
+   location: assets/Travel & Places/tokyo_tower.png
+   strings: !java.util.Arrays$ArrayList
+   - ':tokyo_tower:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: tractor
+   location: assets/Travel & Places/tractor.png
+   strings: !java.util.Arrays$ArrayList
+   - ':tractor:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: traffic_light
+   location: assets/Travel & Places/traffic_light.png
+   strings: !java.util.Arrays$ArrayList
+   - ':traffic_light:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: train
+   location: assets/Travel & Places/train.png
+   strings: !java.util.Arrays$ArrayList
+   - ':train:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: train2
+   location: assets/Travel & Places/train2.png
+   strings: !java.util.Arrays$ArrayList
+   - ':train2:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: tram
+   location: assets/Travel & Places/tram.png
+   strings: !java.util.Arrays$ArrayList
+   - ':tram:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: trolleybus
+   location: assets/Travel & Places/trolleybus.png
+   strings: !java.util.Arrays$ArrayList
+   - ':trolleybus:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: truck
+   location: assets/Travel & Places/truck.png
+   strings: !java.util.Arrays$ArrayList
+   - ':truck:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: umbrella
+   location: assets/Travel & Places/umbrella.png
+   strings: !java.util.Arrays$ArrayList
+   - ':umbrella:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: vertical_traffic_light
+   location: assets/Travel & Places/vertical_traffic_light.png
+   strings: !java.util.Arrays$ArrayList
+   - ':vertical_traffic_light:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: volcano
+   location: assets/Travel & Places/volcano.png
+   strings: !java.util.Arrays$ArrayList
+   - ':volcano:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: waning_crescent_moon
+   location: assets/Travel & Places/waning_crescent_moon.png
+   strings: !java.util.Arrays$ArrayList
+   - ':waning_crescent_moon:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: waning_gibbous_moon
+   location: assets/Travel & Places/waning_gibbous_moon.png
+   strings: !java.util.Arrays$ArrayList
+   - ':waning_gibbous_moon:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: watch
+   location: assets/Travel & Places/watch.png
+   strings: !java.util.Arrays$ArrayList
+   - ':watch:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: waxing_crescent_moon
+   location: assets/Travel & Places/waxing_crescent_moon.png
+   strings: !java.util.Arrays$ArrayList
+   - ':waxing_crescent_moon:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: waxing_gibbous_moon
+   location: assets/Travel & Places/waxing_gibbous_moon.png
+   strings: !java.util.Arrays$ArrayList
+   - ':waxing_gibbous_moon:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: wedding
+   location: assets/Travel & Places/wedding.png
+   strings: !java.util.Arrays$ArrayList
+   - ':wedding:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: wheel
+   location: assets/Travel & Places/wheel.png
+   strings: !java.util.Arrays$ArrayList
+   - ':wheel:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: wind_blowing_face
+   location: assets/Travel & Places/wind_blowing_face.png
+   strings: !java.util.Arrays$ArrayList
+   - ':wind_blowing_face:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: wood
+   location: assets/Travel & Places/wood.png
+   strings: !java.util.Arrays$ArrayList
+   - ':wood:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: zap
+   location: assets/Travel & Places/zap.png
+   strings: !java.util.Arrays$ArrayList
+   - ':zap:'

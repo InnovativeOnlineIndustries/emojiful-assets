@@ -1,0 +1,785 @@
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: 100
+   location: assets/Smileys & Emotion/100.png
+   strings: !java.util.Arrays$ArrayList
+   - ':100:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: alien
+   location: assets/Smileys & Emotion/alien.png
+   strings: !java.util.Arrays$ArrayList
+   - ':alien:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: anger
+   location: assets/Smileys & Emotion/anger.png
+   strings: !java.util.Arrays$ArrayList
+   - ':anger:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: angry
+   location: assets/Smileys & Emotion/angry.png
+   strings: !java.util.Arrays$ArrayList
+   - ':angry:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: anguished
+   location: assets/Smileys & Emotion/anguished.png
+   strings: !java.util.Arrays$ArrayList
+   - ':anguished:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: astonished
+   location: assets/Smileys & Emotion/astonished.png
+   strings: !java.util.Arrays$ArrayList
+   - ':astonished:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: black_heart
+   location: assets/Smileys & Emotion/black_heart.png
+   strings: !java.util.Arrays$ArrayList
+   - ':black_heart:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: blue_heart
+   location: assets/Smileys & Emotion/blue_heart.png
+   strings: !java.util.Arrays$ArrayList
+   - ':blue_heart:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: blush
+   location: assets/Smileys & Emotion/blush.png
+   strings: !java.util.Arrays$ArrayList
+   - ':blush:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: boom
+   location: assets/Smileys & Emotion/boom.png
+   strings: !java.util.Arrays$ArrayList
+   - ':boom:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: broken_heart
+   location: assets/Smileys & Emotion/broken_heart.png
+   strings: !java.util.Arrays$ArrayList
+   - ':broken_heart:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: brown_heart
+   location: assets/Smileys & Emotion/brown_heart.png
+   strings: !java.util.Arrays$ArrayList
+   - ':brown_heart:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: clown
+   location: assets/Smileys & Emotion/clown.png
+   strings: !java.util.Arrays$ArrayList
+   - ':clown:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: cold_face
+   location: assets/Smileys & Emotion/cold_face.png
+   strings: !java.util.Arrays$ArrayList
+   - ':cold_face:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: cold_sweat
+   location: assets/Smileys & Emotion/cold_sweat.png
+   strings: !java.util.Arrays$ArrayList
+   - ':cold_sweat:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: confounded
+   location: assets/Smileys & Emotion/confounded.png
+   strings: !java.util.Arrays$ArrayList
+   - ':confounded:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: confused
+   location: assets/Smileys & Emotion/confused.png
+   strings: !java.util.Arrays$ArrayList
+   - ':confused:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: cowboy
+   location: assets/Smileys & Emotion/cowboy.png
+   strings: !java.util.Arrays$ArrayList
+   - ':cowboy:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: cry
+   location: assets/Smileys & Emotion/cry.png
+   strings: !java.util.Arrays$ArrayList
+   - ':cry:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: crying_cat_face
+   location: assets/Smileys & Emotion/crying_cat_face.png
+   strings: !java.util.Arrays$ArrayList
+   - ':crying_cat_face:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: cupid
+   location: assets/Smileys & Emotion/cupid.png
+   strings: !java.util.Arrays$ArrayList
+   - ':cupid:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: dash
+   location: assets/Smileys & Emotion/dash.png
+   strings: !java.util.Arrays$ArrayList
+   - ':dash:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: disappointed
+   location: assets/Smileys & Emotion/disappointed.png
+   strings: !java.util.Arrays$ArrayList
+   - ':disappointed:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: disappointed_relieved
+   location: assets/Smileys & Emotion/disappointed_relieved.png
+   strings: !java.util.Arrays$ArrayList
+   - ':disappointed_relieved:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: disguised_face
+   location: assets/Smileys & Emotion/disguised_face.png
+   strings: !java.util.Arrays$ArrayList
+   - ':disguised_face:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: dizzy
+   location: assets/Smileys & Emotion/dizzy.png
+   strings: !java.util.Arrays$ArrayList
+   - ':dizzy:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: dizzy_face
+   location: assets/Smileys & Emotion/dizzy_face.png
+   strings: !java.util.Arrays$ArrayList
+   - ':dizzy_face:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: dotted_line_face
+   location: assets/Smileys & Emotion/dotted_line_face.png
+   strings: !java.util.Arrays$ArrayList
+   - ':dotted_line_face:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: drooling_face
+   location: assets/Smileys & Emotion/drooling_face.png
+   strings: !java.util.Arrays$ArrayList
+   - ':drooling_face:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: exploding_head
+   location: assets/Smileys & Emotion/exploding_head.png
+   strings: !java.util.Arrays$ArrayList
+   - ':exploding_head:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: expressionless
+   location: assets/Smileys & Emotion/expressionless.png
+   strings: !java.util.Arrays$ArrayList
+   - ':expressionless:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: eye_in_speech_bubble
+   location: assets/Smileys & Emotion/eye_in_speech_bubble.png
+   strings: !java.util.Arrays$ArrayList
+   - ':eye_in_speech_bubble:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: face_exhaling
+   location: assets/Smileys & Emotion/face_exhaling.png
+   strings: !java.util.Arrays$ArrayList
+   - ':face_exhaling:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: face_holding_back_tears
+   location: assets/Smileys & Emotion/face_holding_back_tears.png
+   strings: !java.util.Arrays$ArrayList
+   - ':face_holding_back_tears:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: face_in_clouds
+   location: assets/Smileys & Emotion/face_in_clouds.png
+   strings: !java.util.Arrays$ArrayList
+   - ':face_in_clouds:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: face_vomiting
+   location: assets/Smileys & Emotion/face_vomiting.png
+   strings: !java.util.Arrays$ArrayList
+   - ':face_vomiting:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: face_with_diagonal_mouth
+   location: assets/Smileys & Emotion/face_with_diagonal_mouth.png
+   strings: !java.util.Arrays$ArrayList
+   - ':face_with_diagonal_mouth:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: face_with_hand_over_mouth
+   location: assets/Smileys & Emotion/face_with_hand_over_mouth.png
+   strings: !java.util.Arrays$ArrayList
+   - ':face_with_hand_over_mouth:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: face_with_monocle
+   location: assets/Smileys & Emotion/face_with_monocle.png
+   strings: !java.util.Arrays$ArrayList
+   - ':face_with_monocle:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: face_with_open_eyes_and_hand_over_mouth
+   location: assets/Smileys & Emotion/face_with_open_eyes_and_hand_over_mouth.png
+   strings: !java.util.Arrays$ArrayList
+   - ':face_with_open_eyes_and_hand_over_mouth:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: face_with_peeking_eye
+   location: assets/Smileys & Emotion/face_with_peeking_eye.png
+   strings: !java.util.Arrays$ArrayList
+   - ':face_with_peeking_eye:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: face_with_raised_eyebrow
+   location: assets/Smileys & Emotion/face_with_raised_eyebrow.png
+   strings: !java.util.Arrays$ArrayList
+   - ':face_with_raised_eyebrow:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: face_with_spiral_eyes
+   location: assets/Smileys & Emotion/face_with_spiral_eyes.png
+   strings: !java.util.Arrays$ArrayList
+   - ':face_with_spiral_eyes:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: fearful
+   location: assets/Smileys & Emotion/fearful.png
+   strings: !java.util.Arrays$ArrayList
+   - ':fearful:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flushed
+   location: assets/Smileys & Emotion/flushed.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flushed:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: frowning
+   location: assets/Smileys & Emotion/frowning.png
+   strings: !java.util.Arrays$ArrayList
+   - ':frowning:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: ghost
+   location: assets/Smileys & Emotion/ghost.png
+   strings: !java.util.Arrays$ArrayList
+   - ':ghost:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: gift_heart
+   location: assets/Smileys & Emotion/gift_heart.png
+   strings: !java.util.Arrays$ArrayList
+   - ':gift_heart:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: green_heart
+   location: assets/Smileys & Emotion/green_heart.png
+   strings: !java.util.Arrays$ArrayList
+   - ':green_heart:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: grey_heart
+   location: assets/Smileys & Emotion/grey_heart.png
+   strings: !java.util.Arrays$ArrayList
+   - ':grey_heart:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: grimacing
+   location: assets/Smileys & Emotion/grimacing.png
+   strings: !java.util.Arrays$ArrayList
+   - ':grimacing:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: grin
+   location: assets/Smileys & Emotion/grin.png
+   strings: !java.util.Arrays$ArrayList
+   - ':grin:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: grinning
+   location: assets/Smileys & Emotion/grinning.png
+   strings: !java.util.Arrays$ArrayList
+   - ':grinning:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: head_bandage
+   location: assets/Smileys & Emotion/head_bandage.png
+   strings: !java.util.Arrays$ArrayList
+   - ':head_bandage:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: heart
+   location: assets/Smileys & Emotion/heart.png
+   strings: !java.util.Arrays$ArrayList
+   - ':heart:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: heartbeat
+   location: assets/Smileys & Emotion/heartbeat.png
+   strings: !java.util.Arrays$ArrayList
+   - ':heartbeat:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: heartpulse
+   location: assets/Smileys & Emotion/heartpulse.png
+   strings: !java.util.Arrays$ArrayList
+   - ':heartpulse:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: heart_decoration
+   location: assets/Smileys & Emotion/heart_decoration.png
+   strings: !java.util.Arrays$ArrayList
+   - ':heart_decoration:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: heart_exclamation
+   location: assets/Smileys & Emotion/heart_exclamation.png
+   strings: !java.util.Arrays$ArrayList
+   - ':heart_exclamation:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: heart_eyes
+   location: assets/Smileys & Emotion/heart_eyes.png
+   strings: !java.util.Arrays$ArrayList
+   - ':heart_eyes:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: heart_eyes_cat
+   location: assets/Smileys & Emotion/heart_eyes_cat.png
+   strings: !java.util.Arrays$ArrayList
+   - ':heart_eyes_cat:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: heart_on_fire
+   location: assets/Smileys & Emotion/heart_on_fire.png
+   strings: !java.util.Arrays$ArrayList
+   - ':heart_on_fire:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: hear_no_evil
+   location: assets/Smileys & Emotion/hear_no_evil.png
+   strings: !java.util.Arrays$ArrayList
+   - ':hear_no_evil:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: hole
+   location: assets/Smileys & Emotion/hole.png
+   strings: !java.util.Arrays$ArrayList
+   - ':hole:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: hot_face
+   location: assets/Smileys & Emotion/hot_face.png
+   strings: !java.util.Arrays$ArrayList
+   - ':hot_face:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: hugging
+   location: assets/Smileys & Emotion/hugging.png
+   strings: !java.util.Arrays$ArrayList
+   - ':hugging:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: hushed
+   location: assets/Smileys & Emotion/hushed.png
+   strings: !java.util.Arrays$ArrayList
+   - ':hushed:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: imp
+   location: assets/Smileys & Emotion/imp.png
+   strings: !java.util.Arrays$ArrayList
+   - ':imp:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: innocent
+   location: assets/Smileys & Emotion/innocent.png
+   strings: !java.util.Arrays$ArrayList
+   - ':innocent:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: japanese_goblin
+   location: assets/Smileys & Emotion/japanese_goblin.png
+   strings: !java.util.Arrays$ArrayList
+   - ':japanese_goblin:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: japanese_ogre
+   location: assets/Smileys & Emotion/japanese_ogre.png
+   strings: !java.util.Arrays$ArrayList
+   - ':japanese_ogre:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: joy
+   location: assets/Smileys & Emotion/joy.png
+   strings: !java.util.Arrays$ArrayList
+   - ':joy:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: joy_cat
+   location: assets/Smileys & Emotion/joy_cat.png
+   strings: !java.util.Arrays$ArrayList
+   - ':joy_cat:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: kiss
+   location: assets/Smileys & Emotion/kiss.png
+   strings: !java.util.Arrays$ArrayList
+   - ':kiss:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: kissing
+   location: assets/Smileys & Emotion/kissing.png
+   strings: !java.util.Arrays$ArrayList
+   - ':kissing:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: kissing_cat
+   location: assets/Smileys & Emotion/kissing_cat.png
+   strings: !java.util.Arrays$ArrayList
+   - ':kissing_cat:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: kissing_closed_eyes
+   location: assets/Smileys & Emotion/kissing_closed_eyes.png
+   strings: !java.util.Arrays$ArrayList
+   - ':kissing_closed_eyes:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: kissing_heart
+   location: assets/Smileys & Emotion/kissing_heart.png
+   strings: !java.util.Arrays$ArrayList
+   - ':kissing_heart:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: kissing_smiling_eyes
+   location: assets/Smileys & Emotion/kissing_smiling_eyes.png
+   strings: !java.util.Arrays$ArrayList
+   - ':kissing_smiling_eyes:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: laughing
+   location: assets/Smileys & Emotion/laughing.png
+   strings: !java.util.Arrays$ArrayList
+   - ':laughing:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: light_blue_heart
+   location: assets/Smileys & Emotion/light_blue_heart.png
+   strings: !java.util.Arrays$ArrayList
+   - ':light_blue_heart:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: love_letter
+   location: assets/Smileys & Emotion/love_letter.png
+   strings: !java.util.Arrays$ArrayList
+   - ':love_letter:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: lying_face
+   location: assets/Smileys & Emotion/lying_face.png
+   strings: !java.util.Arrays$ArrayList
+   - ':lying_face:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: mask
+   location: assets/Smileys & Emotion/mask.png
+   strings: !java.util.Arrays$ArrayList
+   - ':mask:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: melting_face
+   location: assets/Smileys & Emotion/melting_face.png
+   strings: !java.util.Arrays$ArrayList
+   - ':melting_face:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: mending_heart
+   location: assets/Smileys & Emotion/mending_heart.png
+   strings: !java.util.Arrays$ArrayList
+   - ':mending_heart:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: money_mouth
+   location: assets/Smileys & Emotion/money_mouth.png
+   strings: !java.util.Arrays$ArrayList
+   - ':money_mouth:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: nauseated_face
+   location: assets/Smileys & Emotion/nauseated_face.png
+   strings: !java.util.Arrays$ArrayList
+   - ':nauseated_face:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: nerd
+   location: assets/Smileys & Emotion/nerd.png
+   strings: !java.util.Arrays$ArrayList
+   - ':nerd:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: neutral_face
+   location: assets/Smileys & Emotion/neutral_face.png
+   strings: !java.util.Arrays$ArrayList
+   - ':neutral_face:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: no_mouth
+   location: assets/Smileys & Emotion/no_mouth.png
+   strings: !java.util.Arrays$ArrayList
+   - ':no_mouth:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: open_mouth
+   location: assets/Smileys & Emotion/open_mouth.png
+   strings: !java.util.Arrays$ArrayList
+   - ':open_mouth:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: orange_heart
+   location: assets/Smileys & Emotion/orange_heart.png
+   strings: !java.util.Arrays$ArrayList
+   - ':orange_heart:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: partying_face
+   location: assets/Smileys & Emotion/partying_face.png
+   strings: !java.util.Arrays$ArrayList
+   - ':partying_face:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: pensive
+   location: assets/Smileys & Emotion/pensive.png
+   strings: !java.util.Arrays$ArrayList
+   - ':pensive:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: persevere
+   location: assets/Smileys & Emotion/persevere.png
+   strings: !java.util.Arrays$ArrayList
+   - ':persevere:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: pink_heart
+   location: assets/Smileys & Emotion/pink_heart.png
+   strings: !java.util.Arrays$ArrayList
+   - ':pink_heart:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: pleading_face
+   location: assets/Smileys & Emotion/pleading_face.png
+   strings: !java.util.Arrays$ArrayList
+   - ':pleading_face:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: poop
+   location: assets/Smileys & Emotion/poop.png
+   strings: !java.util.Arrays$ArrayList
+   - ':poop:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: pouting_cat
+   location: assets/Smileys & Emotion/pouting_cat.png
+   strings: !java.util.Arrays$ArrayList
+   - ':pouting_cat:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: purple_heart
+   location: assets/Smileys & Emotion/purple_heart.png
+   strings: !java.util.Arrays$ArrayList
+   - ':purple_heart:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: rage
+   location: assets/Smileys & Emotion/rage.png
+   strings: !java.util.Arrays$ArrayList
+   - ':rage:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: relaxed
+   location: assets/Smileys & Emotion/relaxed.png
+   strings: !java.util.Arrays$ArrayList
+   - ':relaxed:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: relieved
+   location: assets/Smileys & Emotion/relieved.png
+   strings: !java.util.Arrays$ArrayList
+   - ':relieved:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: revolving_hearts
+   location: assets/Smileys & Emotion/revolving_hearts.png
+   strings: !java.util.Arrays$ArrayList
+   - ':revolving_hearts:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: robot
+   location: assets/Smileys & Emotion/robot.png
+   strings: !java.util.Arrays$ArrayList
+   - ':robot:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: rolling_eyes
+   location: assets/Smileys & Emotion/rolling_eyes.png
+   strings: !java.util.Arrays$ArrayList
+   - ':rolling_eyes:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: saluting_face
+   location: assets/Smileys & Emotion/saluting_face.png
+   strings: !java.util.Arrays$ArrayList
+   - ':saluting_face:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: scream
+   location: assets/Smileys & Emotion/scream.png
+   strings: !java.util.Arrays$ArrayList
+   - ':scream:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: scream_cat
+   location: assets/Smileys & Emotion/scream_cat.png
+   strings: !java.util.Arrays$ArrayList
+   - ':scream_cat:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: see_no_evil
+   location: assets/Smileys & Emotion/see_no_evil.png
+   strings: !java.util.Arrays$ArrayList
+   - ':see_no_evil:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: shaking_face
+   location: assets/Smileys & Emotion/shaking_face.png
+   strings: !java.util.Arrays$ArrayList
+   - ':shaking_face:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: shushing_face
+   location: assets/Smileys & Emotion/shushing_face.png
+   strings: !java.util.Arrays$ArrayList
+   - ':shushing_face:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: skull
+   location: assets/Smileys & Emotion/skull.png
+   strings: !java.util.Arrays$ArrayList
+   - ':skull:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: sleeping
+   location: assets/Smileys & Emotion/sleeping.png
+   strings: !java.util.Arrays$ArrayList
+   - ':sleeping:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: sleepy
+   location: assets/Smileys & Emotion/sleepy.png
+   strings: !java.util.Arrays$ArrayList
+   - ':sleepy:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: smile
+   location: assets/Smileys & Emotion/smile.png
+   strings: !java.util.Arrays$ArrayList
+   - ':smile:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: smiley
+   location: assets/Smileys & Emotion/smiley.png
+   strings: !java.util.Arrays$ArrayList
+   - ':smiley:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: smiley_cat
+   location: assets/Smileys & Emotion/smiley_cat.png
+   strings: !java.util.Arrays$ArrayList
+   - ':smiley_cat:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: smile_cat
+   location: assets/Smileys & Emotion/smile_cat.png
+   strings: !java.util.Arrays$ArrayList
+   - ':smile_cat:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: smiling_face_with_3_hearts
+   location: assets/Smileys & Emotion/smiling_face_with_3_hearts.png
+   strings: !java.util.Arrays$ArrayList
+   - ':smiling_face_with_3_hearts:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: smiling_face_with_tear
+   location: assets/Smileys & Emotion/smiling_face_with_tear.png
+   strings: !java.util.Arrays$ArrayList
+   - ':smiling_face_with_tear:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: smiling_imp
+   location: assets/Smileys & Emotion/smiling_imp.png
+   strings: !java.util.Arrays$ArrayList
+   - ':smiling_imp:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: smirk
+   location: assets/Smileys & Emotion/smirk.png
+   strings: !java.util.Arrays$ArrayList
+   - ':smirk:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: smirk_cat
+   location: assets/Smileys & Emotion/smirk_cat.png
+   strings: !java.util.Arrays$ArrayList
+   - ':smirk_cat:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: sneezing_face
+   location: assets/Smileys & Emotion/sneezing_face.png
+   strings: !java.util.Arrays$ArrayList
+   - ':sneezing_face:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: sob
+   location: assets/Smileys & Emotion/sob.png
+   strings: !java.util.Arrays$ArrayList
+   - ':sob:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: space_invader
+   location: assets/Smileys & Emotion/space_invader.png
+   strings: !java.util.Arrays$ArrayList
+   - ':space_invader:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: sparkling_heart
+   location: assets/Smileys & Emotion/sparkling_heart.png
+   strings: !java.util.Arrays$ArrayList
+   - ':sparkling_heart:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: speak_no_evil
+   location: assets/Smileys & Emotion/speak_no_evil.png
+   strings: !java.util.Arrays$ArrayList
+   - ':speak_no_evil:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: speech_balloon
+   location: assets/Smileys & Emotion/speech_balloon.png
+   strings: !java.util.Arrays$ArrayList
+   - ':speech_balloon:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: star_struck
+   location: assets/Smileys & Emotion/star_struck.png
+   strings: !java.util.Arrays$ArrayList
+   - ':star_struck:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: stuck_out_tongue
+   location: assets/Smileys & Emotion/stuck_out_tongue.png
+   strings: !java.util.Arrays$ArrayList
+   - ':stuck_out_tongue:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: stuck_out_tongue_closed_eyes
+   location: assets/Smileys & Emotion/stuck_out_tongue_closed_eyes.png
+   strings: !java.util.Arrays$ArrayList
+   - ':stuck_out_tongue_closed_eyes:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: stuck_out_tongue_winking_eye
+   location: assets/Smileys & Emotion/stuck_out_tongue_winking_eye.png
+   strings: !java.util.Arrays$ArrayList
+   - ':stuck_out_tongue_winking_eye:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: sunglasses
+   location: assets/Smileys & Emotion/sunglasses.png
+   strings: !java.util.Arrays$ArrayList
+   - ':sunglasses:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: sweat
+   location: assets/Smileys & Emotion/sweat.png
+   strings: !java.util.Arrays$ArrayList
+   - ':sweat:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: sweat_drops
+   location: assets/Smileys & Emotion/sweat_drops.png
+   strings: !java.util.Arrays$ArrayList
+   - ':sweat_drops:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: sweat_smile
+   location: assets/Smileys & Emotion/sweat_smile.png
+   strings: !java.util.Arrays$ArrayList
+   - ':sweat_smile:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: thinking
+   location: assets/Smileys & Emotion/thinking.png
+   strings: !java.util.Arrays$ArrayList
+   - ':thinking:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: thought_balloon
+   location: assets/Smileys & Emotion/thought_balloon.png
+   strings: !java.util.Arrays$ArrayList
+   - ':thought_balloon:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: tired_face
+   location: assets/Smileys & Emotion/tired_face.png
+   strings: !java.util.Arrays$ArrayList
+   - ':tired_face:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: triumph
+   location: assets/Smileys & Emotion/triumph.png
+   strings: !java.util.Arrays$ArrayList
+   - ':triumph:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: two_hearts
+   location: assets/Smileys & Emotion/two_hearts.png
+   strings: !java.util.Arrays$ArrayList
+   - ':two_hearts:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: unamused
+   location: assets/Smileys & Emotion/unamused.png
+   strings: !java.util.Arrays$ArrayList
+   - ':unamused:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: upside_down
+   location: assets/Smileys & Emotion/upside_down.png
+   strings: !java.util.Arrays$ArrayList
+   - ':upside_down:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: weary
+   location: assets/Smileys & Emotion/weary.png
+   strings: !java.util.Arrays$ArrayList
+   - ':weary:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: white_heart
+   location: assets/Smileys & Emotion/white_heart.png
+   strings: !java.util.Arrays$ArrayList
+   - ':white_heart:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: wink
+   location: assets/Smileys & Emotion/wink.png
+   strings: !java.util.Arrays$ArrayList
+   - ':wink:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: woozy_face
+   location: assets/Smileys & Emotion/woozy_face.png
+   strings: !java.util.Arrays$ArrayList
+   - ':woozy_face:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: worried
+   location: assets/Smileys & Emotion/worried.png
+   strings: !java.util.Arrays$ArrayList
+   - ':worried:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: yawning_face
+   location: assets/Smileys & Emotion/yawning_face.png
+   strings: !java.util.Arrays$ArrayList
+   - ':yawning_face:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: yellow_heart
+   location: assets/Smileys & Emotion/yellow_heart.png
+   strings: !java.util.Arrays$ArrayList
+   - ':yellow_heart:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: yum
+   location: assets/Smileys & Emotion/yum.png
+   strings: !java.util.Arrays$ArrayList
+   - ':yum:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: zany_face
+   location: assets/Smileys & Emotion/zany_face.png
+   strings: !java.util.Arrays$ArrayList
+   - ':zany_face:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: zipper_mouth
+   location: assets/Smileys & Emotion/zipper_mouth.png
+   strings: !java.util.Arrays$ArrayList
+   - ':zipper_mouth:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: zzz
+   location: assets/Smileys & Emotion/zzz.png
+   strings: !java.util.Arrays$ArrayList
+   - ':zzz:'

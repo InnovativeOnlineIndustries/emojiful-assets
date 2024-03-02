@@ -1,0 +1,1330 @@
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: checkered_flag
+   location: assets/Flags/checkered_flag.png
+   strings: !java.util.Arrays$ArrayList
+   - ':checkered_flag:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: crossed_flags
+   location: assets/Flags/crossed_flags.png
+   strings: !java.util.Arrays$ArrayList
+   - ':crossed_flags:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: england
+   location: assets/Flags/england.png
+   strings: !java.util.Arrays$ArrayList
+   - ':england:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_ac
+   location: assets/Flags/flag_ac.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_ac:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_ad
+   location: assets/Flags/flag_ad.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_ad:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_ae
+   location: assets/Flags/flag_ae.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_ae:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_af
+   location: assets/Flags/flag_af.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_af:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_ag
+   location: assets/Flags/flag_ag.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_ag:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_ai
+   location: assets/Flags/flag_ai.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_ai:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_al
+   location: assets/Flags/flag_al.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_al:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_am
+   location: assets/Flags/flag_am.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_am:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_ao
+   location: assets/Flags/flag_ao.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_ao:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_aq
+   location: assets/Flags/flag_aq.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_aq:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_ar
+   location: assets/Flags/flag_ar.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_ar:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_as
+   location: assets/Flags/flag_as.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_as:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_at
+   location: assets/Flags/flag_at.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_at:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_au
+   location: assets/Flags/flag_au.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_au:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_aw
+   location: assets/Flags/flag_aw.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_aw:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_ax
+   location: assets/Flags/flag_ax.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_ax:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_az
+   location: assets/Flags/flag_az.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_az:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_ba
+   location: assets/Flags/flag_ba.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_ba:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_bb
+   location: assets/Flags/flag_bb.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_bb:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_bd
+   location: assets/Flags/flag_bd.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_bd:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_be
+   location: assets/Flags/flag_be.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_be:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_bf
+   location: assets/Flags/flag_bf.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_bf:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_bg
+   location: assets/Flags/flag_bg.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_bg:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_bh
+   location: assets/Flags/flag_bh.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_bh:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_bi
+   location: assets/Flags/flag_bi.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_bi:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_bj
+   location: assets/Flags/flag_bj.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_bj:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_bl
+   location: assets/Flags/flag_bl.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_bl:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_bm
+   location: assets/Flags/flag_bm.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_bm:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_bn
+   location: assets/Flags/flag_bn.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_bn:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_bo
+   location: assets/Flags/flag_bo.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_bo:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_bq
+   location: assets/Flags/flag_bq.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_bq:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_br
+   location: assets/Flags/flag_br.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_br:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_bs
+   location: assets/Flags/flag_bs.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_bs:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_bt
+   location: assets/Flags/flag_bt.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_bt:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_bv
+   location: assets/Flags/flag_bv.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_bv:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_bw
+   location: assets/Flags/flag_bw.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_bw:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_by
+   location: assets/Flags/flag_by.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_by:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_bz
+   location: assets/Flags/flag_bz.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_bz:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_ca
+   location: assets/Flags/flag_ca.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_ca:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_cc
+   location: assets/Flags/flag_cc.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_cc:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_cd
+   location: assets/Flags/flag_cd.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_cd:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_cf
+   location: assets/Flags/flag_cf.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_cf:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_cg
+   location: assets/Flags/flag_cg.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_cg:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_ch
+   location: assets/Flags/flag_ch.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_ch:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_ci
+   location: assets/Flags/flag_ci.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_ci:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_ck
+   location: assets/Flags/flag_ck.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_ck:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_cl
+   location: assets/Flags/flag_cl.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_cl:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_cm
+   location: assets/Flags/flag_cm.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_cm:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_cn
+   location: assets/Flags/flag_cn.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_cn:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_co
+   location: assets/Flags/flag_co.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_co:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_cp
+   location: assets/Flags/flag_cp.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_cp:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_cr
+   location: assets/Flags/flag_cr.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_cr:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_cu
+   location: assets/Flags/flag_cu.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_cu:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_cv
+   location: assets/Flags/flag_cv.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_cv:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_cw
+   location: assets/Flags/flag_cw.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_cw:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_cx
+   location: assets/Flags/flag_cx.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_cx:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_cy
+   location: assets/Flags/flag_cy.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_cy:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_cz
+   location: assets/Flags/flag_cz.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_cz:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_de
+   location: assets/Flags/flag_de.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_de:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_dg
+   location: assets/Flags/flag_dg.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_dg:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_dj
+   location: assets/Flags/flag_dj.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_dj:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_dk
+   location: assets/Flags/flag_dk.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_dk:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_dm
+   location: assets/Flags/flag_dm.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_dm:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_do
+   location: assets/Flags/flag_do.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_do:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_dz
+   location: assets/Flags/flag_dz.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_dz:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_ea
+   location: assets/Flags/flag_ea.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_ea:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_ec
+   location: assets/Flags/flag_ec.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_ec:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_ee
+   location: assets/Flags/flag_ee.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_ee:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_eg
+   location: assets/Flags/flag_eg.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_eg:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_eh
+   location: assets/Flags/flag_eh.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_eh:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_er
+   location: assets/Flags/flag_er.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_er:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_es
+   location: assets/Flags/flag_es.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_es:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_et
+   location: assets/Flags/flag_et.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_et:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_eu
+   location: assets/Flags/flag_eu.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_eu:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_fi
+   location: assets/Flags/flag_fi.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_fi:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_fj
+   location: assets/Flags/flag_fj.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_fj:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_fk
+   location: assets/Flags/flag_fk.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_fk:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_fm
+   location: assets/Flags/flag_fm.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_fm:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_fo
+   location: assets/Flags/flag_fo.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_fo:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_fr
+   location: assets/Flags/flag_fr.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_fr:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_ga
+   location: assets/Flags/flag_ga.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_ga:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_gb
+   location: assets/Flags/flag_gb.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_gb:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_gd
+   location: assets/Flags/flag_gd.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_gd:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_ge
+   location: assets/Flags/flag_ge.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_ge:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_gf
+   location: assets/Flags/flag_gf.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_gf:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_gg
+   location: assets/Flags/flag_gg.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_gg:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_gh
+   location: assets/Flags/flag_gh.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_gh:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_gi
+   location: assets/Flags/flag_gi.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_gi:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_gl
+   location: assets/Flags/flag_gl.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_gl:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_gm
+   location: assets/Flags/flag_gm.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_gm:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_gn
+   location: assets/Flags/flag_gn.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_gn:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_gp
+   location: assets/Flags/flag_gp.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_gp:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_gq
+   location: assets/Flags/flag_gq.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_gq:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_gr
+   location: assets/Flags/flag_gr.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_gr:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_gs
+   location: assets/Flags/flag_gs.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_gs:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_gt
+   location: assets/Flags/flag_gt.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_gt:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_gu
+   location: assets/Flags/flag_gu.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_gu:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_gw
+   location: assets/Flags/flag_gw.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_gw:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_gy
+   location: assets/Flags/flag_gy.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_gy:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_hk
+   location: assets/Flags/flag_hk.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_hk:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_hm
+   location: assets/Flags/flag_hm.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_hm:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_hn
+   location: assets/Flags/flag_hn.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_hn:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_hr
+   location: assets/Flags/flag_hr.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_hr:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_ht
+   location: assets/Flags/flag_ht.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_ht:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_hu
+   location: assets/Flags/flag_hu.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_hu:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_ic
+   location: assets/Flags/flag_ic.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_ic:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_id
+   location: assets/Flags/flag_id.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_id:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_ie
+   location: assets/Flags/flag_ie.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_ie:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_il
+   location: assets/Flags/flag_il.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_il:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_im
+   location: assets/Flags/flag_im.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_im:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_in
+   location: assets/Flags/flag_in.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_in:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_io
+   location: assets/Flags/flag_io.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_io:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_iq
+   location: assets/Flags/flag_iq.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_iq:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_ir
+   location: assets/Flags/flag_ir.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_ir:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_is
+   location: assets/Flags/flag_is.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_is:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_it
+   location: assets/Flags/flag_it.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_it:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_je
+   location: assets/Flags/flag_je.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_je:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_jm
+   location: assets/Flags/flag_jm.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_jm:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_jo
+   location: assets/Flags/flag_jo.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_jo:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_jp
+   location: assets/Flags/flag_jp.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_jp:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_ke
+   location: assets/Flags/flag_ke.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_ke:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_kg
+   location: assets/Flags/flag_kg.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_kg:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_kh
+   location: assets/Flags/flag_kh.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_kh:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_ki
+   location: assets/Flags/flag_ki.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_ki:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_km
+   location: assets/Flags/flag_km.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_km:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_kn
+   location: assets/Flags/flag_kn.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_kn:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_kp
+   location: assets/Flags/flag_kp.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_kp:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_kr
+   location: assets/Flags/flag_kr.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_kr:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_kw
+   location: assets/Flags/flag_kw.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_kw:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_ky
+   location: assets/Flags/flag_ky.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_ky:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_kz
+   location: assets/Flags/flag_kz.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_kz:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_la
+   location: assets/Flags/flag_la.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_la:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_lb
+   location: assets/Flags/flag_lb.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_lb:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_lc
+   location: assets/Flags/flag_lc.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_lc:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_li
+   location: assets/Flags/flag_li.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_li:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_lk
+   location: assets/Flags/flag_lk.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_lk:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_lr
+   location: assets/Flags/flag_lr.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_lr:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_ls
+   location: assets/Flags/flag_ls.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_ls:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_lt
+   location: assets/Flags/flag_lt.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_lt:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_lu
+   location: assets/Flags/flag_lu.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_lu:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_lv
+   location: assets/Flags/flag_lv.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_lv:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_ly
+   location: assets/Flags/flag_ly.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_ly:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_ma
+   location: assets/Flags/flag_ma.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_ma:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_mc
+   location: assets/Flags/flag_mc.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_mc:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_md
+   location: assets/Flags/flag_md.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_md:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_me
+   location: assets/Flags/flag_me.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_me:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_mf
+   location: assets/Flags/flag_mf.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_mf:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_mg
+   location: assets/Flags/flag_mg.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_mg:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_mh
+   location: assets/Flags/flag_mh.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_mh:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_mk
+   location: assets/Flags/flag_mk.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_mk:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_ml
+   location: assets/Flags/flag_ml.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_ml:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_mm
+   location: assets/Flags/flag_mm.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_mm:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_mn
+   location: assets/Flags/flag_mn.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_mn:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_mo
+   location: assets/Flags/flag_mo.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_mo:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_mp
+   location: assets/Flags/flag_mp.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_mp:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_mq
+   location: assets/Flags/flag_mq.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_mq:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_mr
+   location: assets/Flags/flag_mr.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_mr:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_ms
+   location: assets/Flags/flag_ms.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_ms:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_mt
+   location: assets/Flags/flag_mt.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_mt:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_mu
+   location: assets/Flags/flag_mu.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_mu:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_mv
+   location: assets/Flags/flag_mv.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_mv:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_mw
+   location: assets/Flags/flag_mw.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_mw:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_mx
+   location: assets/Flags/flag_mx.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_mx:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_my
+   location: assets/Flags/flag_my.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_my:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_mz
+   location: assets/Flags/flag_mz.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_mz:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_na
+   location: assets/Flags/flag_na.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_na:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_nc
+   location: assets/Flags/flag_nc.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_nc:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_ne
+   location: assets/Flags/flag_ne.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_ne:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_nf
+   location: assets/Flags/flag_nf.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_nf:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_ng
+   location: assets/Flags/flag_ng.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_ng:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_ni
+   location: assets/Flags/flag_ni.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_ni:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_nl
+   location: assets/Flags/flag_nl.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_nl:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_no
+   location: assets/Flags/flag_no.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_no:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_np
+   location: assets/Flags/flag_np.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_np:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_nr
+   location: assets/Flags/flag_nr.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_nr:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_nu
+   location: assets/Flags/flag_nu.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_nu:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_nz
+   location: assets/Flags/flag_nz.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_nz:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_om
+   location: assets/Flags/flag_om.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_om:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_pa
+   location: assets/Flags/flag_pa.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_pa:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_pe
+   location: assets/Flags/flag_pe.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_pe:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_pf
+   location: assets/Flags/flag_pf.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_pf:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_pg
+   location: assets/Flags/flag_pg.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_pg:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_ph
+   location: assets/Flags/flag_ph.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_ph:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_pk
+   location: assets/Flags/flag_pk.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_pk:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_pl
+   location: assets/Flags/flag_pl.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_pl:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_pm
+   location: assets/Flags/flag_pm.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_pm:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_pn
+   location: assets/Flags/flag_pn.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_pn:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_pr
+   location: assets/Flags/flag_pr.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_pr:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_ps
+   location: assets/Flags/flag_ps.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_ps:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_pt
+   location: assets/Flags/flag_pt.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_pt:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_pw
+   location: assets/Flags/flag_pw.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_pw:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_py
+   location: assets/Flags/flag_py.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_py:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_qa
+   location: assets/Flags/flag_qa.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_qa:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_re
+   location: assets/Flags/flag_re.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_re:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_ro
+   location: assets/Flags/flag_ro.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_ro:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_rs
+   location: assets/Flags/flag_rs.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_rs:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_ru
+   location: assets/Flags/flag_ru.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_ru:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_rw
+   location: assets/Flags/flag_rw.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_rw:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_sa
+   location: assets/Flags/flag_sa.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_sa:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_sb
+   location: assets/Flags/flag_sb.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_sb:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_sc
+   location: assets/Flags/flag_sc.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_sc:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_sd
+   location: assets/Flags/flag_sd.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_sd:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_se
+   location: assets/Flags/flag_se.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_se:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_sg
+   location: assets/Flags/flag_sg.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_sg:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_sh
+   location: assets/Flags/flag_sh.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_sh:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_si
+   location: assets/Flags/flag_si.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_si:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_sj
+   location: assets/Flags/flag_sj.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_sj:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_sk
+   location: assets/Flags/flag_sk.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_sk:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_sl
+   location: assets/Flags/flag_sl.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_sl:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_sm
+   location: assets/Flags/flag_sm.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_sm:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_sn
+   location: assets/Flags/flag_sn.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_sn:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_so
+   location: assets/Flags/flag_so.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_so:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_sr
+   location: assets/Flags/flag_sr.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_sr:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_ss
+   location: assets/Flags/flag_ss.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_ss:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_st
+   location: assets/Flags/flag_st.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_st:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_sv
+   location: assets/Flags/flag_sv.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_sv:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_sx
+   location: assets/Flags/flag_sx.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_sx:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_sy
+   location: assets/Flags/flag_sy.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_sy:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_sz
+   location: assets/Flags/flag_sz.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_sz:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_ta
+   location: assets/Flags/flag_ta.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_ta:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_tc
+   location: assets/Flags/flag_tc.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_tc:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_td
+   location: assets/Flags/flag_td.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_td:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_tf
+   location: assets/Flags/flag_tf.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_tf:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_tg
+   location: assets/Flags/flag_tg.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_tg:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_th
+   location: assets/Flags/flag_th.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_th:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_tj
+   location: assets/Flags/flag_tj.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_tj:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_tk
+   location: assets/Flags/flag_tk.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_tk:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_tl
+   location: assets/Flags/flag_tl.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_tl:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_tm
+   location: assets/Flags/flag_tm.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_tm:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_tn
+   location: assets/Flags/flag_tn.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_tn:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_to
+   location: assets/Flags/flag_to.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_to:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_tr
+   location: assets/Flags/flag_tr.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_tr:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_tt
+   location: assets/Flags/flag_tt.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_tt:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_tv
+   location: assets/Flags/flag_tv.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_tv:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_tw
+   location: assets/Flags/flag_tw.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_tw:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_tz
+   location: assets/Flags/flag_tz.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_tz:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_ua
+   location: assets/Flags/flag_ua.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_ua:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_ug
+   location: assets/Flags/flag_ug.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_ug:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_um
+   location: assets/Flags/flag_um.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_um:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_us
+   location: assets/Flags/flag_us.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_us:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_uy
+   location: assets/Flags/flag_uy.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_uy:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_uz
+   location: assets/Flags/flag_uz.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_uz:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_va
+   location: assets/Flags/flag_va.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_va:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_vc
+   location: assets/Flags/flag_vc.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_vc:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_ve
+   location: assets/Flags/flag_ve.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_ve:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_vg
+   location: assets/Flags/flag_vg.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_vg:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_vi
+   location: assets/Flags/flag_vi.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_vi:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_vn
+   location: assets/Flags/flag_vn.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_vn:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_vu
+   location: assets/Flags/flag_vu.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_vu:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_wf
+   location: assets/Flags/flag_wf.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_wf:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_ws
+   location: assets/Flags/flag_ws.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_ws:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_xk
+   location: assets/Flags/flag_xk.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_xk:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_ye
+   location: assets/Flags/flag_ye.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_ye:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_yt
+   location: assets/Flags/flag_yt.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_yt:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_za
+   location: assets/Flags/flag_za.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_za:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_zm
+   location: assets/Flags/flag_zm.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_zm:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flag_zw
+   location: assets/Flags/flag_zw.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flag_zw:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: pirate_flag
+   location: assets/Flags/pirate_flag.png
+   strings: !java.util.Arrays$ArrayList
+   - ':pirate_flag:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: rainbow_flag
+   location: assets/Flags/rainbow_flag.png
+   strings: !java.util.Arrays$ArrayList
+   - ':rainbow_flag:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: scotland
+   location: assets/Flags/scotland.png
+   strings: !java.util.Arrays$ArrayList
+   - ':scotland:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: transgender_flag
+   location: assets/Flags/transgender_flag.png
+   strings: !java.util.Arrays$ArrayList
+   - ':transgender_flag:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: triangular_flag_on_post
+   location: assets/Flags/triangular_flag_on_post.png
+   strings: !java.util.Arrays$ArrayList
+   - ':triangular_flag_on_post:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: wales
+   location: assets/Flags/wales.png
+   strings: !java.util.Arrays$ArrayList
+   - ':wales:'

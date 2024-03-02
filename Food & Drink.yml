@@ -1,0 +1,645 @@
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: amphora
+   location: assets/Food & Drink/amphora.png
+   strings: !java.util.Arrays$ArrayList
+   - ':amphora:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: apple
+   location: assets/Food & Drink/apple.png
+   strings: !java.util.Arrays$ArrayList
+   - ':apple:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: avocado
+   location: assets/Food & Drink/avocado.png
+   strings: !java.util.Arrays$ArrayList
+   - ':avocado:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: baby_bottle
+   location: assets/Food & Drink/baby_bottle.png
+   strings: !java.util.Arrays$ArrayList
+   - ':baby_bottle:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: bacon
+   location: assets/Food & Drink/bacon.png
+   strings: !java.util.Arrays$ArrayList
+   - ':bacon:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: bagel
+   location: assets/Food & Drink/bagel.png
+   strings: !java.util.Arrays$ArrayList
+   - ':bagel:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: banana
+   location: assets/Food & Drink/banana.png
+   strings: !java.util.Arrays$ArrayList
+   - ':banana:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: beans
+   location: assets/Food & Drink/beans.png
+   strings: !java.util.Arrays$ArrayList
+   - ':beans:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: beer
+   location: assets/Food & Drink/beer.png
+   strings: !java.util.Arrays$ArrayList
+   - ':beer:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: beers
+   location: assets/Food & Drink/beers.png
+   strings: !java.util.Arrays$ArrayList
+   - ':beers:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: bell_pepper
+   location: assets/Food & Drink/bell_pepper.png
+   strings: !java.util.Arrays$ArrayList
+   - ':bell_pepper:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: bento
+   location: assets/Food & Drink/bento.png
+   strings: !java.util.Arrays$ArrayList
+   - ':bento:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: beverage_box
+   location: assets/Food & Drink/beverage_box.png
+   strings: !java.util.Arrays$ArrayList
+   - ':beverage_box:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: birthday
+   location: assets/Food & Drink/birthday.png
+   strings: !java.util.Arrays$ArrayList
+   - ':birthday:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: blueberries
+   location: assets/Food & Drink/blueberries.png
+   strings: !java.util.Arrays$ArrayList
+   - ':blueberries:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: bowl_with_spoon
+   location: assets/Food & Drink/bowl_with_spoon.png
+   strings: !java.util.Arrays$ArrayList
+   - ':bowl_with_spoon:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: bread
+   location: assets/Food & Drink/bread.png
+   strings: !java.util.Arrays$ArrayList
+   - ':bread:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: broccoli
+   location: assets/Food & Drink/broccoli.png
+   strings: !java.util.Arrays$ArrayList
+   - ':broccoli:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: bubble_tea
+   location: assets/Food & Drink/bubble_tea.png
+   strings: !java.util.Arrays$ArrayList
+   - ':bubble_tea:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: burrito
+   location: assets/Food & Drink/burrito.png
+   strings: !java.util.Arrays$ArrayList
+   - ':burrito:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: butter
+   location: assets/Food & Drink/butter.png
+   strings: !java.util.Arrays$ArrayList
+   - ':butter:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: cake
+   location: assets/Food & Drink/cake.png
+   strings: !java.util.Arrays$ArrayList
+   - ':cake:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: candy
+   location: assets/Food & Drink/candy.png
+   strings: !java.util.Arrays$ArrayList
+   - ':candy:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: canned_food
+   location: assets/Food & Drink/canned_food.png
+   strings: !java.util.Arrays$ArrayList
+   - ':canned_food:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: carrot
+   location: assets/Food & Drink/carrot.png
+   strings: !java.util.Arrays$ArrayList
+   - ':carrot:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: champagne
+   location: assets/Food & Drink/champagne.png
+   strings: !java.util.Arrays$ArrayList
+   - ':champagne:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: cheese
+   location: assets/Food & Drink/cheese.png
+   strings: !java.util.Arrays$ArrayList
+   - ':cheese:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: cherries
+   location: assets/Food & Drink/cherries.png
+   strings: !java.util.Arrays$ArrayList
+   - ':cherries:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: chestnut
+   location: assets/Food & Drink/chestnut.png
+   strings: !java.util.Arrays$ArrayList
+   - ':chestnut:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: chocolate_bar
+   location: assets/Food & Drink/chocolate_bar.png
+   strings: !java.util.Arrays$ArrayList
+   - ':chocolate_bar:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: chopsticks
+   location: assets/Food & Drink/chopsticks.png
+   strings: !java.util.Arrays$ArrayList
+   - ':chopsticks:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: cocktail
+   location: assets/Food & Drink/cocktail.png
+   strings: !java.util.Arrays$ArrayList
+   - ':cocktail:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: coconut
+   location: assets/Food & Drink/coconut.png
+   strings: !java.util.Arrays$ArrayList
+   - ':coconut:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: coffee
+   location: assets/Food & Drink/coffee.png
+   strings: !java.util.Arrays$ArrayList
+   - ':coffee:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: cookie
+   location: assets/Food & Drink/cookie.png
+   strings: !java.util.Arrays$ArrayList
+   - ':cookie:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: corn
+   location: assets/Food & Drink/corn.png
+   strings: !java.util.Arrays$ArrayList
+   - ':corn:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: crab
+   location: assets/Food & Drink/crab.png
+   strings: !java.util.Arrays$ArrayList
+   - ':crab:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: croissant
+   location: assets/Food & Drink/croissant.png
+   strings: !java.util.Arrays$ArrayList
+   - ':croissant:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: cucumber
+   location: assets/Food & Drink/cucumber.png
+   strings: !java.util.Arrays$ArrayList
+   - ':cucumber:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: cupcake
+   location: assets/Food & Drink/cupcake.png
+   strings: !java.util.Arrays$ArrayList
+   - ':cupcake:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: cup_with_straw
+   location: assets/Food & Drink/cup_with_straw.png
+   strings: !java.util.Arrays$ArrayList
+   - ':cup_with_straw:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: curry
+   location: assets/Food & Drink/curry.png
+   strings: !java.util.Arrays$ArrayList
+   - ':curry:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: custard
+   location: assets/Food & Drink/custard.png
+   strings: !java.util.Arrays$ArrayList
+   - ':custard:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: cut_of_meat
+   location: assets/Food & Drink/cut_of_meat.png
+   strings: !java.util.Arrays$ArrayList
+   - ':cut_of_meat:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: dango
+   location: assets/Food & Drink/dango.png
+   strings: !java.util.Arrays$ArrayList
+   - ':dango:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: doughnut
+   location: assets/Food & Drink/doughnut.png
+   strings: !java.util.Arrays$ArrayList
+   - ':doughnut:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: dumpling
+   location: assets/Food & Drink/dumpling.png
+   strings: !java.util.Arrays$ArrayList
+   - ':dumpling:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: egg
+   location: assets/Food & Drink/egg.png
+   strings: !java.util.Arrays$ArrayList
+   - ':egg:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: eggplant
+   location: assets/Food & Drink/eggplant.png
+   strings: !java.util.Arrays$ArrayList
+   - ':eggplant:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: falafel
+   location: assets/Food & Drink/falafel.png
+   strings: !java.util.Arrays$ArrayList
+   - ':falafel:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: fish_cake
+   location: assets/Food & Drink/fish_cake.png
+   strings: !java.util.Arrays$ArrayList
+   - ':fish_cake:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: flatbread
+   location: assets/Food & Drink/flatbread.png
+   strings: !java.util.Arrays$ArrayList
+   - ':flatbread:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: fondue
+   location: assets/Food & Drink/fondue.png
+   strings: !java.util.Arrays$ArrayList
+   - ':fondue:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: fork_and_knife
+   location: assets/Food & Drink/fork_and_knife.png
+   strings: !java.util.Arrays$ArrayList
+   - ':fork_and_knife:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: fortune_cookie
+   location: assets/Food & Drink/fortune_cookie.png
+   strings: !java.util.Arrays$ArrayList
+   - ':fortune_cookie:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: fried_egg
+   location: assets/Food & Drink/fried_egg.png
+   strings: !java.util.Arrays$ArrayList
+   - ':fried_egg:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: fried_shrimp
+   location: assets/Food & Drink/fried_shrimp.png
+   strings: !java.util.Arrays$ArrayList
+   - ':fried_shrimp:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: fries
+   location: assets/Food & Drink/fries.png
+   strings: !java.util.Arrays$ArrayList
+   - ':fries:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: garlic
+   location: assets/Food & Drink/garlic.png
+   strings: !java.util.Arrays$ArrayList
+   - ':garlic:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: ginger_root
+   location: assets/Food & Drink/ginger_root.png
+   strings: !java.util.Arrays$ArrayList
+   - ':ginger_root:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: grapes
+   location: assets/Food & Drink/grapes.png
+   strings: !java.util.Arrays$ArrayList
+   - ':grapes:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: green_apple
+   location: assets/Food & Drink/green_apple.png
+   strings: !java.util.Arrays$ArrayList
+   - ':green_apple:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: hamburger
+   location: assets/Food & Drink/hamburger.png
+   strings: !java.util.Arrays$ArrayList
+   - ':hamburger:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: honey_pot
+   location: assets/Food & Drink/honey_pot.png
+   strings: !java.util.Arrays$ArrayList
+   - ':honey_pot:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: hotdog
+   location: assets/Food & Drink/hotdog.png
+   strings: !java.util.Arrays$ArrayList
+   - ':hotdog:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: hot_pepper
+   location: assets/Food & Drink/hot_pepper.png
+   strings: !java.util.Arrays$ArrayList
+   - ':hot_pepper:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: icecream
+   location: assets/Food & Drink/icecream.png
+   strings: !java.util.Arrays$ArrayList
+   - ':icecream:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: ice_cream
+   location: assets/Food & Drink/ice_cream.png
+   strings: !java.util.Arrays$ArrayList
+   - ':ice_cream:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: ice_cube
+   location: assets/Food & Drink/ice_cube.png
+   strings: !java.util.Arrays$ArrayList
+   - ':ice_cube:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: jar
+   location: assets/Food & Drink/jar.png
+   strings: !java.util.Arrays$ArrayList
+   - ':jar:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: kiwi
+   location: assets/Food & Drink/kiwi.png
+   strings: !java.util.Arrays$ArrayList
+   - ':kiwi:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: knife
+   location: assets/Food & Drink/knife.png
+   strings: !java.util.Arrays$ArrayList
+   - ':knife:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: leafy_green
+   location: assets/Food & Drink/leafy_green.png
+   strings: !java.util.Arrays$ArrayList
+   - ':leafy_green:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: lemon
+   location: assets/Food & Drink/lemon.png
+   strings: !java.util.Arrays$ArrayList
+   - ':lemon:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: lobster
+   location: assets/Food & Drink/lobster.png
+   strings: !java.util.Arrays$ArrayList
+   - ':lobster:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: lollipop
+   location: assets/Food & Drink/lollipop.png
+   strings: !java.util.Arrays$ArrayList
+   - ':lollipop:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: mango
+   location: assets/Food & Drink/mango.png
+   strings: !java.util.Arrays$ArrayList
+   - ':mango:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: mate
+   location: assets/Food & Drink/mate.png
+   strings: !java.util.Arrays$ArrayList
+   - ':mate:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: meat_on_bone
+   location: assets/Food & Drink/meat_on_bone.png
+   strings: !java.util.Arrays$ArrayList
+   - ':meat_on_bone:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: melon
+   location: assets/Food & Drink/melon.png
+   strings: !java.util.Arrays$ArrayList
+   - ':melon:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: moon_cake
+   location: assets/Food & Drink/moon_cake.png
+   strings: !java.util.Arrays$ArrayList
+   - ':moon_cake:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: oden
+   location: assets/Food & Drink/oden.png
+   strings: !java.util.Arrays$ArrayList
+   - ':oden:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: olive
+   location: assets/Food & Drink/olive.png
+   strings: !java.util.Arrays$ArrayList
+   - ':olive:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: onion
+   location: assets/Food & Drink/onion.png
+   strings: !java.util.Arrays$ArrayList
+   - ':onion:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: oyster
+   location: assets/Food & Drink/oyster.png
+   strings: !java.util.Arrays$ArrayList
+   - ':oyster:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: pancakes
+   location: assets/Food & Drink/pancakes.png
+   strings: !java.util.Arrays$ArrayList
+   - ':pancakes:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: peach
+   location: assets/Food & Drink/peach.png
+   strings: !java.util.Arrays$ArrayList
+   - ':peach:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: peanuts
+   location: assets/Food & Drink/peanuts.png
+   strings: !java.util.Arrays$ArrayList
+   - ':peanuts:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: pear
+   location: assets/Food & Drink/pear.png
+   strings: !java.util.Arrays$ArrayList
+   - ':pear:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: pea_pod
+   location: assets/Food & Drink/pea_pod.png
+   strings: !java.util.Arrays$ArrayList
+   - ':pea_pod:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: pie
+   location: assets/Food & Drink/pie.png
+   strings: !java.util.Arrays$ArrayList
+   - ':pie:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: pineapple
+   location: assets/Food & Drink/pineapple.png
+   strings: !java.util.Arrays$ArrayList
+   - ':pineapple:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: pizza
+   location: assets/Food & Drink/pizza.png
+   strings: !java.util.Arrays$ArrayList
+   - ':pizza:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: popcorn
+   location: assets/Food & Drink/popcorn.png
+   strings: !java.util.Arrays$ArrayList
+   - ':popcorn:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: potato
+   location: assets/Food & Drink/potato.png
+   strings: !java.util.Arrays$ArrayList
+   - ':potato:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: poultry_leg
+   location: assets/Food & Drink/poultry_leg.png
+   strings: !java.util.Arrays$ArrayList
+   - ':poultry_leg:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: pouring_liquid
+   location: assets/Food & Drink/pouring_liquid.png
+   strings: !java.util.Arrays$ArrayList
+   - ':pouring_liquid:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: pretzel
+   location: assets/Food & Drink/pretzel.png
+   strings: !java.util.Arrays$ArrayList
+   - ':pretzel:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: ramen
+   location: assets/Food & Drink/ramen.png
+   strings: !java.util.Arrays$ArrayList
+   - ':ramen:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: rice
+   location: assets/Food & Drink/rice.png
+   strings: !java.util.Arrays$ArrayList
+   - ':rice:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: rice_ball
+   location: assets/Food & Drink/rice_ball.png
+   strings: !java.util.Arrays$ArrayList
+   - ':rice_ball:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: rice_cracker
+   location: assets/Food & Drink/rice_cracker.png
+   strings: !java.util.Arrays$ArrayList
+   - ':rice_cracker:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: sake
+   location: assets/Food & Drink/sake.png
+   strings: !java.util.Arrays$ArrayList
+   - ':sake:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: salad
+   location: assets/Food & Drink/salad.png
+   strings: !java.util.Arrays$ArrayList
+   - ':salad:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: salt
+   location: assets/Food & Drink/salt.png
+   strings: !java.util.Arrays$ArrayList
+   - ':salt:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: sandwich
+   location: assets/Food & Drink/sandwich.png
+   strings: !java.util.Arrays$ArrayList
+   - ':sandwich:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: shallow_pan_of_food
+   location: assets/Food & Drink/shallow_pan_of_food.png
+   strings: !java.util.Arrays$ArrayList
+   - ':shallow_pan_of_food:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: shaved_ice
+   location: assets/Food & Drink/shaved_ice.png
+   strings: !java.util.Arrays$ArrayList
+   - ':shaved_ice:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: shrimp
+   location: assets/Food & Drink/shrimp.png
+   strings: !java.util.Arrays$ArrayList
+   - ':shrimp:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: spaghetti
+   location: assets/Food & Drink/spaghetti.png
+   strings: !java.util.Arrays$ArrayList
+   - ':spaghetti:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: spoon
+   location: assets/Food & Drink/spoon.png
+   strings: !java.util.Arrays$ArrayList
+   - ':spoon:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: squid
+   location: assets/Food & Drink/squid.png
+   strings: !java.util.Arrays$ArrayList
+   - ':squid:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: stew
+   location: assets/Food & Drink/stew.png
+   strings: !java.util.Arrays$ArrayList
+   - ':stew:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: strawberry
+   location: assets/Food & Drink/strawberry.png
+   strings: !java.util.Arrays$ArrayList
+   - ':strawberry:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: stuffed_flatbread
+   location: assets/Food & Drink/stuffed_flatbread.png
+   strings: !java.util.Arrays$ArrayList
+   - ':stuffed_flatbread:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: sushi
+   location: assets/Food & Drink/sushi.png
+   strings: !java.util.Arrays$ArrayList
+   - ':sushi:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: sweet_potato
+   location: assets/Food & Drink/sweet_potato.png
+   strings: !java.util.Arrays$ArrayList
+   - ':sweet_potato:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: taco
+   location: assets/Food & Drink/taco.png
+   strings: !java.util.Arrays$ArrayList
+   - ':taco:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: takeout_box
+   location: assets/Food & Drink/takeout_box.png
+   strings: !java.util.Arrays$ArrayList
+   - ':takeout_box:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: tamale
+   location: assets/Food & Drink/tamale.png
+   strings: !java.util.Arrays$ArrayList
+   - ':tamale:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: tangerine
+   location: assets/Food & Drink/tangerine.png
+   strings: !java.util.Arrays$ArrayList
+   - ':tangerine:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: tea
+   location: assets/Food & Drink/tea.png
+   strings: !java.util.Arrays$ArrayList
+   - ':tea:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: teapot
+   location: assets/Food & Drink/teapot.png
+   strings: !java.util.Arrays$ArrayList
+   - ':teapot:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: tomato
+   location: assets/Food & Drink/tomato.png
+   strings: !java.util.Arrays$ArrayList
+   - ':tomato:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: tropical_drink
+   location: assets/Food & Drink/tropical_drink.png
+   strings: !java.util.Arrays$ArrayList
+   - ':tropical_drink:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: tumbler_glass
+   location: assets/Food & Drink/tumbler_glass.png
+   strings: !java.util.Arrays$ArrayList
+   - ':tumbler_glass:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: waffle
+   location: assets/Food & Drink/waffle.png
+   strings: !java.util.Arrays$ArrayList
+   - ':waffle:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: watermelon
+   location: assets/Food & Drink/watermelon.png
+   strings: !java.util.Arrays$ArrayList
+   - ':watermelon:'
+- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+   name: wine_glass
+   location: assets/Food & Drink/wine_glass.png
+   strings: !java.util.Arrays$ArrayList
+   - ':wine_glass:'
