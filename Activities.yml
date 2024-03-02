@@ -1,410 +1,410 @@
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: 8ball
    location: assets/Activities/8ball.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':8ball:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: art
    location: assets/Activities/art.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':art:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: badminton
    location: assets/Activities/badminton.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':badminton:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: balloon
    location: assets/Activities/balloon.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':balloon:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: bamboo
    location: assets/Activities/bamboo.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':bamboo:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: baseball
    location: assets/Activities/baseball.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':baseball:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: basketball
    location: assets/Activities/basketball.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':basketball:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: black_joker
    location: assets/Activities/black_joker.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':black_joker:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: bowling
    location: assets/Activities/bowling.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':bowling:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: boxing_glove
    location: assets/Activities/boxing_glove.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':boxing_glove:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: chess_pawn
    location: assets/Activities/chess_pawn.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':chess_pawn:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: christmas_tree
    location: assets/Activities/christmas_tree.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':christmas_tree:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: clubs
    location: assets/Activities/clubs.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':clubs:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: confetti_ball
    location: assets/Activities/confetti_ball.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':confetti_ball:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: cross
    location: assets/Activities/cross.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':cross:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: crystal_ball
    location: assets/Activities/crystal_ball.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':crystal_ball:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: curling_stone
    location: assets/Activities/curling_stone.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':curling_stone:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: dart
    location: assets/Activities/dart.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':dart:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: diamonds
    location: assets/Activities/diamonds.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':diamonds:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: diving_mask
    location: assets/Activities/diving_mask.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':diving_mask:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: dolls
    location: assets/Activities/dolls.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':dolls:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: field_hockey
    location: assets/Activities/field_hockey.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':field_hockey:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: firecracker
    location: assets/Activities/firecracker.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':firecracker:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: fireworks
    location: assets/Activities/fireworks.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':fireworks:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: first_place
    location: assets/Activities/first_place.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':first_place:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: fishing_pole_and_fish
    location: assets/Activities/fishing_pole_and_fish.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':fishing_pole_and_fish:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: flags
    location: assets/Activities/flags.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':flags:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: flower_playing_cards
    location: assets/Activities/flower_playing_cards.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':flower_playing_cards:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: flying_disc
    location: assets/Activities/flying_disc.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':flying_disc:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: football
    location: assets/Activities/football.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':football:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: game_die
    location: assets/Activities/game_die.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':game_die:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: gift
    location: assets/Activities/gift.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':gift:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: goal
    location: assets/Activities/goal.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':goal:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: golf
    location: assets/Activities/golf.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':golf:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: gun
    location: assets/Activities/gun.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':gun:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: hearts
    location: assets/Activities/hearts.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':hearts:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: hockey
    location: assets/Activities/hockey.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':hockey:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: ice_skate
    location: assets/Activities/ice_skate.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':ice_skate:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: jack_o_lantern
    location: assets/Activities/jack_o_lantern.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':jack_o_lantern:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: jigsaw
    location: assets/Activities/jigsaw.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':jigsaw:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: joystick
    location: assets/Activities/joystick.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':joystick:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: kite
    location: assets/Activities/kite.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':kite:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: knot
    location: assets/Activities/knot.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':knot:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: lacrosse
    location: assets/Activities/lacrosse.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':lacrosse:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: magic_wand
    location: assets/Activities/magic_wand.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':magic_wand:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: mahjong
    location: assets/Activities/mahjong.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':mahjong:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: martial_arts_uniform
    location: assets/Activities/martial_arts_uniform.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':martial_arts_uniform:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: medal
    location: assets/Activities/medal.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':medal:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: mirror_ball
    location: assets/Activities/mirror_ball.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':mirror_ball:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: nesting_dolls
    location: assets/Activities/nesting_dolls.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':nesting_dolls:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: park
    location: assets/Activities/park.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':park:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: performing_arts
    location: assets/Activities/performing_arts.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':performing_arts:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: red_envelope
    location: assets/Activities/red_envelope.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':red_envelope:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: reminder_ribbon
    location: assets/Activities/reminder_ribbon.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':reminder_ribbon:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: ribbon
    location: assets/Activities/ribbon.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':ribbon:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: rice_scene
    location: assets/Activities/rice_scene.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':rice_scene:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: rugby_football
    location: assets/Activities/rugby_football.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':rugby_football:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: running_shirt_with_sash
    location: assets/Activities/running_shirt_with_sash.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':running_shirt_with_sash:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: second_place
    location: assets/Activities/second_place.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':second_place:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: sewing_needle
    location: assets/Activities/sewing_needle.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':sewing_needle:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: ski
    location: assets/Activities/ski.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':ski:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: sled
    location: assets/Activities/sled.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':sled:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: slot_machine
    location: assets/Activities/slot_machine.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':slot_machine:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: soccer
    location: assets/Activities/soccer.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':soccer:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: softball
    location: assets/Activities/softball.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':softball:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: spades
    location: assets/Activities/spades.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':spades:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: sparkler
    location: assets/Activities/sparkler.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':sparkler:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: sparkles
    location: assets/Activities/sparkles.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':sparkles:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: tada
    location: assets/Activities/tada.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':tada:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: tanabata_tree
    location: assets/Activities/tanabata_tree.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':tanabata_tree:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: teddy_bear
    location: assets/Activities/teddy_bear.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':teddy_bear:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: tennis
    location: assets/Activities/tennis.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':tennis:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: third_place
    location: assets/Activities/third_place.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':third_place:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: thread
    location: assets/Activities/thread.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':thread:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: ticket
    location: assets/Activities/ticket.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':ticket:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: tickets
    location: assets/Activities/tickets.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':tickets:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: trophy
    location: assets/Activities/trophy.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':trophy:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: video_game
    location: assets/Activities/video_game.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':video_game:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: volleyball
    location: assets/Activities/volleyball.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':volleyball:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: wind_chime
    location: assets/Activities/wind_chime.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':wind_chime:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: yarn
    location: assets/Activities/yarn.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':yarn:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: yo_yo
    location: assets/Activities/yo_yo.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':yo_yo:'

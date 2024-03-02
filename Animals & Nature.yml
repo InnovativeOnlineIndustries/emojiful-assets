@@ -1,755 +1,755 @@
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: ant
    location: assets/Animals & Nature/ant.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':ant:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: baby_chick
    location: assets/Animals & Nature/baby_chick.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':baby_chick:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: badger
    location: assets/Animals & Nature/badger.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':badger:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: bat
    location: assets/Animals & Nature/bat.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':bat:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: bear
    location: assets/Animals & Nature/bear.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':bear:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: beaver
    location: assets/Animals & Nature/beaver.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':beaver:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: bee
    location: assets/Animals & Nature/bee.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':bee:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: beetle
    location: assets/Animals & Nature/beetle.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':beetle:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: bird
    location: assets/Animals & Nature/bird.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':bird:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: bison
    location: assets/Animals & Nature/bison.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':bison:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: black_bird
    location: assets/Animals & Nature/black_bird.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':black_bird:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: black_cat
    location: assets/Animals & Nature/black_cat.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':black_cat:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: blossom
    location: assets/Animals & Nature/blossom.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':blossom:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: blowfish
    location: assets/Animals & Nature/blowfish.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':blowfish:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: boar
    location: assets/Animals & Nature/boar.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':boar:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: bouquet
    location: assets/Animals & Nature/bouquet.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':bouquet:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: bug
    location: assets/Animals & Nature/bug.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':bug:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: butterfly
    location: assets/Animals & Nature/butterfly.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':butterfly:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: cactus
    location: assets/Animals & Nature/cactus.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':cactus:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: camel
    location: assets/Animals & Nature/camel.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':camel:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: cat
    location: assets/Animals & Nature/cat.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':cat:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: cat2
    location: assets/Animals & Nature/cat2.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':cat2:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: cherry_blossom
    location: assets/Animals & Nature/cherry_blossom.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':cherry_blossom:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: chicken
    location: assets/Animals & Nature/chicken.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':chicken:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: chipmunk
    location: assets/Animals & Nature/chipmunk.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':chipmunk:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: cockroach
    location: assets/Animals & Nature/cockroach.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':cockroach:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: coral
    location: assets/Animals & Nature/coral.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':coral:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: cow
    location: assets/Animals & Nature/cow.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':cow:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: cow2
    location: assets/Animals & Nature/cow2.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':cow2:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: cricket
    location: assets/Animals & Nature/cricket.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':cricket:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: crocodile
    location: assets/Animals & Nature/crocodile.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':crocodile:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: deciduous_tree
    location: assets/Animals & Nature/deciduous_tree.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':deciduous_tree:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: deer
    location: assets/Animals & Nature/deer.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':deer:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: dodo
    location: assets/Animals & Nature/dodo.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':dodo:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: dog
    location: assets/Animals & Nature/dog.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':dog:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: dog2
    location: assets/Animals & Nature/dog2.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':dog2:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: dolphin
    location: assets/Animals & Nature/dolphin.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':dolphin:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: donkey
    location: assets/Animals & Nature/donkey.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':donkey:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: dove
    location: assets/Animals & Nature/dove.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':dove:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: dragon
    location: assets/Animals & Nature/dragon.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':dragon:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: dragon_face
    location: assets/Animals & Nature/dragon_face.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':dragon_face:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: dromedary_camel
    location: assets/Animals & Nature/dromedary_camel.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':dromedary_camel:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: duck
    location: assets/Animals & Nature/duck.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':duck:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: eagle
    location: assets/Animals & Nature/eagle.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':eagle:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: ear_of_rice
    location: assets/Animals & Nature/ear_of_rice.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':ear_of_rice:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: elephant
    location: assets/Animals & Nature/elephant.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':elephant:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: empty_nest
    location: assets/Animals & Nature/empty_nest.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':empty_nest:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: evergreen_tree
    location: assets/Animals & Nature/evergreen_tree.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':evergreen_tree:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: fallen_leaf
    location: assets/Animals & Nature/fallen_leaf.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':fallen_leaf:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: feather
    location: assets/Animals & Nature/feather.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':feather:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: feet
    location: assets/Animals & Nature/feet.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':feet:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: fish
    location: assets/Animals & Nature/fish.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':fish:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: flamingo
    location: assets/Animals & Nature/flamingo.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':flamingo:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: fly
    location: assets/Animals & Nature/fly.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':fly:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: four_leaf_clover
    location: assets/Animals & Nature/four_leaf_clover.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':four_leaf_clover:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: fox
    location: assets/Animals & Nature/fox.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':fox:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: frog
    location: assets/Animals & Nature/frog.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':frog:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: giraffe
    location: assets/Animals & Nature/giraffe.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':giraffe:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: goat
    location: assets/Animals & Nature/goat.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':goat:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: goose
    location: assets/Animals & Nature/goose.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':goose:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: gorilla
    location: assets/Animals & Nature/gorilla.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':gorilla:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: guide_dog
    location: assets/Animals & Nature/guide_dog.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':guide_dog:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: hamster
    location: assets/Animals & Nature/hamster.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':hamster:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: hatched_chick
    location: assets/Animals & Nature/hatched_chick.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':hatched_chick:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: hatching_chick
    location: assets/Animals & Nature/hatching_chick.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':hatching_chick:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: hedgehog
    location: assets/Animals & Nature/hedgehog.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':hedgehog:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: herb
    location: assets/Animals & Nature/herb.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':herb:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: hibiscus
    location: assets/Animals & Nature/hibiscus.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':hibiscus:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: hippopotamus
    location: assets/Animals & Nature/hippopotamus.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':hippopotamus:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: horse
    location: assets/Animals & Nature/horse.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':horse:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: hyacinth
    location: assets/Animals & Nature/hyacinth.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':hyacinth:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: jellyfish
    location: assets/Animals & Nature/jellyfish.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':jellyfish:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: kangaroo
    location: assets/Animals & Nature/kangaroo.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':kangaroo:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: koala
    location: assets/Animals & Nature/koala.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':koala:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: lady_beetle
    location: assets/Animals & Nature/lady_beetle.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':lady_beetle:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: leaves
    location: assets/Animals & Nature/leaves.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':leaves:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: leopard
    location: assets/Animals & Nature/leopard.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':leopard:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: lion_face
    location: assets/Animals & Nature/lion_face.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':lion_face:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: lizard
    location: assets/Animals & Nature/lizard.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':lizard:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: llama
    location: assets/Animals & Nature/llama.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':llama:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: lotus
    location: assets/Animals & Nature/lotus.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':lotus:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: mammoth
    location: assets/Animals & Nature/mammoth.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':mammoth:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: maple_leaf
    location: assets/Animals & Nature/maple_leaf.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':maple_leaf:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: microbe
    location: assets/Animals & Nature/microbe.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':microbe:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: monkey
    location: assets/Animals & Nature/monkey.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':monkey:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: monkey_face
    location: assets/Animals & Nature/monkey_face.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':monkey_face:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: moose
    location: assets/Animals & Nature/moose.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':moose:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: mosquito
    location: assets/Animals & Nature/mosquito.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':mosquito:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: mouse
    location: assets/Animals & Nature/mouse.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':mouse:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: mouse2
    location: assets/Animals & Nature/mouse2.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':mouse2:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: mushroom
    location: assets/Animals & Nature/mushroom.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':mushroom:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: nest_with_eggs
    location: assets/Animals & Nature/nest_with_eggs.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':nest_with_eggs:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: octopus
    location: assets/Animals & Nature/octopus.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':octopus:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: orangutan
    location: assets/Animals & Nature/orangutan.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':orangutan:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: otter
    location: assets/Animals & Nature/otter.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':otter:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: owl
    location: assets/Animals & Nature/owl.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':owl:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: ox
    location: assets/Animals & Nature/ox.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':ox:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: palm_tree
    location: assets/Animals & Nature/palm_tree.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':palm_tree:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: panda_face
    location: assets/Animals & Nature/panda_face.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':panda_face:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: parrot
    location: assets/Animals & Nature/parrot.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':parrot:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: peacock
    location: assets/Animals & Nature/peacock.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':peacock:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: penguin
    location: assets/Animals & Nature/penguin.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':penguin:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: pig
    location: assets/Animals & Nature/pig.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':pig:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: pig2
    location: assets/Animals & Nature/pig2.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':pig2:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: pig_nose
    location: assets/Animals & Nature/pig_nose.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':pig_nose:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: polar_bear
    location: assets/Animals & Nature/polar_bear.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':polar_bear:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: poodle
    location: assets/Animals & Nature/poodle.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':poodle:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: potted_plant
    location: assets/Animals & Nature/potted_plant.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':potted_plant:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: rabbit
    location: assets/Animals & Nature/rabbit.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':rabbit:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: rabbit2
    location: assets/Animals & Nature/rabbit2.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':rabbit2:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: raccoon
    location: assets/Animals & Nature/raccoon.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':raccoon:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: racehorse
    location: assets/Animals & Nature/racehorse.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':racehorse:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: ram
    location: assets/Animals & Nature/ram.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':ram:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: rat
    location: assets/Animals & Nature/rat.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':rat:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: rhino
    location: assets/Animals & Nature/rhino.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':rhino:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: rooster
    location: assets/Animals & Nature/rooster.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':rooster:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: rose
    location: assets/Animals & Nature/rose.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':rose:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: rosette
    location: assets/Animals & Nature/rosette.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':rosette:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: sauropod
    location: assets/Animals & Nature/sauropod.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':sauropod:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: scorpion
    location: assets/Animals & Nature/scorpion.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':scorpion:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: seal
    location: assets/Animals & Nature/seal.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':seal:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: seedling
    location: assets/Animals & Nature/seedling.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':seedling:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: service_dog
    location: assets/Animals & Nature/service_dog.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':service_dog:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: shamrock
    location: assets/Animals & Nature/shamrock.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':shamrock:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: shark
    location: assets/Animals & Nature/shark.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':shark:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: sheep
    location: assets/Animals & Nature/sheep.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':sheep:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: shell
    location: assets/Animals & Nature/shell.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':shell:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: skunk
    location: assets/Animals & Nature/skunk.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':skunk:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: sloth
    location: assets/Animals & Nature/sloth.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':sloth:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: snail
    location: assets/Animals & Nature/snail.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':snail:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: snake
    location: assets/Animals & Nature/snake.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':snake:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: spider
    location: assets/Animals & Nature/spider.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':spider:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: spider_web
    location: assets/Animals & Nature/spider_web.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':spider_web:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: sunflower
    location: assets/Animals & Nature/sunflower.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':sunflower:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: swan
    location: assets/Animals & Nature/swan.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':swan:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: tiger
    location: assets/Animals & Nature/tiger.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':tiger:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: tiger2
    location: assets/Animals & Nature/tiger2.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':tiger2:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: tropical_fish
    location: assets/Animals & Nature/tropical_fish.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':tropical_fish:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: tulip
    location: assets/Animals & Nature/tulip.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':tulip:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: turkey
    location: assets/Animals & Nature/turkey.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':turkey:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: turtle
    location: assets/Animals & Nature/turtle.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':turtle:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: t_rex
    location: assets/Animals & Nature/t_rex.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':t_rex:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: unicorn
    location: assets/Animals & Nature/unicorn.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':unicorn:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: water_buffalo
    location: assets/Animals & Nature/water_buffalo.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':water_buffalo:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: whale
    location: assets/Animals & Nature/whale.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':whale:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: whale2
    location: assets/Animals & Nature/whale2.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':whale2:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: white_flower
    location: assets/Animals & Nature/white_flower.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':white_flower:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: wing
    location: assets/Animals & Nature/wing.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':wing:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: wolf
    location: assets/Animals & Nature/wolf.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':wolf:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: worm
    location: assets/Animals & Nature/worm.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':worm:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: zebra
    location: assets/Animals & Nature/zebra.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':zebra:'

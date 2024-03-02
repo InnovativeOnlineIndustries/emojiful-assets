@@ -1,1385 +1,1385 @@
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: adult
    location: assets/People & Body/adult.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':adult:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: anatomical_heart
    location: assets/People & Body/anatomical_heart.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':anatomical_heart:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: angel
    location: assets/People & Body/angel.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':angel:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: artist
    location: assets/People & Body/artist.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':artist:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: astronaut
    location: assets/People & Body/astronaut.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':astronaut:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: baby
    location: assets/People & Body/baby.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':baby:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: bath
    location: assets/People & Body/bath.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':bath:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: bearded_person
    location: assets/People & Body/bearded_person.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':bearded_person:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: biting_lip
    location: assets/People & Body/biting_lip.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':biting_lip:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: blond_haired_man
    location: assets/People & Body/blond_haired_man.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':blond_haired_man:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: blond_haired_woman
    location: assets/People & Body/blond_haired_woman.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':blond_haired_woman:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: bone
    location: assets/People & Body/bone.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':bone:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: boy
    location: assets/People & Body/boy.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':boy:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: brain
    location: assets/People & Body/brain.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':brain:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: breast_feeding
    location: assets/People & Body/breast_feeding.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':breast_feeding:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: busts_in_silhouette
    location: assets/People & Body/busts_in_silhouette.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':busts_in_silhouette:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: bust_in_silhouette
    location: assets/People & Body/bust_in_silhouette.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':bust_in_silhouette:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: call_me
    location: assets/People & Body/call_me.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':call_me:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: child
    location: assets/People & Body/child.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':child:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: clap
    location: assets/People & Body/clap.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':clap:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: construction_worker
    location: assets/People & Body/construction_worker.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':construction_worker:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: cook
    location: assets/People & Body/cook.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':cook:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: couple
    location: assets/People & Body/couple.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':couple:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: couplekiss
    location: assets/People & Body/couplekiss.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':couplekiss:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: couple_with_heart
    location: assets/People & Body/couple_with_heart.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':couple_with_heart:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: curly_hair
    location: assets/People & Body/curly_hair.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':curly_hair:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: dancer
    location: assets/People & Body/dancer.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':dancer:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: deaf_man
    location: assets/People & Body/deaf_man.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':deaf_man:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: deaf_person
    location: assets/People & Body/deaf_person.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':deaf_person:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: deaf_woman
    location: assets/People & Body/deaf_woman.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':deaf_woman:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: detective
    location: assets/People & Body/detective.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':detective:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: ear
    location: assets/People & Body/ear.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':ear:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: ear_with_hearing_aid
    location: assets/People & Body/ear_with_hearing_aid.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':ear_with_hearing_aid:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: elf
    location: assets/People & Body/elf.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':elf:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: eye
    location: assets/People & Body/eye.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':eye:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: eyes
    location: assets/People & Body/eyes.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':eyes:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: factory_worker
    location: assets/People & Body/factory_worker.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':factory_worker:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: fairy
    location: assets/People & Body/fairy.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':fairy:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: family
    location: assets/People & Body/family.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':family:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: farmer
    location: assets/People & Body/farmer.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':farmer:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: fingers_crossed
    location: assets/People & Body/fingers_crossed.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':fingers_crossed:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: firefighter
    location: assets/People & Body/firefighter.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':firefighter:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: fist
    location: assets/People & Body/fist.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':fist:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: foot
    location: assets/People & Body/foot.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':foot:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: footprints
    location: assets/People & Body/footprints.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':footprints:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: genie
    location: assets/People & Body/genie.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':genie:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: girl
    location: assets/People & Body/girl.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':girl:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: guard
    location: assets/People & Body/guard.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':guard:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: handshake
    location: assets/People & Body/handshake.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':handshake:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: hand_with_index_finger_and_thumb_crossed
    location: assets/People & Body/hand_with_index_finger_and_thumb_crossed.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':hand_with_index_finger_and_thumb_crossed:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: health_worker
    location: assets/People & Body/health_worker.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':health_worker:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: heart_hands
    location: assets/People & Body/heart_hands.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':heart_hands:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: horse_racing
    location: assets/People & Body/horse_racing.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':horse_racing:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: index_pointing_at_the_viewer
    location: assets/People & Body/index_pointing_at_the_viewer.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':index_pointing_at_the_viewer:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: judge
    location: assets/People & Body/judge.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':judge:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: leftwards_hand
    location: assets/People & Body/leftwards_hand.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':leftwards_hand:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: leftwards_pushing_hand
    location: assets/People & Body/leftwards_pushing_hand.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':leftwards_pushing_hand:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: left_facing_fist
    location: assets/People & Body/left_facing_fist.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':left_facing_fist:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: leg
    location: assets/People & Body/leg.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':leg:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: lips
    location: assets/People & Body/lips.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':lips:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: lungs
    location: assets/People & Body/lungs.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':lungs:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: mage
    location: assets/People & Body/mage.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':mage:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: man
    location: assets/People & Body/man.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':man:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: man_artist
    location: assets/People & Body/man_artist.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':man_artist:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: man_astronaut
    location: assets/People & Body/man_astronaut.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':man_astronaut:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: man_biking
    location: assets/People & Body/man_biking.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':man_biking:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: man_bouncing_ball
    location: assets/People & Body/man_bouncing_ball.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':man_bouncing_ball:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: man_bowing
    location: assets/People & Body/man_bowing.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':man_bowing:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: man_cartwheeling
    location: assets/People & Body/man_cartwheeling.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':man_cartwheeling:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: man_climbing
    location: assets/People & Body/man_climbing.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':man_climbing:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: man_construction_worker
    location: assets/People & Body/man_construction_worker.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':man_construction_worker:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: man_cook
    location: assets/People & Body/man_cook.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':man_cook:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: man_dancing
    location: assets/People & Body/man_dancing.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':man_dancing:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: man_detective
    location: assets/People & Body/man_detective.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':man_detective:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: man_elf
    location: assets/People & Body/man_elf.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':man_elf:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: man_facepalming
    location: assets/People & Body/man_facepalming.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':man_facepalming:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: man_factory_worker
    location: assets/People & Body/man_factory_worker.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':man_factory_worker:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: man_fairy
    location: assets/People & Body/man_fairy.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':man_fairy:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: man_farmer
    location: assets/People & Body/man_farmer.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':man_farmer:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: man_feeding_baby
    location: assets/People & Body/man_feeding_baby.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':man_feeding_baby:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: man_firefighter
    location: assets/People & Body/man_firefighter.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':man_firefighter:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: man_frowning
    location: assets/People & Body/man_frowning.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':man_frowning:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: man_genie
    location: assets/People & Body/man_genie.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':man_genie:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: man_gesturing_no
    location: assets/People & Body/man_gesturing_no.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':man_gesturing_no:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: man_gesturing_ok
    location: assets/People & Body/man_gesturing_ok.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':man_gesturing_ok:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: man_getting_haircut
    location: assets/People & Body/man_getting_haircut.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':man_getting_haircut:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: man_golfing
    location: assets/People & Body/man_golfing.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':man_golfing:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: man_guard
    location: assets/People & Body/man_guard.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':man_guard:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: man_in_lotus_position
    location: assets/People & Body/man_in_lotus_position.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':man_in_lotus_position:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: man_in_manual_wheelchair
    location: assets/People & Body/man_in_manual_wheelchair.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':man_in_manual_wheelchair:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: man_in_motorized_wheelchair
    location: assets/People & Body/man_in_motorized_wheelchair.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':man_in_motorized_wheelchair:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: man_in_steamy_room
    location: assets/People & Body/man_in_steamy_room.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':man_in_steamy_room:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: man_in_tuxedo
    location: assets/People & Body/man_in_tuxedo.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':man_in_tuxedo:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: man_judge
    location: assets/People & Body/man_judge.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':man_judge:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: man_juggling
    location: assets/People & Body/man_juggling.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':man_juggling:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: man_kneeling
    location: assets/People & Body/man_kneeling.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':man_kneeling:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: man_lifting_weights
    location: assets/People & Body/man_lifting_weights.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':man_lifting_weights:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: man_mage
    location: assets/People & Body/man_mage.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':man_mage:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: man_mechanic
    location: assets/People & Body/man_mechanic.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':man_mechanic:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: man_mountain_biking
    location: assets/People & Body/man_mountain_biking.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':man_mountain_biking:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: man_office_worker
    location: assets/People & Body/man_office_worker.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':man_office_worker:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: man_pilot
    location: assets/People & Body/man_pilot.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':man_pilot:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: man_playing_handball
    location: assets/People & Body/man_playing_handball.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':man_playing_handball:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: man_playing_water_polo
    location: assets/People & Body/man_playing_water_polo.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':man_playing_water_polo:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: man_police_officer
    location: assets/People & Body/man_police_officer.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':man_police_officer:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: man_pouting
    location: assets/People & Body/man_pouting.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':man_pouting:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: man_raising_hand
    location: assets/People & Body/man_raising_hand.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':man_raising_hand:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: man_rowing_boat
    location: assets/People & Body/man_rowing_boat.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':man_rowing_boat:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: man_running
    location: assets/People & Body/man_running.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':man_running:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: man_scientist
    location: assets/People & Body/man_scientist.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':man_scientist:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: man_shrugging
    location: assets/People & Body/man_shrugging.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':man_shrugging:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: man_singer
    location: assets/People & Body/man_singer.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':man_singer:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: man_standing
    location: assets/People & Body/man_standing.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':man_standing:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: man_student
    location: assets/People & Body/man_student.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':man_student:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: man_superhero
    location: assets/People & Body/man_superhero.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':man_superhero:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: man_supervillain
    location: assets/People & Body/man_supervillain.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':man_supervillain:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: man_surfing
    location: assets/People & Body/man_surfing.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':man_surfing:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: man_swimming
    location: assets/People & Body/man_swimming.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':man_swimming:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: man_teacher
    location: assets/People & Body/man_teacher.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':man_teacher:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: man_technologist
    location: assets/People & Body/man_technologist.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':man_technologist:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: man_tipping_hand
    location: assets/People & Body/man_tipping_hand.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':man_tipping_hand:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: man_vampire
    location: assets/People & Body/man_vampire.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':man_vampire:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: man_walking
    location: assets/People & Body/man_walking.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':man_walking:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: man_wearing_turban
    location: assets/People & Body/man_wearing_turban.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':man_wearing_turban:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: man_with_probing_cane
    location: assets/People & Body/man_with_probing_cane.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':man_with_probing_cane:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: man_with_veil
    location: assets/People & Body/man_with_veil.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':man_with_veil:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: man_zombie
    location: assets/People & Body/man_zombie.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':man_zombie:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: mechanic
    location: assets/People & Body/mechanic.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':mechanic:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: mechanical_arm
    location: assets/People & Body/mechanical_arm.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':mechanical_arm:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: mechanical_leg
    location: assets/People & Body/mechanical_leg.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':mechanical_leg:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: men_with_bunny_ears_partying
    location: assets/People & Body/men_with_bunny_ears_partying.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':men_with_bunny_ears_partying:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: mermaid
    location: assets/People & Body/mermaid.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':mermaid:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: merman
    location: assets/People & Body/merman.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':merman:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: merperson
    location: assets/People & Body/merperson.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':merperson:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: middle_finger
    location: assets/People & Body/middle_finger.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':middle_finger:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: mrs_claus
    location: assets/People & Body/mrs_claus.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':mrs_claus:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: muscle
    location: assets/People & Body/muscle.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':muscle:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: mx_claus
    location: assets/People & Body/mx_claus.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':mx_claus:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: nail_care
    location: assets/People & Body/nail_care.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':nail_care:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: ninja
    location: assets/People & Body/ninja.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':ninja:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: nose
    location: assets/People & Body/nose.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':nose:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: office_worker
    location: assets/People & Body/office_worker.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':office_worker:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: ok_hand
    location: assets/People & Body/ok_hand.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':ok_hand:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: older_adult
    location: assets/People & Body/older_adult.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':older_adult:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: older_man
    location: assets/People & Body/older_man.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':older_man:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: older_woman
    location: assets/People & Body/older_woman.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':older_woman:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: open_hands
    location: assets/People & Body/open_hands.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':open_hands:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: palms_up_together
    location: assets/People & Body/palms_up_together.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':palms_up_together:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: palm_down_hand
    location: assets/People & Body/palm_down_hand.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':palm_down_hand:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: palm_up_hand
    location: assets/People & Body/palm_up_hand.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':palm_up_hand:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: people_holding_hands
    location: assets/People & Body/people_holding_hands.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':people_holding_hands:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: people_hugging
    location: assets/People & Body/people_hugging.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':people_hugging:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: person_climbing
    location: assets/People & Body/person_climbing.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':person_climbing:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: person_doing_cartwheel
    location: assets/People & Body/person_doing_cartwheel.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':person_doing_cartwheel:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: person_feeding_baby
    location: assets/People & Body/person_feeding_baby.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':person_feeding_baby:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: person_frowning
    location: assets/People & Body/person_frowning.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':person_frowning:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: person_in_lotus_position
    location: assets/People & Body/person_in_lotus_position.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':person_in_lotus_position:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: person_in_manual_wheelchair
    location: assets/People & Body/person_in_manual_wheelchair.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':person_in_manual_wheelchair:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: person_in_motorized_wheelchair
    location: assets/People & Body/person_in_motorized_wheelchair.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':person_in_motorized_wheelchair:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: person_in_steamy_room
    location: assets/People & Body/person_in_steamy_room.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':person_in_steamy_room:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: person_in_tuxedo
    location: assets/People & Body/person_in_tuxedo.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':person_in_tuxedo:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: person_with_crown
    location: assets/People & Body/person_with_crown.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':person_with_crown:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: person_with_probing_cane
    location: assets/People & Body/person_with_probing_cane.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':person_with_probing_cane:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: pilot
    location: assets/People & Body/pilot.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':pilot:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: pinched_fingers
    location: assets/People & Body/pinched_fingers.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':pinched_fingers:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: pinching_hand
    location: assets/People & Body/pinching_hand.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':pinching_hand:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: point_down
    location: assets/People & Body/point_down.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':point_down:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: point_left
    location: assets/People & Body/point_left.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':point_left:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: point_right
    location: assets/People & Body/point_right.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':point_right:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: point_up
    location: assets/People & Body/point_up.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':point_up:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: point_up_2
    location: assets/People & Body/point_up_2.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':point_up_2:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: police_officer
    location: assets/People & Body/police_officer.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':police_officer:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: pray
    location: assets/People & Body/pray.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':pray:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: pregnant_man
    location: assets/People & Body/pregnant_man.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':pregnant_man:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: pregnant_person
    location: assets/People & Body/pregnant_person.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':pregnant_person:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: pregnant_woman
    location: assets/People & Body/pregnant_woman.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':pregnant_woman:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: prince
    location: assets/People & Body/prince.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':prince:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: princess
    location: assets/People & Body/princess.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':princess:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: punch
    location: assets/People & Body/punch.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':punch:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: raised_back_of_hand
    location: assets/People & Body/raised_back_of_hand.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':raised_back_of_hand:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: raised_hand
    location: assets/People & Body/raised_hand.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':raised_hand:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: raised_hands
    location: assets/People & Body/raised_hands.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':raised_hands:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: red_hair
    location: assets/People & Body/red_hair.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':red_hair:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: rightwards_hand
    location: assets/People & Body/rightwards_hand.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':rightwards_hand:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: rightwards_pushing_hand
    location: assets/People & Body/rightwards_pushing_hand.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':rightwards_pushing_hand:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: right_facing_fist
    location: assets/People & Body/right_facing_fist.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':right_facing_fist:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: santa
    location: assets/People & Body/santa.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':santa:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: scientist
    location: assets/People & Body/scientist.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':scientist:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: selfie
    location: assets/People & Body/selfie.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':selfie:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: singer
    location: assets/People & Body/singer.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':singer:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: skier
    location: assets/People & Body/skier.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':skier:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: sleeping_accommodation
    location: assets/People & Body/sleeping_accommodation.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':sleeping_accommodation:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: snowboarder
    location: assets/People & Body/snowboarder.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':snowboarder:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: speaking_head
    location: assets/People & Body/speaking_head.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':speaking_head:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: student
    location: assets/People & Body/student.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':student:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: superhero
    location: assets/People & Body/superhero.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':superhero:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: supervillain
    location: assets/People & Body/supervillain.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':supervillain:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: teacher
    location: assets/People & Body/teacher.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':teacher:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: technologist
    location: assets/People & Body/technologist.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':technologist:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: thumbsdown
    location: assets/People & Body/thumbsdown.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':thumbsdown:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: thumbsup
    location: assets/People & Body/thumbsup.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':thumbsup:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: tongue
    location: assets/People & Body/tongue.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':tongue:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: tooth
    location: assets/People & Body/tooth.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':tooth:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: troll
    location: assets/People & Body/troll.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':troll:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: two_men_holding_hands
    location: assets/People & Body/two_men_holding_hands.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':two_men_holding_hands:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: two_women_holding_hands
    location: assets/People & Body/two_women_holding_hands.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':two_women_holding_hands:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: v
    location: assets/People & Body/v.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':v:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: vampire
    location: assets/People & Body/vampire.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':vampire:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: wave
    location: assets/People & Body/wave.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':wave:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: white_hair
    location: assets/People & Body/white_hair.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':white_hair:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: woman
    location: assets/People & Body/woman.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':woman:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: woman_artist
    location: assets/People & Body/woman_artist.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':woman_artist:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: woman_astronaut
    location: assets/People & Body/woman_astronaut.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':woman_astronaut:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: woman_biking
    location: assets/People & Body/woman_biking.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':woman_biking:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: woman_bouncing_ball
    location: assets/People & Body/woman_bouncing_ball.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':woman_bouncing_ball:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: woman_bowing
    location: assets/People & Body/woman_bowing.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':woman_bowing:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: woman_cartwheeling
    location: assets/People & Body/woman_cartwheeling.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':woman_cartwheeling:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: woman_climbing
    location: assets/People & Body/woman_climbing.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':woman_climbing:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: woman_construction_worker
    location: assets/People & Body/woman_construction_worker.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':woman_construction_worker:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: woman_cook
    location: assets/People & Body/woman_cook.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':woman_cook:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: woman_detective
    location: assets/People & Body/woman_detective.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':woman_detective:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: woman_elf
    location: assets/People & Body/woman_elf.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':woman_elf:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: woman_facepalming
    location: assets/People & Body/woman_facepalming.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':woman_facepalming:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: woman_factory_worker
    location: assets/People & Body/woman_factory_worker.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':woman_factory_worker:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: woman_fairy
    location: assets/People & Body/woman_fairy.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':woman_fairy:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: woman_farmer
    location: assets/People & Body/woman_farmer.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':woman_farmer:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: woman_feeding_baby
    location: assets/People & Body/woman_feeding_baby.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':woman_feeding_baby:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: woman_firefighter
    location: assets/People & Body/woman_firefighter.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':woman_firefighter:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: woman_frowning
    location: assets/People & Body/woman_frowning.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':woman_frowning:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: woman_genie
    location: assets/People & Body/woman_genie.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':woman_genie:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: woman_gesturing_no
    location: assets/People & Body/woman_gesturing_no.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':woman_gesturing_no:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: woman_gesturing_ok
    location: assets/People & Body/woman_gesturing_ok.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':woman_gesturing_ok:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: woman_getting_haircut
    location: assets/People & Body/woman_getting_haircut.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':woman_getting_haircut:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: woman_golfing
    location: assets/People & Body/woman_golfing.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':woman_golfing:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: woman_guard
    location: assets/People & Body/woman_guard.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':woman_guard:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: woman_in_lotus_position
    location: assets/People & Body/woman_in_lotus_position.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':woman_in_lotus_position:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: woman_in_manual_wheelchair
    location: assets/People & Body/woman_in_manual_wheelchair.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':woman_in_manual_wheelchair:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: woman_in_motorized_wheelchair
    location: assets/People & Body/woman_in_motorized_wheelchair.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':woman_in_motorized_wheelchair:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: woman_in_steamy_room
    location: assets/People & Body/woman_in_steamy_room.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':woman_in_steamy_room:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: woman_in_tuxedo
    location: assets/People & Body/woman_in_tuxedo.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':woman_in_tuxedo:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: woman_judge
    location: assets/People & Body/woman_judge.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':woman_judge:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: woman_juggling
    location: assets/People & Body/woman_juggling.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':woman_juggling:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: woman_kneeling
    location: assets/People & Body/woman_kneeling.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':woman_kneeling:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: woman_lifting_weights
    location: assets/People & Body/woman_lifting_weights.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':woman_lifting_weights:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: woman_mage
    location: assets/People & Body/woman_mage.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':woman_mage:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: woman_mechanic
    location: assets/People & Body/woman_mechanic.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':woman_mechanic:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: woman_mountain_biking
    location: assets/People & Body/woman_mountain_biking.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':woman_mountain_biking:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: woman_office_worker
    location: assets/People & Body/woman_office_worker.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':woman_office_worker:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: woman_pilot
    location: assets/People & Body/woman_pilot.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':woman_pilot:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: woman_playing_handball
    location: assets/People & Body/woman_playing_handball.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':woman_playing_handball:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: woman_playing_water_polo
    location: assets/People & Body/woman_playing_water_polo.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':woman_playing_water_polo:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: woman_police_officer
    location: assets/People & Body/woman_police_officer.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':woman_police_officer:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: woman_pouting
    location: assets/People & Body/woman_pouting.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':woman_pouting:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: woman_raising_hand
    location: assets/People & Body/woman_raising_hand.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':woman_raising_hand:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: woman_rowing_boat
    location: assets/People & Body/woman_rowing_boat.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':woman_rowing_boat:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: woman_running
    location: assets/People & Body/woman_running.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':woman_running:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: woman_scientist
    location: assets/People & Body/woman_scientist.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':woman_scientist:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: woman_shrugging
    location: assets/People & Body/woman_shrugging.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':woman_shrugging:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: woman_singer
    location: assets/People & Body/woman_singer.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':woman_singer:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: woman_standing
    location: assets/People & Body/woman_standing.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':woman_standing:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: woman_student
    location: assets/People & Body/woman_student.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':woman_student:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: woman_superhero
    location: assets/People & Body/woman_superhero.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':woman_superhero:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: woman_supervillain
    location: assets/People & Body/woman_supervillain.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':woman_supervillain:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: woman_surfing
    location: assets/People & Body/woman_surfing.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':woman_surfing:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: woman_swimming
    location: assets/People & Body/woman_swimming.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':woman_swimming:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: woman_teacher
    location: assets/People & Body/woman_teacher.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':woman_teacher:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: woman_technologist
    location: assets/People & Body/woman_technologist.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':woman_technologist:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: woman_tipping_hand
    location: assets/People & Body/woman_tipping_hand.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':woman_tipping_hand:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: woman_vampire
    location: assets/People & Body/woman_vampire.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':woman_vampire:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: woman_walking
    location: assets/People & Body/woman_walking.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':woman_walking:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: woman_wearing_turban
    location: assets/People & Body/woman_wearing_turban.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':woman_wearing_turban:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: woman_with_probing_cane
    location: assets/People & Body/woman_with_probing_cane.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':woman_with_probing_cane:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: woman_with_veil
    location: assets/People & Body/woman_with_veil.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':woman_with_veil:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: woman_zombie
    location: assets/People & Body/woman_zombie.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':woman_zombie:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: women_with_bunny_ears_partying
    location: assets/People & Body/women_with_bunny_ears_partying.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':women_with_bunny_ears_partying:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: writing_hand
    location: assets/People & Body/writing_hand.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':writing_hand:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: zombie
    location: assets/People & Body/zombie.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':zombie:'

@@ -1,1225 +1,1225 @@
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: abacus
    location: assets/Objects/abacus.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':abacus:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: accordion
    location: assets/Objects/accordion.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':accordion:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: adhesive_bandage
    location: assets/Objects/adhesive_bandage.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':adhesive_bandage:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: alembic
    location: assets/Objects/alembic.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':alembic:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: athletic_shoe
    location: assets/Objects/athletic_shoe.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':athletic_shoe:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: axe
    location: assets/Objects/axe.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':axe:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: ballet_shoes
    location: assets/Objects/ballet_shoes.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':ballet_shoes:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: banjo
    location: assets/Objects/banjo.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':banjo:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: bar_chart
    location: assets/Objects/bar_chart.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':bar_chart:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: basket
    location: assets/Objects/basket.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':basket:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: bathtub
    location: assets/Objects/bathtub.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':bathtub:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: battery
    location: assets/Objects/battery.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':battery:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: bed
    location: assets/Objects/bed.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':bed:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: bell
    location: assets/Objects/bell.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':bell:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: bikini
    location: assets/Objects/bikini.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':bikini:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: billed_cap
    location: assets/Objects/billed_cap.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':billed_cap:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: black_nib
    location: assets/Objects/black_nib.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':black_nib:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: blue_book
    location: assets/Objects/blue_book.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':blue_book:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: bomb
    location: assets/Objects/bomb.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':bomb:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: book
    location: assets/Objects/book.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':book:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: bookmark
    location: assets/Objects/bookmark.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':bookmark:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: bookmark_tabs
    location: assets/Objects/bookmark_tabs.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':bookmark_tabs:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: books
    location: assets/Objects/books.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':books:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: boomerang
    location: assets/Objects/boomerang.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':boomerang:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: boot
    location: assets/Objects/boot.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':boot:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: bow_and_arrow
    location: assets/Objects/bow_and_arrow.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':bow_and_arrow:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: briefcase
    location: assets/Objects/briefcase.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':briefcase:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: briefs
    location: assets/Objects/briefs.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':briefs:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: broom
    location: assets/Objects/broom.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':broom:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: bubbles
    location: assets/Objects/bubbles.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':bubbles:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: bucket
    location: assets/Objects/bucket.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':bucket:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: bulb
    location: assets/Objects/bulb.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':bulb:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: calendar
    location: assets/Objects/calendar.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':calendar:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: calling
    location: assets/Objects/calling.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':calling:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: camera
    location: assets/Objects/camera.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':camera:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: camera_with_flash
    location: assets/Objects/camera_with_flash.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':camera_with_flash:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: candle
    location: assets/Objects/candle.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':candle:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: card_index
    location: assets/Objects/card_index.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':card_index:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: carpentry_saw
    location: assets/Objects/carpentry_saw.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':carpentry_saw:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: cd
    location: assets/Objects/cd.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':cd:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: chains
    location: assets/Objects/chains.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':chains:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: chair
    location: assets/Objects/chair.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':chair:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: chart
    location: assets/Objects/chart.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':chart:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: chart_with_downwards_trend
    location: assets/Objects/chart_with_downwards_trend.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':chart_with_downwards_trend:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: chart_with_upwards_trend
    location: assets/Objects/chart_with_upwards_trend.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':chart_with_upwards_trend:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: clapper
    location: assets/Objects/clapper.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':clapper:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: clipboard
    location: assets/Objects/clipboard.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':clipboard:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: closed_book
    location: assets/Objects/closed_book.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':closed_book:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: closed_lock_with_key
    location: assets/Objects/closed_lock_with_key.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':closed_lock_with_key:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: coat
    location: assets/Objects/coat.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':coat:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: coffin
    location: assets/Objects/coffin.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':coffin:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: coin
    location: assets/Objects/coin.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':coin:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: compression
    location: assets/Objects/compression.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':compression:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: computer
    location: assets/Objects/computer.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':computer:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: control_knobs
    location: assets/Objects/control_knobs.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':control_knobs:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: couch
    location: assets/Objects/couch.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':couch:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: crayon
    location: assets/Objects/crayon.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':crayon:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: credit_card
    location: assets/Objects/credit_card.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':credit_card:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: crossed_swords
    location: assets/Objects/crossed_swords.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':crossed_swords:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: crown
    location: assets/Objects/crown.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':crown:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: crutch
    location: assets/Objects/crutch.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':crutch:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: dagger
    location: assets/Objects/dagger.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':dagger:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: dark_sunglasses
    location: assets/Objects/dark_sunglasses.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':dark_sunglasses:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: date
    location: assets/Objects/date.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':date:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: desktop
    location: assets/Objects/desktop.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':desktop:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: dividers
    location: assets/Objects/dividers.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':dividers:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: diya_lamp
    location: assets/Objects/diya_lamp.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':diya_lamp:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: dna
    location: assets/Objects/dna.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':dna:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: dollar
    location: assets/Objects/dollar.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':dollar:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: door
    location: assets/Objects/door.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':door:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: dress
    location: assets/Objects/dress.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':dress:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: drop_of_blood
    location: assets/Objects/drop_of_blood.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':drop_of_blood:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: drum
    location: assets/Objects/drum.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':drum:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: dvd
    location: assets/Objects/dvd.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':dvd:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: electric_plug
    location: assets/Objects/electric_plug.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':electric_plug:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: elevator
    location: assets/Objects/elevator.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':elevator:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: envelope
    location: assets/Objects/envelope.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':envelope:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: envelope_with_arrow
    location: assets/Objects/envelope_with_arrow.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':envelope_with_arrow:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: euro
    location: assets/Objects/euro.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':euro:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: eyeglasses
    location: assets/Objects/eyeglasses.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':eyeglasses:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: e_mail
    location: assets/Objects/e_mail.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':e_mail:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: fax
    location: assets/Objects/fax.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':fax:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: file_cabinet
    location: assets/Objects/file_cabinet.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':file_cabinet:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: file_folder
    location: assets/Objects/file_folder.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':file_folder:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: film_frames
    location: assets/Objects/film_frames.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':film_frames:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: fire_extinguisher
    location: assets/Objects/fire_extinguisher.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':fire_extinguisher:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: flashlight
    location: assets/Objects/flashlight.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':flashlight:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: floppy_disk
    location: assets/Objects/floppy_disk.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':floppy_disk:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: flute
    location: assets/Objects/flute.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':flute:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: folding_hand_fan
    location: assets/Objects/folding_hand_fan.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':folding_hand_fan:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: gear
    location: assets/Objects/gear.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':gear:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: gem
    location: assets/Objects/gem.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':gem:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: gloves
    location: assets/Objects/gloves.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':gloves:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: goggles
    location: assets/Objects/goggles.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':goggles:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: green_book
    location: assets/Objects/green_book.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':green_book:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: guitar
    location: assets/Objects/guitar.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':guitar:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: hair_pick
    location: assets/Objects/hair_pick.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':hair_pick:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: hammer
    location: assets/Objects/hammer.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':hammer:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: hamsa
    location: assets/Objects/hamsa.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':hamsa:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: handbag
    location: assets/Objects/handbag.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':handbag:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: headphones
    location: assets/Objects/headphones.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':headphones:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: headstone
    location: assets/Objects/headstone.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':headstone:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: high_heel
    location: assets/Objects/high_heel.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':high_heel:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: hiking_boot
    location: assets/Objects/hiking_boot.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':hiking_boot:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: hook
    location: assets/Objects/hook.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':hook:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: identification_card
    location: assets/Objects/identification_card.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':identification_card:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: inbox_tray
    location: assets/Objects/inbox_tray.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':inbox_tray:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: incoming_envelope
    location: assets/Objects/incoming_envelope.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':incoming_envelope:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: izakaya_lantern
    location: assets/Objects/izakaya_lantern.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':izakaya_lantern:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: jeans
    location: assets/Objects/jeans.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':jeans:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: key
    location: assets/Objects/key.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':key:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: keyboard
    location: assets/Objects/keyboard.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':keyboard:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: kimono
    location: assets/Objects/kimono.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':kimono:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: label
    location: assets/Objects/label.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':label:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: lab_coat
    location: assets/Objects/lab_coat.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':lab_coat:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: ladder
    location: assets/Objects/ladder.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':ladder:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: ledger
    location: assets/Objects/ledger.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':ledger:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: level_slider
    location: assets/Objects/level_slider.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':level_slider:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: link
    location: assets/Objects/link.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':link:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: lipstick
    location: assets/Objects/lipstick.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':lipstick:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: lock
    location: assets/Objects/lock.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':lock:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: lock_with_ink_pen
    location: assets/Objects/lock_with_ink_pen.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':lock_with_ink_pen:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: long_drum
    location: assets/Objects/long_drum.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':long_drum:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: loudspeaker
    location: assets/Objects/loudspeaker.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':loudspeaker:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: loud_sound
    location: assets/Objects/loud_sound.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':loud_sound:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: low_battery
    location: assets/Objects/low_battery.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':low_battery:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: mag
    location: assets/Objects/mag.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':mag:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: magnet
    location: assets/Objects/magnet.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':magnet:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: mag_right
    location: assets/Objects/mag_right.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':mag_right:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: mailbox
    location: assets/Objects/mailbox.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':mailbox:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: mailbox_closed
    location: assets/Objects/mailbox_closed.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':mailbox_closed:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: mailbox_with_mail
    location: assets/Objects/mailbox_with_mail.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':mailbox_with_mail:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: mailbox_with_no_mail
    location: assets/Objects/mailbox_with_no_mail.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':mailbox_with_no_mail:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: mans_shoe
    location: assets/Objects/mans_shoe.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':mans_shoe:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: maracas
    location: assets/Objects/maracas.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':maracas:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: mega
    location: assets/Objects/mega.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':mega:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: microphone
    location: assets/Objects/microphone.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':microphone:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: microscope
    location: assets/Objects/microscope.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':microscope:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: military_helmet
    location: assets/Objects/military_helmet.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':military_helmet:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: minidisc
    location: assets/Objects/minidisc.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':minidisc:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: mirror
    location: assets/Objects/mirror.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':mirror:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: moneybag
    location: assets/Objects/moneybag.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':moneybag:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: money_with_wings
    location: assets/Objects/money_with_wings.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':money_with_wings:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: mortar_board
    location: assets/Objects/mortar_board.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':mortar_board:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: mouse_trap
    location: assets/Objects/mouse_trap.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':mouse_trap:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: movie_camera
    location: assets/Objects/movie_camera.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':movie_camera:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: moyai
    location: assets/Objects/moyai.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':moyai:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: musical_keyboard
    location: assets/Objects/musical_keyboard.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':musical_keyboard:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: musical_note
    location: assets/Objects/musical_note.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':musical_note:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: musical_score
    location: assets/Objects/musical_score.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':musical_score:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: mute
    location: assets/Objects/mute.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':mute:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: nazar_amulet
    location: assets/Objects/nazar_amulet.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':nazar_amulet:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: necktie
    location: assets/Objects/necktie.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':necktie:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: newspaper
    location: assets/Objects/newspaper.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':newspaper:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: notebook
    location: assets/Objects/notebook.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':notebook:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: notebook_with_decorative_cover
    location: assets/Objects/notebook_with_decorative_cover.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':notebook_with_decorative_cover:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: notes
    location: assets/Objects/notes.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':notes:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: no_bell
    location: assets/Objects/no_bell.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':no_bell:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: nut_and_bolt
    location: assets/Objects/nut_and_bolt.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':nut_and_bolt:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: oil
    location: assets/Objects/oil.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':oil:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: one_piece_swimsuit
    location: assets/Objects/one_piece_swimsuit.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':one_piece_swimsuit:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: open_file_folder
    location: assets/Objects/open_file_folder.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':open_file_folder:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: orange_book
    location: assets/Objects/orange_book.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':orange_book:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: outbox_tray
    location: assets/Objects/outbox_tray.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':outbox_tray:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: package
    location: assets/Objects/package.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':package:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: pager
    location: assets/Objects/pager.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':pager:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: page_facing_up
    location: assets/Objects/page_facing_up.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':page_facing_up:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: page_with_curl
    location: assets/Objects/page_with_curl.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':page_with_curl:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: paintbrush
    location: assets/Objects/paintbrush.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':paintbrush:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: paperclip
    location: assets/Objects/paperclip.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':paperclip:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: paperclips
    location: assets/Objects/paperclips.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':paperclips:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: pencil
    location: assets/Objects/pencil.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':pencil:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: pencil2
    location: assets/Objects/pencil2.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':pencil2:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: petri_dish
    location: assets/Objects/petri_dish.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':petri_dish:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: pick
    location: assets/Objects/pick.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':pick:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: pill
    location: assets/Objects/pill.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':pill:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: placard
    location: assets/Objects/placard.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':placard:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: plunger
    location: assets/Objects/plunger.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':plunger:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: postal_horn
    location: assets/Objects/postal_horn.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':postal_horn:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: postbox
    location: assets/Objects/postbox.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':postbox:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: pouch
    location: assets/Objects/pouch.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':pouch:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: pound
    location: assets/Objects/pound.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':pound:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: prayer_beads
    location: assets/Objects/prayer_beads.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':prayer_beads:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: printer
    location: assets/Objects/printer.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':printer:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: probing_cane
    location: assets/Objects/probing_cane.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':probing_cane:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: projector
    location: assets/Objects/projector.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':projector:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: purse
    location: assets/Objects/purse.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':purse:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: pushpin
    location: assets/Objects/pushpin.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':pushpin:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: radio
    location: assets/Objects/radio.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':radio:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: razor
    location: assets/Objects/razor.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':razor:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: receipt
    location: assets/Objects/receipt.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':receipt:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: ring
    location: assets/Objects/ring.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':ring:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: roll_of_paper
    location: assets/Objects/roll_of_paper.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':roll_of_paper:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: round_pushpin
    location: assets/Objects/round_pushpin.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':round_pushpin:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: safety_pin
    location: assets/Objects/safety_pin.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':safety_pin:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: safety_vest
    location: assets/Objects/safety_vest.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':safety_vest:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: sandal
    location: assets/Objects/sandal.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':sandal:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: sari
    location: assets/Objects/sari.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':sari:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: saxophone
    location: assets/Objects/saxophone.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':saxophone:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: scales
    location: assets/Objects/scales.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':scales:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: scarf
    location: assets/Objects/scarf.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':scarf:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: school_satchel
    location: assets/Objects/school_satchel.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':school_satchel:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: scissors
    location: assets/Objects/scissors.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':scissors:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: screwdriver
    location: assets/Objects/screwdriver.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':screwdriver:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: scroll
    location: assets/Objects/scroll.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':scroll:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: shield
    location: assets/Objects/shield.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':shield:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: shirt
    location: assets/Objects/shirt.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':shirt:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: shopping_bags
    location: assets/Objects/shopping_bags.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':shopping_bags:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: shorts
    location: assets/Objects/shorts.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':shorts:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: shower
    location: assets/Objects/shower.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':shower:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: smoking
    location: assets/Objects/smoking.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':smoking:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: soap
    location: assets/Objects/soap.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':soap:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: socks
    location: assets/Objects/socks.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':socks:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: sound
    location: assets/Objects/sound.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':sound:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: speaker
    location: assets/Objects/speaker.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':speaker:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: sponge
    location: assets/Objects/sponge.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':sponge:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: stethoscope
    location: assets/Objects/stethoscope.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':stethoscope:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: straight_ruler
    location: assets/Objects/straight_ruler.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':straight_ruler:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: syringe
    location: assets/Objects/syringe.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':syringe:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: telephone
    location: assets/Objects/telephone.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':telephone:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: telephone_receiver
    location: assets/Objects/telephone_receiver.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':telephone_receiver:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: telescope
    location: assets/Objects/telescope.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':telescope:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: test_tube
    location: assets/Objects/test_tube.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':test_tube:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: thong_sandal
    location: assets/Objects/thong_sandal.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':thong_sandal:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: toilet
    location: assets/Objects/toilet.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':toilet:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: toolbox
    location: assets/Objects/toolbox.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':toolbox:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: toothbrush
    location: assets/Objects/toothbrush.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':toothbrush:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: tophat
    location: assets/Objects/tophat.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':tophat:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: trackball
    location: assets/Objects/trackball.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':trackball:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: triangular_ruler
    location: assets/Objects/triangular_ruler.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':triangular_ruler:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: trumpet
    location: assets/Objects/trumpet.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':trumpet:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: tv
    location: assets/Objects/tv.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':tv:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: unlock
    location: assets/Objects/unlock.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':unlock:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: urn
    location: assets/Objects/urn.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':urn:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: vhs
    location: assets/Objects/vhs.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':vhs:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: video_camera
    location: assets/Objects/video_camera.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':video_camera:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: violin
    location: assets/Objects/violin.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':violin:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: wastebasket
    location: assets/Objects/wastebasket.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':wastebasket:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: window
    location: assets/Objects/window.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':window:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: womans_clothes
    location: assets/Objects/womans_clothes.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':womans_clothes:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: womans_flat_shoe
    location: assets/Objects/womans_flat_shoe.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':womans_flat_shoe:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: womans_hat
    location: assets/Objects/womans_hat.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':womans_hat:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: wrench
    location: assets/Objects/wrench.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':wrench:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: x_ray
    location: assets/Objects/x_ray.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':x_ray:'
-- !com.hrznstudio.emojiful.CommonClass$YamlEmoji
+- 
    name: yen
    location: assets/Objects/yen.png
-   strings: !java.util.Arrays$ArrayList
+   strings: 
    - ':yen:'
