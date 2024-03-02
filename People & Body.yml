@@ -1,643 +1,223 @@
 - 
-   name: adult
-   location: assets/People & Body/adult.png
+   name: wave
+   location: assets/People & Body/wave.png
    strings: 
-   - ':adult:'
+   - ':wave:'
 - 
-   name: anatomical_heart
-   location: assets/People & Body/anatomical_heart.png
+   name: raised_back_of_hand
+   location: assets/People & Body/raised_back_of_hand.png
    strings: 
-   - ':anatomical_heart:'
+   - ':raised_back_of_hand:'
 - 
-   name: angel
-   location: assets/People & Body/angel.png
+   name: raised_hand_with_fingers_splayed
+   location: assets/People & Body/raised_hand_with_fingers_splayed.png
    strings: 
-   - ':angel:'
+   - ':raised_hand_with_fingers_splayed:'
 - 
-   name: artist
-   location: assets/People & Body/artist.png
+   name: hand
+   location: assets/People & Body/hand.png
    strings: 
-   - ':artist:'
+   - ':hand:'
 - 
-   name: astronaut
-   location: assets/People & Body/astronaut.png
+   name: spock_hand
+   location: assets/People & Body/spock_hand.png
    strings: 
-   - ':astronaut:'
+   - ':spock_hand:'
 - 
-   name: baby
-   location: assets/People & Body/baby.png
+   name: rightwards_hand
+   location: assets/People & Body/rightwards_hand.png
    strings: 
-   - ':baby:'
-- 
-   name: bath
-   location: assets/People & Body/bath.png
-   strings: 
-   - ':bath:'
-- 
-   name: bearded_person
-   location: assets/People & Body/bearded_person.png
-   strings: 
-   - ':bearded_person:'
-- 
-   name: biting_lip
-   location: assets/People & Body/biting_lip.png
-   strings: 
-   - ':biting_lip:'
-- 
-   name: blond_haired_man
-   location: assets/People & Body/blond_haired_man.png
-   strings: 
-   - ':blond_haired_man:'
-- 
-   name: blond_haired_woman
-   location: assets/People & Body/blond_haired_woman.png
-   strings: 
-   - ':blond_haired_woman:'
-- 
-   name: bone
-   location: assets/People & Body/bone.png
-   strings: 
-   - ':bone:'
-- 
-   name: boy
-   location: assets/People & Body/boy.png
-   strings: 
-   - ':boy:'
-- 
-   name: brain
-   location: assets/People & Body/brain.png
-   strings: 
-   - ':brain:'
-- 
-   name: breast_feeding
-   location: assets/People & Body/breast_feeding.png
-   strings: 
-   - ':breast_feeding:'
-- 
-   name: busts_in_silhouette
-   location: assets/People & Body/busts_in_silhouette.png
-   strings: 
-   - ':busts_in_silhouette:'
-- 
-   name: bust_in_silhouette
-   location: assets/People & Body/bust_in_silhouette.png
-   strings: 
-   - ':bust_in_silhouette:'
-- 
-   name: call_me
-   location: assets/People & Body/call_me.png
-   strings: 
-   - ':call_me:'
-- 
-   name: child
-   location: assets/People & Body/child.png
-   strings: 
-   - ':child:'
-- 
-   name: clap
-   location: assets/People & Body/clap.png
-   strings: 
-   - ':clap:'
-- 
-   name: construction_worker
-   location: assets/People & Body/construction_worker.png
-   strings: 
-   - ':construction_worker:'
-- 
-   name: cook
-   location: assets/People & Body/cook.png
-   strings: 
-   - ':cook:'
-- 
-   name: couple
-   location: assets/People & Body/couple.png
-   strings: 
-   - ':couple:'
-- 
-   name: couplekiss
-   location: assets/People & Body/couplekiss.png
-   strings: 
-   - ':couplekiss:'
-- 
-   name: couple_with_heart
-   location: assets/People & Body/couple_with_heart.png
-   strings: 
-   - ':couple_with_heart:'
-- 
-   name: curly_hair
-   location: assets/People & Body/curly_hair.png
-   strings: 
-   - ':curly_hair:'
-- 
-   name: dancer
-   location: assets/People & Body/dancer.png
-   strings: 
-   - ':dancer:'
-- 
-   name: deaf_man
-   location: assets/People & Body/deaf_man.png
-   strings: 
-   - ':deaf_man:'
-- 
-   name: deaf_person
-   location: assets/People & Body/deaf_person.png
-   strings: 
-   - ':deaf_person:'
-- 
-   name: deaf_woman
-   location: assets/People & Body/deaf_woman.png
-   strings: 
-   - ':deaf_woman:'
-- 
-   name: detective
-   location: assets/People & Body/detective.png
-   strings: 
-   - ':detective:'
-- 
-   name: ear
-   location: assets/People & Body/ear.png
-   strings: 
-   - ':ear:'
-- 
-   name: ear_with_hearing_aid
-   location: assets/People & Body/ear_with_hearing_aid.png
-   strings: 
-   - ':ear_with_hearing_aid:'
-- 
-   name: elf
-   location: assets/People & Body/elf.png
-   strings: 
-   - ':elf:'
-- 
-   name: eye
-   location: assets/People & Body/eye.png
-   strings: 
-   - ':eye:'
-- 
-   name: eyes
-   location: assets/People & Body/eyes.png
-   strings: 
-   - ':eyes:'
-- 
-   name: factory_worker
-   location: assets/People & Body/factory_worker.png
-   strings: 
-   - ':factory_worker:'
-- 
-   name: fairy
-   location: assets/People & Body/fairy.png
-   strings: 
-   - ':fairy:'
-- 
-   name: family
-   location: assets/People & Body/family.png
-   strings: 
-   - ':family:'
-- 
-   name: farmer
-   location: assets/People & Body/farmer.png
-   strings: 
-   - ':farmer:'
-- 
-   name: fingers_crossed
-   location: assets/People & Body/fingers_crossed.png
-   strings: 
-   - ':fingers_crossed:'
-- 
-   name: firefighter
-   location: assets/People & Body/firefighter.png
-   strings: 
-   - ':firefighter:'
-- 
-   name: fist
-   location: assets/People & Body/fist.png
-   strings: 
-   - ':fist:'
-- 
-   name: foot
-   location: assets/People & Body/foot.png
-   strings: 
-   - ':foot:'
-- 
-   name: footprints
-   location: assets/People & Body/footprints.png
-   strings: 
-   - ':footprints:'
-- 
-   name: genie
-   location: assets/People & Body/genie.png
-   strings: 
-   - ':genie:'
-- 
-   name: girl
-   location: assets/People & Body/girl.png
-   strings: 
-   - ':girl:'
-- 
-   name: guard
-   location: assets/People & Body/guard.png
-   strings: 
-   - ':guard:'
-- 
-   name: handshake
-   location: assets/People & Body/handshake.png
-   strings: 
-   - ':handshake:'
-- 
-   name: hand_with_index_finger_and_thumb_crossed
-   location: assets/People & Body/hand_with_index_finger_and_thumb_crossed.png
-   strings: 
-   - ':hand_with_index_finger_and_thumb_crossed:'
-- 
-   name: health_worker
-   location: assets/People & Body/health_worker.png
-   strings: 
-   - ':health_worker:'
-- 
-   name: heart_hands
-   location: assets/People & Body/heart_hands.png
-   strings: 
-   - ':heart_hands:'
-- 
-   name: horse_racing
-   location: assets/People & Body/horse_racing.png
-   strings: 
-   - ':horse_racing:'
-- 
-   name: index_pointing_at_the_viewer
-   location: assets/People & Body/index_pointing_at_the_viewer.png
-   strings: 
-   - ':index_pointing_at_the_viewer:'
-- 
-   name: judge
-   location: assets/People & Body/judge.png
-   strings: 
-   - ':judge:'
+   - ':rightwards_hand:'
 - 
    name: leftwards_hand
    location: assets/People & Body/leftwards_hand.png
    strings: 
    - ':leftwards_hand:'
 - 
+   name: palm_down_hand
+   location: assets/People & Body/palm_down_hand.png
+   strings: 
+   - ':palm_down_hand:'
+- 
+   name: palm_up_hand
+   location: assets/People & Body/palm_up_hand.png
+   strings: 
+   - ':palm_up_hand:'
+- 
    name: leftwards_pushing_hand
    location: assets/People & Body/leftwards_pushing_hand.png
    strings: 
    - ':leftwards_pushing_hand:'
+- 
+   name: rightwards_pushing_hand
+   location: assets/People & Body/rightwards_pushing_hand.png
+   strings: 
+   - ':rightwards_pushing_hand:'
+- 
+   name: ok_hand
+   location: assets/People & Body/ok_hand.png
+   strings: 
+   - ':ok_hand:'
+- 
+   name: pinched_fingers
+   location: assets/People & Body/pinched_fingers.png
+   strings: 
+   - ':pinched_fingers:'
+- 
+   name: pinching_hand
+   location: assets/People & Body/pinching_hand.png
+   strings: 
+   - ':pinching_hand:'
+- 
+   name: v
+   location: assets/People & Body/v.png
+   strings: 
+   - ':v:'
+- 
+   name: crossed_fingers
+   location: assets/People & Body/crossed_fingers.png
+   strings: 
+   - ':crossed_fingers:'
+- 
+   name: hand_with_index_finger_and_thumb_crossed
+   location: assets/People & Body/hand_with_index_finger_and_thumb_crossed.png
+   strings: 
+   - ':hand_with_index_finger_and_thumb_crossed:'
+- 
+   name: i_love_you_hand_sign
+   location: assets/People & Body/i_love_you_hand_sign.png
+   strings: 
+   - ':i_love_you_hand_sign:'
+- 
+   name: the_horns
+   location: assets/People & Body/the_horns.png
+   strings: 
+   - ':the_horns:'
+- 
+   name: call_me_hand
+   location: assets/People & Body/call_me_hand.png
+   strings: 
+   - ':call_me_hand:'
+- 
+   name: point_left
+   location: assets/People & Body/point_left.png
+   strings: 
+   - ':point_left:'
+- 
+   name: point_right
+   location: assets/People & Body/point_right.png
+   strings: 
+   - ':point_right:'
+- 
+   name: point_up_2
+   location: assets/People & Body/point_up_2.png
+   strings: 
+   - ':point_up_2:'
+- 
+   name: middle_finger
+   location: assets/People & Body/middle_finger.png
+   strings: 
+   - ':middle_finger:'
+- 
+   name: point_down
+   location: assets/People & Body/point_down.png
+   strings: 
+   - ':point_down:'
+- 
+   name: point_up
+   location: assets/People & Body/point_up.png
+   strings: 
+   - ':point_up:'
+- 
+   name: index_pointing_at_the_viewer
+   location: assets/People & Body/index_pointing_at_the_viewer.png
+   strings: 
+   - ':index_pointing_at_the_viewer:'
+- 
+   name: +1
+   location: assets/People & Body/+1.png
+   strings: 
+   - ':+1:'
+- 
+   name: _1
+   location: assets/People & Body/-1.png
+   strings: 
+   - ':_1:'
+- 
+   name: fist
+   location: assets/People & Body/fist.png
+   strings: 
+   - ':fist:'
+- 
+   name: facepunch
+   location: assets/People & Body/facepunch.png
+   strings: 
+   - ':facepunch:'
 - 
    name: left_facing_fist
    location: assets/People & Body/left_facing_fist.png
    strings: 
    - ':left_facing_fist:'
 - 
-   name: leg
-   location: assets/People & Body/leg.png
+   name: right_facing_fist
+   location: assets/People & Body/right_facing_fist.png
    strings: 
-   - ':leg:'
+   - ':right_facing_fist:'
 - 
-   name: lips
-   location: assets/People & Body/lips.png
+   name: clap
+   location: assets/People & Body/clap.png
    strings: 
-   - ':lips:'
+   - ':clap:'
 - 
-   name: lungs
-   location: assets/People & Body/lungs.png
+   name: raised_hands
+   location: assets/People & Body/raised_hands.png
    strings: 
-   - ':lungs:'
+   - ':raised_hands:'
 - 
-   name: mage
-   location: assets/People & Body/mage.png
+   name: heart_hands
+   location: assets/People & Body/heart_hands.png
    strings: 
-   - ':mage:'
+   - ':heart_hands:'
 - 
-   name: man
-   location: assets/People & Body/man.png
+   name: open_hands
+   location: assets/People & Body/open_hands.png
    strings: 
-   - ':man:'
+   - ':open_hands:'
 - 
-   name: man_artist
-   location: assets/People & Body/man_artist.png
+   name: palms_up_together
+   location: assets/People & Body/palms_up_together.png
    strings: 
-   - ':man_artist:'
+   - ':palms_up_together:'
 - 
-   name: man_astronaut
-   location: assets/People & Body/man_astronaut.png
+   name: handshake
+   location: assets/People & Body/handshake.png
    strings: 
-   - ':man_astronaut:'
+   - ':handshake:'
 - 
-   name: man_biking
-   location: assets/People & Body/man_biking.png
+   name: pray
+   location: assets/People & Body/pray.png
    strings: 
-   - ':man_biking:'
+   - ':pray:'
 - 
-   name: man_bouncing_ball
-   location: assets/People & Body/man_bouncing_ball.png
+   name: writing_hand
+   location: assets/People & Body/writing_hand.png
    strings: 
-   - ':man_bouncing_ball:'
+   - ':writing_hand:'
 - 
-   name: man_bowing
-   location: assets/People & Body/man_bowing.png
+   name: nail_care
+   location: assets/People & Body/nail_care.png
    strings: 
-   - ':man_bowing:'
+   - ':nail_care:'
 - 
-   name: man_cartwheeling
-   location: assets/People & Body/man_cartwheeling.png
+   name: selfie
+   location: assets/People & Body/selfie.png
    strings: 
-   - ':man_cartwheeling:'
+   - ':selfie:'
 - 
-   name: man_climbing
-   location: assets/People & Body/man_climbing.png
+   name: muscle
+   location: assets/People & Body/muscle.png
    strings: 
-   - ':man_climbing:'
-- 
-   name: man_construction_worker
-   location: assets/People & Body/man_construction_worker.png
-   strings: 
-   - ':man_construction_worker:'
-- 
-   name: man_cook
-   location: assets/People & Body/man_cook.png
-   strings: 
-   - ':man_cook:'
-- 
-   name: man_dancing
-   location: assets/People & Body/man_dancing.png
-   strings: 
-   - ':man_dancing:'
-- 
-   name: man_detective
-   location: assets/People & Body/man_detective.png
-   strings: 
-   - ':man_detective:'
-- 
-   name: man_elf
-   location: assets/People & Body/man_elf.png
-   strings: 
-   - ':man_elf:'
-- 
-   name: man_facepalming
-   location: assets/People & Body/man_facepalming.png
-   strings: 
-   - ':man_facepalming:'
-- 
-   name: man_factory_worker
-   location: assets/People & Body/man_factory_worker.png
-   strings: 
-   - ':man_factory_worker:'
-- 
-   name: man_fairy
-   location: assets/People & Body/man_fairy.png
-   strings: 
-   - ':man_fairy:'
-- 
-   name: man_farmer
-   location: assets/People & Body/man_farmer.png
-   strings: 
-   - ':man_farmer:'
-- 
-   name: man_feeding_baby
-   location: assets/People & Body/man_feeding_baby.png
-   strings: 
-   - ':man_feeding_baby:'
-- 
-   name: man_firefighter
-   location: assets/People & Body/man_firefighter.png
-   strings: 
-   - ':man_firefighter:'
-- 
-   name: man_frowning
-   location: assets/People & Body/man_frowning.png
-   strings: 
-   - ':man_frowning:'
-- 
-   name: man_genie
-   location: assets/People & Body/man_genie.png
-   strings: 
-   - ':man_genie:'
-- 
-   name: man_gesturing_no
-   location: assets/People & Body/man_gesturing_no.png
-   strings: 
-   - ':man_gesturing_no:'
-- 
-   name: man_gesturing_ok
-   location: assets/People & Body/man_gesturing_ok.png
-   strings: 
-   - ':man_gesturing_ok:'
-- 
-   name: man_getting_haircut
-   location: assets/People & Body/man_getting_haircut.png
-   strings: 
-   - ':man_getting_haircut:'
-- 
-   name: man_golfing
-   location: assets/People & Body/man_golfing.png
-   strings: 
-   - ':man_golfing:'
-- 
-   name: man_guard
-   location: assets/People & Body/man_guard.png
-   strings: 
-   - ':man_guard:'
-- 
-   name: man_in_lotus_position
-   location: assets/People & Body/man_in_lotus_position.png
-   strings: 
-   - ':man_in_lotus_position:'
-- 
-   name: man_in_manual_wheelchair
-   location: assets/People & Body/man_in_manual_wheelchair.png
-   strings: 
-   - ':man_in_manual_wheelchair:'
-- 
-   name: man_in_motorized_wheelchair
-   location: assets/People & Body/man_in_motorized_wheelchair.png
-   strings: 
-   - ':man_in_motorized_wheelchair:'
-- 
-   name: man_in_steamy_room
-   location: assets/People & Body/man_in_steamy_room.png
-   strings: 
-   - ':man_in_steamy_room:'
-- 
-   name: man_in_tuxedo
-   location: assets/People & Body/man_in_tuxedo.png
-   strings: 
-   - ':man_in_tuxedo:'
-- 
-   name: man_judge
-   location: assets/People & Body/man_judge.png
-   strings: 
-   - ':man_judge:'
-- 
-   name: man_juggling
-   location: assets/People & Body/man_juggling.png
-   strings: 
-   - ':man_juggling:'
-- 
-   name: man_kneeling
-   location: assets/People & Body/man_kneeling.png
-   strings: 
-   - ':man_kneeling:'
-- 
-   name: man_lifting_weights
-   location: assets/People & Body/man_lifting_weights.png
-   strings: 
-   - ':man_lifting_weights:'
-- 
-   name: man_mage
-   location: assets/People & Body/man_mage.png
-   strings: 
-   - ':man_mage:'
-- 
-   name: man_mechanic
-   location: assets/People & Body/man_mechanic.png
-   strings: 
-   - ':man_mechanic:'
-- 
-   name: man_mountain_biking
-   location: assets/People & Body/man_mountain_biking.png
-   strings: 
-   - ':man_mountain_biking:'
-- 
-   name: man_office_worker
-   location: assets/People & Body/man_office_worker.png
-   strings: 
-   - ':man_office_worker:'
-- 
-   name: man_pilot
-   location: assets/People & Body/man_pilot.png
-   strings: 
-   - ':man_pilot:'
-- 
-   name: man_playing_handball
-   location: assets/People & Body/man_playing_handball.png
-   strings: 
-   - ':man_playing_handball:'
-- 
-   name: man_playing_water_polo
-   location: assets/People & Body/man_playing_water_polo.png
-   strings: 
-   - ':man_playing_water_polo:'
-- 
-   name: man_police_officer
-   location: assets/People & Body/man_police_officer.png
-   strings: 
-   - ':man_police_officer:'
-- 
-   name: man_pouting
-   location: assets/People & Body/man_pouting.png
-   strings: 
-   - ':man_pouting:'
-- 
-   name: man_raising_hand
-   location: assets/People & Body/man_raising_hand.png
-   strings: 
-   - ':man_raising_hand:'
-- 
-   name: man_rowing_boat
-   location: assets/People & Body/man_rowing_boat.png
-   strings: 
-   - ':man_rowing_boat:'
-- 
-   name: man_running
-   location: assets/People & Body/man_running.png
-   strings: 
-   - ':man_running:'
-- 
-   name: man_scientist
-   location: assets/People & Body/man_scientist.png
-   strings: 
-   - ':man_scientist:'
-- 
-   name: man_shrugging
-   location: assets/People & Body/man_shrugging.png
-   strings: 
-   - ':man_shrugging:'
-- 
-   name: man_singer
-   location: assets/People & Body/man_singer.png
-   strings: 
-   - ':man_singer:'
-- 
-   name: man_standing
-   location: assets/People & Body/man_standing.png
-   strings: 
-   - ':man_standing:'
-- 
-   name: man_student
-   location: assets/People & Body/man_student.png
-   strings: 
-   - ':man_student:'
-- 
-   name: man_superhero
-   location: assets/People & Body/man_superhero.png
-   strings: 
-   - ':man_superhero:'
-- 
-   name: man_supervillain
-   location: assets/People & Body/man_supervillain.png
-   strings: 
-   - ':man_supervillain:'
-- 
-   name: man_surfing
-   location: assets/People & Body/man_surfing.png
-   strings: 
-   - ':man_surfing:'
-- 
-   name: man_swimming
-   location: assets/People & Body/man_swimming.png
-   strings: 
-   - ':man_swimming:'
-- 
-   name: man_teacher
-   location: assets/People & Body/man_teacher.png
-   strings: 
-   - ':man_teacher:'
-- 
-   name: man_technologist
-   location: assets/People & Body/man_technologist.png
-   strings: 
-   - ':man_technologist:'
-- 
-   name: man_tipping_hand
-   location: assets/People & Body/man_tipping_hand.png
-   strings: 
-   - ':man_tipping_hand:'
-- 
-   name: man_vampire
-   location: assets/People & Body/man_vampire.png
-   strings: 
-   - ':man_vampire:'
-- 
-   name: man_walking
-   location: assets/People & Body/man_walking.png
-   strings: 
-   - ':man_walking:'
-- 
-   name: man_wearing_turban
-   location: assets/People & Body/man_wearing_turban.png
-   strings: 
-   - ':man_wearing_turban:'
-- 
-   name: man_with_probing_cane
-   location: assets/People & Body/man_with_probing_cane.png
-   strings: 
-   - ':man_with_probing_cane:'
-- 
-   name: man_with_veil
-   location: assets/People & Body/man_with_veil.png
-   strings: 
-   - ':man_with_veil:'
-- 
-   name: man_zombie
-   location: assets/People & Body/man_zombie.png
-   strings: 
-   - ':man_zombie:'
-- 
-   name: mechanic
-   location: assets/People & Body/mechanic.png
-   strings: 
-   - ':mechanic:'
+   - ':muscle:'
 - 
    name: mechanical_arm
    location: assets/People & Body/mechanical_arm.png
@@ -649,70 +229,205 @@
    strings: 
    - ':mechanical_leg:'
 - 
-   name: men_with_bunny_ears_partying
-   location: assets/People & Body/men_with_bunny_ears_partying.png
+   name: leg
+   location: assets/People & Body/leg.png
    strings: 
-   - ':men_with_bunny_ears_partying:'
+   - ':leg:'
 - 
-   name: mermaid
-   location: assets/People & Body/mermaid.png
+   name: foot
+   location: assets/People & Body/foot.png
    strings: 
-   - ':mermaid:'
+   - ':foot:'
 - 
-   name: merman
-   location: assets/People & Body/merman.png
+   name: ear
+   location: assets/People & Body/ear.png
    strings: 
-   - ':merman:'
+   - ':ear:'
 - 
-   name: merperson
-   location: assets/People & Body/merperson.png
+   name: ear_with_hearing_aid
+   location: assets/People & Body/ear_with_hearing_aid.png
    strings: 
-   - ':merperson:'
-- 
-   name: middle_finger
-   location: assets/People & Body/middle_finger.png
-   strings: 
-   - ':middle_finger:'
-- 
-   name: mrs_claus
-   location: assets/People & Body/mrs_claus.png
-   strings: 
-   - ':mrs_claus:'
-- 
-   name: muscle
-   location: assets/People & Body/muscle.png
-   strings: 
-   - ':muscle:'
-- 
-   name: mx_claus
-   location: assets/People & Body/mx_claus.png
-   strings: 
-   - ':mx_claus:'
-- 
-   name: nail_care
-   location: assets/People & Body/nail_care.png
-   strings: 
-   - ':nail_care:'
-- 
-   name: ninja
-   location: assets/People & Body/ninja.png
-   strings: 
-   - ':ninja:'
+   - ':ear_with_hearing_aid:'
 - 
    name: nose
    location: assets/People & Body/nose.png
    strings: 
    - ':nose:'
 - 
-   name: office_worker
-   location: assets/People & Body/office_worker.png
+   name: brain
+   location: assets/People & Body/brain.png
    strings: 
-   - ':office_worker:'
+   - ':brain:'
 - 
-   name: ok_hand
-   location: assets/People & Body/ok_hand.png
+   name: anatomical_heart
+   location: assets/People & Body/anatomical_heart.png
    strings: 
-   - ':ok_hand:'
+   - ':anatomical_heart:'
+- 
+   name: lungs
+   location: assets/People & Body/lungs.png
+   strings: 
+   - ':lungs:'
+- 
+   name: tooth
+   location: assets/People & Body/tooth.png
+   strings: 
+   - ':tooth:'
+- 
+   name: bone
+   location: assets/People & Body/bone.png
+   strings: 
+   - ':bone:'
+- 
+   name: eyes
+   location: assets/People & Body/eyes.png
+   strings: 
+   - ':eyes:'
+- 
+   name: eye
+   location: assets/People & Body/eye.png
+   strings: 
+   - ':eye:'
+- 
+   name: tongue
+   location: assets/People & Body/tongue.png
+   strings: 
+   - ':tongue:'
+- 
+   name: lips
+   location: assets/People & Body/lips.png
+   strings: 
+   - ':lips:'
+- 
+   name: biting_lip
+   location: assets/People & Body/biting_lip.png
+   strings: 
+   - ':biting_lip:'
+- 
+   name: baby
+   location: assets/People & Body/baby.png
+   strings: 
+   - ':baby:'
+- 
+   name: child
+   location: assets/People & Body/child.png
+   strings: 
+   - ':child:'
+- 
+   name: boy
+   location: assets/People & Body/boy.png
+   strings: 
+   - ':boy:'
+- 
+   name: girl
+   location: assets/People & Body/girl.png
+   strings: 
+   - ':girl:'
+- 
+   name: adult
+   location: assets/People & Body/adult.png
+   strings: 
+   - ':adult:'
+- 
+   name: person_with_blond_hair
+   location: assets/People & Body/person_with_blond_hair.png
+   strings: 
+   - ':person_with_blond_hair:'
+- 
+   name: man
+   location: assets/People & Body/man.png
+   strings: 
+   - ':man:'
+- 
+   name: bearded_person
+   location: assets/People & Body/bearded_person.png
+   strings: 
+   - ':bearded_person:'
+- 
+   name: man_with_beard
+   location: assets/People & Body/man_with_beard.png
+   strings: 
+   - ':man_with_beard:'
+- 
+   name: woman_with_beard
+   location: assets/People & Body/woman_with_beard.png
+   strings: 
+   - ':woman_with_beard:'
+- 
+   name: red_haired_man
+   location: assets/People & Body/red_haired_man.png
+   strings: 
+   - ':red_haired_man:'
+- 
+   name: curly_haired_man
+   location: assets/People & Body/curly_haired_man.png
+   strings: 
+   - ':curly_haired_man:'
+- 
+   name: white_haired_man
+   location: assets/People & Body/white_haired_man.png
+   strings: 
+   - ':white_haired_man:'
+- 
+   name: bald_man
+   location: assets/People & Body/bald_man.png
+   strings: 
+   - ':bald_man:'
+- 
+   name: woman
+   location: assets/People & Body/woman.png
+   strings: 
+   - ':woman:'
+- 
+   name: red_haired_woman
+   location: assets/People & Body/red_haired_woman.png
+   strings: 
+   - ':red_haired_woman:'
+- 
+   name: red_haired_person
+   location: assets/People & Body/red_haired_person.png
+   strings: 
+   - ':red_haired_person:'
+- 
+   name: curly_haired_woman
+   location: assets/People & Body/curly_haired_woman.png
+   strings: 
+   - ':curly_haired_woman:'
+- 
+   name: curly_haired_person
+   location: assets/People & Body/curly_haired_person.png
+   strings: 
+   - ':curly_haired_person:'
+- 
+   name: white_haired_woman
+   location: assets/People & Body/white_haired_woman.png
+   strings: 
+   - ':white_haired_woman:'
+- 
+   name: white_haired_person
+   location: assets/People & Body/white_haired_person.png
+   strings: 
+   - ':white_haired_person:'
+- 
+   name: bald_woman
+   location: assets/People & Body/bald_woman.png
+   strings: 
+   - ':bald_woman:'
+- 
+   name: bald_person
+   location: assets/People & Body/bald_person.png
+   strings: 
+   - ':bald_person:'
+- 
+   name: blond_haired_woman
+   location: assets/People & Body/blond_haired_woman.png
+   strings: 
+   - ':blond_haired_woman:'
+- 
+   name: blond_haired_man
+   location: assets/People & Body/blond_haired_man.png
+   strings: 
+   - ':blond_haired_man:'
 - 
    name: older_adult
    location: assets/People & Body/older_adult.png
@@ -729,155 +444,460 @@
    strings: 
    - ':older_woman:'
 - 
-   name: open_hands
-   location: assets/People & Body/open_hands.png
-   strings: 
-   - ':open_hands:'
-- 
-   name: palms_up_together
-   location: assets/People & Body/palms_up_together.png
-   strings: 
-   - ':palms_up_together:'
-- 
-   name: palm_down_hand
-   location: assets/People & Body/palm_down_hand.png
-   strings: 
-   - ':palm_down_hand:'
-- 
-   name: palm_up_hand
-   location: assets/People & Body/palm_up_hand.png
-   strings: 
-   - ':palm_up_hand:'
-- 
-   name: people_holding_hands
-   location: assets/People & Body/people_holding_hands.png
-   strings: 
-   - ':people_holding_hands:'
-- 
-   name: people_hugging
-   location: assets/People & Body/people_hugging.png
-   strings: 
-   - ':people_hugging:'
-- 
-   name: person_climbing
-   location: assets/People & Body/person_climbing.png
-   strings: 
-   - ':person_climbing:'
-- 
-   name: person_doing_cartwheel
-   location: assets/People & Body/person_doing_cartwheel.png
-   strings: 
-   - ':person_doing_cartwheel:'
-- 
-   name: person_feeding_baby
-   location: assets/People & Body/person_feeding_baby.png
-   strings: 
-   - ':person_feeding_baby:'
-- 
    name: person_frowning
    location: assets/People & Body/person_frowning.png
    strings: 
    - ':person_frowning:'
 - 
-   name: person_in_lotus_position
-   location: assets/People & Body/person_in_lotus_position.png
+   name: man_frowning
+   location: assets/People & Body/man_frowning.png
    strings: 
-   - ':person_in_lotus_position:'
+   - ':man_frowning:'
 - 
-   name: person_in_manual_wheelchair
-   location: assets/People & Body/person_in_manual_wheelchair.png
+   name: woman_frowning
+   location: assets/People & Body/woman_frowning.png
    strings: 
-   - ':person_in_manual_wheelchair:'
+   - ':woman_frowning:'
 - 
-   name: person_in_motorized_wheelchair
-   location: assets/People & Body/person_in_motorized_wheelchair.png
+   name: person_with_pouting_face
+   location: assets/People & Body/person_with_pouting_face.png
    strings: 
-   - ':person_in_motorized_wheelchair:'
+   - ':person_with_pouting_face:'
 - 
-   name: person_in_steamy_room
-   location: assets/People & Body/person_in_steamy_room.png
+   name: man_pouting
+   location: assets/People & Body/man_pouting.png
    strings: 
-   - ':person_in_steamy_room:'
+   - ':man_pouting:'
 - 
-   name: person_in_tuxedo
-   location: assets/People & Body/person_in_tuxedo.png
+   name: woman_pouting
+   location: assets/People & Body/woman_pouting.png
    strings: 
-   - ':person_in_tuxedo:'
+   - ':woman_pouting:'
 - 
-   name: person_with_crown
-   location: assets/People & Body/person_with_crown.png
+   name: no_good
+   location: assets/People & Body/no_good.png
    strings: 
-   - ':person_with_crown:'
+   - ':no_good:'
 - 
-   name: person_with_probing_cane
-   location: assets/People & Body/person_with_probing_cane.png
+   name: man_gesturing_no
+   location: assets/People & Body/man_gesturing_no.png
    strings: 
-   - ':person_with_probing_cane:'
+   - ':man_gesturing_no:'
+- 
+   name: woman_gesturing_no
+   location: assets/People & Body/woman_gesturing_no.png
+   strings: 
+   - ':woman_gesturing_no:'
+- 
+   name: ok_woman
+   location: assets/People & Body/ok_woman.png
+   strings: 
+   - ':ok_woman:'
+- 
+   name: man_gesturing_ok
+   location: assets/People & Body/man_gesturing_ok.png
+   strings: 
+   - ':man_gesturing_ok:'
+- 
+   name: woman_gesturing_ok
+   location: assets/People & Body/woman_gesturing_ok.png
+   strings: 
+   - ':woman_gesturing_ok:'
+- 
+   name: information_desk_person
+   location: assets/People & Body/information_desk_person.png
+   strings: 
+   - ':information_desk_person:'
+- 
+   name: man_tipping_hand
+   location: assets/People & Body/man_tipping_hand.png
+   strings: 
+   - ':man_tipping_hand:'
+- 
+   name: woman_tipping_hand
+   location: assets/People & Body/woman_tipping_hand.png
+   strings: 
+   - ':woman_tipping_hand:'
+- 
+   name: raising_hand
+   location: assets/People & Body/raising_hand.png
+   strings: 
+   - ':raising_hand:'
+- 
+   name: man_raising_hand
+   location: assets/People & Body/man_raising_hand.png
+   strings: 
+   - ':man_raising_hand:'
+- 
+   name: woman_raising_hand
+   location: assets/People & Body/woman_raising_hand.png
+   strings: 
+   - ':woman_raising_hand:'
+- 
+   name: deaf_person
+   location: assets/People & Body/deaf_person.png
+   strings: 
+   - ':deaf_person:'
+- 
+   name: deaf_man
+   location: assets/People & Body/deaf_man.png
+   strings: 
+   - ':deaf_man:'
+- 
+   name: deaf_woman
+   location: assets/People & Body/deaf_woman.png
+   strings: 
+   - ':deaf_woman:'
+- 
+   name: bow
+   location: assets/People & Body/bow.png
+   strings: 
+   - ':bow:'
+- 
+   name: man_bowing
+   location: assets/People & Body/man_bowing.png
+   strings: 
+   - ':man_bowing:'
+- 
+   name: woman_bowing
+   location: assets/People & Body/woman_bowing.png
+   strings: 
+   - ':woman_bowing:'
+- 
+   name: face_palm
+   location: assets/People & Body/face_palm.png
+   strings: 
+   - ':face_palm:'
+- 
+   name: man_facepalming
+   location: assets/People & Body/man_facepalming.png
+   strings: 
+   - ':man_facepalming:'
+- 
+   name: woman_facepalming
+   location: assets/People & Body/woman_facepalming.png
+   strings: 
+   - ':woman_facepalming:'
+- 
+   name: shrug
+   location: assets/People & Body/shrug.png
+   strings: 
+   - ':shrug:'
+- 
+   name: man_shrugging
+   location: assets/People & Body/man_shrugging.png
+   strings: 
+   - ':man_shrugging:'
+- 
+   name: woman_shrugging
+   location: assets/People & Body/woman_shrugging.png
+   strings: 
+   - ':woman_shrugging:'
+- 
+   name: health_worker
+   location: assets/People & Body/health_worker.png
+   strings: 
+   - ':health_worker:'
+- 
+   name: male_doctor
+   location: assets/People & Body/male_doctor.png
+   strings: 
+   - ':male_doctor:'
+- 
+   name: female_doctor
+   location: assets/People & Body/female_doctor.png
+   strings: 
+   - ':female_doctor:'
+- 
+   name: student
+   location: assets/People & Body/student.png
+   strings: 
+   - ':student:'
+- 
+   name: male_student
+   location: assets/People & Body/male_student.png
+   strings: 
+   - ':male_student:'
+- 
+   name: female_student
+   location: assets/People & Body/female_student.png
+   strings: 
+   - ':female_student:'
+- 
+   name: teacher
+   location: assets/People & Body/teacher.png
+   strings: 
+   - ':teacher:'
+- 
+   name: male_teacher
+   location: assets/People & Body/male_teacher.png
+   strings: 
+   - ':male_teacher:'
+- 
+   name: female_teacher
+   location: assets/People & Body/female_teacher.png
+   strings: 
+   - ':female_teacher:'
+- 
+   name: judge
+   location: assets/People & Body/judge.png
+   strings: 
+   - ':judge:'
+- 
+   name: male_judge
+   location: assets/People & Body/male_judge.png
+   strings: 
+   - ':male_judge:'
+- 
+   name: female_judge
+   location: assets/People & Body/female_judge.png
+   strings: 
+   - ':female_judge:'
+- 
+   name: farmer
+   location: assets/People & Body/farmer.png
+   strings: 
+   - ':farmer:'
+- 
+   name: male_farmer
+   location: assets/People & Body/male_farmer.png
+   strings: 
+   - ':male_farmer:'
+- 
+   name: female_farmer
+   location: assets/People & Body/female_farmer.png
+   strings: 
+   - ':female_farmer:'
+- 
+   name: cook
+   location: assets/People & Body/cook.png
+   strings: 
+   - ':cook:'
+- 
+   name: male_cook
+   location: assets/People & Body/male_cook.png
+   strings: 
+   - ':male_cook:'
+- 
+   name: female_cook
+   location: assets/People & Body/female_cook.png
+   strings: 
+   - ':female_cook:'
+- 
+   name: mechanic
+   location: assets/People & Body/mechanic.png
+   strings: 
+   - ':mechanic:'
+- 
+   name: male_mechanic
+   location: assets/People & Body/male_mechanic.png
+   strings: 
+   - ':male_mechanic:'
+- 
+   name: female_mechanic
+   location: assets/People & Body/female_mechanic.png
+   strings: 
+   - ':female_mechanic:'
+- 
+   name: factory_worker
+   location: assets/People & Body/factory_worker.png
+   strings: 
+   - ':factory_worker:'
+- 
+   name: male_factory_worker
+   location: assets/People & Body/male_factory_worker.png
+   strings: 
+   - ':male_factory_worker:'
+- 
+   name: female_factory_worker
+   location: assets/People & Body/female_factory_worker.png
+   strings: 
+   - ':female_factory_worker:'
+- 
+   name: office_worker
+   location: assets/People & Body/office_worker.png
+   strings: 
+   - ':office_worker:'
+- 
+   name: male_office_worker
+   location: assets/People & Body/male_office_worker.png
+   strings: 
+   - ':male_office_worker:'
+- 
+   name: female_office_worker
+   location: assets/People & Body/female_office_worker.png
+   strings: 
+   - ':female_office_worker:'
+- 
+   name: scientist
+   location: assets/People & Body/scientist.png
+   strings: 
+   - ':scientist:'
+- 
+   name: male_scientist
+   location: assets/People & Body/male_scientist.png
+   strings: 
+   - ':male_scientist:'
+- 
+   name: female_scientist
+   location: assets/People & Body/female_scientist.png
+   strings: 
+   - ':female_scientist:'
+- 
+   name: technologist
+   location: assets/People & Body/technologist.png
+   strings: 
+   - ':technologist:'
+- 
+   name: male_technologist
+   location: assets/People & Body/male_technologist.png
+   strings: 
+   - ':male_technologist:'
+- 
+   name: female_technologist
+   location: assets/People & Body/female_technologist.png
+   strings: 
+   - ':female_technologist:'
+- 
+   name: singer
+   location: assets/People & Body/singer.png
+   strings: 
+   - ':singer:'
+- 
+   name: male_singer
+   location: assets/People & Body/male_singer.png
+   strings: 
+   - ':male_singer:'
+- 
+   name: female_singer
+   location: assets/People & Body/female_singer.png
+   strings: 
+   - ':female_singer:'
+- 
+   name: artist
+   location: assets/People & Body/artist.png
+   strings: 
+   - ':artist:'
+- 
+   name: male_artist
+   location: assets/People & Body/male_artist.png
+   strings: 
+   - ':male_artist:'
+- 
+   name: female_artist
+   location: assets/People & Body/female_artist.png
+   strings: 
+   - ':female_artist:'
 - 
    name: pilot
    location: assets/People & Body/pilot.png
    strings: 
    - ':pilot:'
 - 
-   name: pinched_fingers
-   location: assets/People & Body/pinched_fingers.png
+   name: male_pilot
+   location: assets/People & Body/male_pilot.png
    strings: 
-   - ':pinched_fingers:'
+   - ':male_pilot:'
 - 
-   name: pinching_hand
-   location: assets/People & Body/pinching_hand.png
+   name: female_pilot
+   location: assets/People & Body/female_pilot.png
    strings: 
-   - ':pinching_hand:'
+   - ':female_pilot:'
 - 
-   name: point_down
-   location: assets/People & Body/point_down.png
+   name: astronaut
+   location: assets/People & Body/astronaut.png
    strings: 
-   - ':point_down:'
+   - ':astronaut:'
 - 
-   name: point_left
-   location: assets/People & Body/point_left.png
+   name: male_astronaut
+   location: assets/People & Body/male_astronaut.png
    strings: 
-   - ':point_left:'
+   - ':male_astronaut:'
 - 
-   name: point_right
-   location: assets/People & Body/point_right.png
+   name: female_astronaut
+   location: assets/People & Body/female_astronaut.png
    strings: 
-   - ':point_right:'
+   - ':female_astronaut:'
 - 
-   name: point_up
-   location: assets/People & Body/point_up.png
+   name: firefighter
+   location: assets/People & Body/firefighter.png
    strings: 
-   - ':point_up:'
+   - ':firefighter:'
 - 
-   name: point_up_2
-   location: assets/People & Body/point_up_2.png
+   name: male_firefighter
+   location: assets/People & Body/male_firefighter.png
    strings: 
-   - ':point_up_2:'
+   - ':male_firefighter:'
 - 
-   name: police_officer
-   location: assets/People & Body/police_officer.png
+   name: female_firefighter
+   location: assets/People & Body/female_firefighter.png
    strings: 
-   - ':police_officer:'
+   - ':female_firefighter:'
 - 
-   name: pray
-   location: assets/People & Body/pray.png
+   name: cop
+   location: assets/People & Body/cop.png
    strings: 
-   - ':pray:'
+   - ':cop:'
 - 
-   name: pregnant_man
-   location: assets/People & Body/pregnant_man.png
+   name: male_police_officer
+   location: assets/People & Body/male_police_officer.png
    strings: 
-   - ':pregnant_man:'
+   - ':male_police_officer:'
 - 
-   name: pregnant_person
-   location: assets/People & Body/pregnant_person.png
+   name: female_police_officer
+   location: assets/People & Body/female_police_officer.png
    strings: 
-   - ':pregnant_person:'
+   - ':female_police_officer:'
 - 
-   name: pregnant_woman
-   location: assets/People & Body/pregnant_woman.png
+   name: sleuth_or_spy
+   location: assets/People & Body/sleuth_or_spy.png
    strings: 
-   - ':pregnant_woman:'
+   - ':sleuth_or_spy:'
+- 
+   name: male_detective
+   location: assets/People & Body/male_detective.png
+   strings: 
+   - ':male_detective:'
+- 
+   name: female_detective
+   location: assets/People & Body/female_detective.png
+   strings: 
+   - ':female_detective:'
+- 
+   name: guardsman
+   location: assets/People & Body/guardsman.png
+   strings: 
+   - ':guardsman:'
+- 
+   name: female_guard
+   location: assets/People & Body/female_guard.png
+   strings: 
+   - ':female_guard:'
+- 
+   name: ninja
+   location: assets/People & Body/ninja.png
+   strings: 
+   - ':ninja:'
+- 
+   name: construction_worker
+   location: assets/People & Body/construction_worker.png
+   strings: 
+   - ':construction_worker:'
+- 
+   name: male_construction_worker
+   location: assets/People & Body/male_construction_worker.png
+   strings: 
+   - ':male_construction_worker:'
+- 
+   name: female_construction_worker
+   location: assets/People & Body/female_construction_worker.png
+   strings: 
+   - ':female_construction_worker:'
+- 
+   name: person_with_crown
+   location: assets/People & Body/person_with_crown.png
+   strings: 
+   - ':person_with_crown:'
 - 
    name: prince
    location: assets/People & Body/prince.png
@@ -889,497 +909,902 @@
    strings: 
    - ':princess:'
 - 
-   name: punch
-   location: assets/People & Body/punch.png
+   name: man_with_turban
+   location: assets/People & Body/man_with_turban.png
    strings: 
-   - ':punch:'
+   - ':man_with_turban:'
 - 
-   name: raised_back_of_hand
-   location: assets/People & Body/raised_back_of_hand.png
+   name: man_wearing_turban
+   location: assets/People & Body/man_wearing_turban.png
    strings: 
-   - ':raised_back_of_hand:'
-- 
-   name: raised_hand
-   location: assets/People & Body/raised_hand.png
-   strings: 
-   - ':raised_hand:'
-- 
-   name: raised_hands
-   location: assets/People & Body/raised_hands.png
-   strings: 
-   - ':raised_hands:'
-- 
-   name: red_hair
-   location: assets/People & Body/red_hair.png
-   strings: 
-   - ':red_hair:'
-- 
-   name: rightwards_hand
-   location: assets/People & Body/rightwards_hand.png
-   strings: 
-   - ':rightwards_hand:'
-- 
-   name: rightwards_pushing_hand
-   location: assets/People & Body/rightwards_pushing_hand.png
-   strings: 
-   - ':rightwards_pushing_hand:'
-- 
-   name: right_facing_fist
-   location: assets/People & Body/right_facing_fist.png
-   strings: 
-   - ':right_facing_fist:'
-- 
-   name: santa
-   location: assets/People & Body/santa.png
-   strings: 
-   - ':santa:'
-- 
-   name: scientist
-   location: assets/People & Body/scientist.png
-   strings: 
-   - ':scientist:'
-- 
-   name: selfie
-   location: assets/People & Body/selfie.png
-   strings: 
-   - ':selfie:'
-- 
-   name: singer
-   location: assets/People & Body/singer.png
-   strings: 
-   - ':singer:'
-- 
-   name: skier
-   location: assets/People & Body/skier.png
-   strings: 
-   - ':skier:'
-- 
-   name: sleeping_accommodation
-   location: assets/People & Body/sleeping_accommodation.png
-   strings: 
-   - ':sleeping_accommodation:'
-- 
-   name: snowboarder
-   location: assets/People & Body/snowboarder.png
-   strings: 
-   - ':snowboarder:'
-- 
-   name: speaking_head
-   location: assets/People & Body/speaking_head.png
-   strings: 
-   - ':speaking_head:'
-- 
-   name: student
-   location: assets/People & Body/student.png
-   strings: 
-   - ':student:'
-- 
-   name: superhero
-   location: assets/People & Body/superhero.png
-   strings: 
-   - ':superhero:'
-- 
-   name: supervillain
-   location: assets/People & Body/supervillain.png
-   strings: 
-   - ':supervillain:'
-- 
-   name: teacher
-   location: assets/People & Body/teacher.png
-   strings: 
-   - ':teacher:'
-- 
-   name: technologist
-   location: assets/People & Body/technologist.png
-   strings: 
-   - ':technologist:'
-- 
-   name: thumbsdown
-   location: assets/People & Body/thumbsdown.png
-   strings: 
-   - ':thumbsdown:'
-- 
-   name: thumbsup
-   location: assets/People & Body/thumbsup.png
-   strings: 
-   - ':thumbsup:'
-- 
-   name: tongue
-   location: assets/People & Body/tongue.png
-   strings: 
-   - ':tongue:'
-- 
-   name: tooth
-   location: assets/People & Body/tooth.png
-   strings: 
-   - ':tooth:'
-- 
-   name: troll
-   location: assets/People & Body/troll.png
-   strings: 
-   - ':troll:'
-- 
-   name: two_men_holding_hands
-   location: assets/People & Body/two_men_holding_hands.png
-   strings: 
-   - ':two_men_holding_hands:'
-- 
-   name: two_women_holding_hands
-   location: assets/People & Body/two_women_holding_hands.png
-   strings: 
-   - ':two_women_holding_hands:'
-- 
-   name: v
-   location: assets/People & Body/v.png
-   strings: 
-   - ':v:'
-- 
-   name: vampire
-   location: assets/People & Body/vampire.png
-   strings: 
-   - ':vampire:'
-- 
-   name: wave
-   location: assets/People & Body/wave.png
-   strings: 
-   - ':wave:'
-- 
-   name: white_hair
-   location: assets/People & Body/white_hair.png
-   strings: 
-   - ':white_hair:'
-- 
-   name: woman
-   location: assets/People & Body/woman.png
-   strings: 
-   - ':woman:'
-- 
-   name: woman_artist
-   location: assets/People & Body/woman_artist.png
-   strings: 
-   - ':woman_artist:'
-- 
-   name: woman_astronaut
-   location: assets/People & Body/woman_astronaut.png
-   strings: 
-   - ':woman_astronaut:'
-- 
-   name: woman_biking
-   location: assets/People & Body/woman_biking.png
-   strings: 
-   - ':woman_biking:'
-- 
-   name: woman_bouncing_ball
-   location: assets/People & Body/woman_bouncing_ball.png
-   strings: 
-   - ':woman_bouncing_ball:'
-- 
-   name: woman_bowing
-   location: assets/People & Body/woman_bowing.png
-   strings: 
-   - ':woman_bowing:'
-- 
-   name: woman_cartwheeling
-   location: assets/People & Body/woman_cartwheeling.png
-   strings: 
-   - ':woman_cartwheeling:'
-- 
-   name: woman_climbing
-   location: assets/People & Body/woman_climbing.png
-   strings: 
-   - ':woman_climbing:'
-- 
-   name: woman_construction_worker
-   location: assets/People & Body/woman_construction_worker.png
-   strings: 
-   - ':woman_construction_worker:'
-- 
-   name: woman_cook
-   location: assets/People & Body/woman_cook.png
-   strings: 
-   - ':woman_cook:'
-- 
-   name: woman_detective
-   location: assets/People & Body/woman_detective.png
-   strings: 
-   - ':woman_detective:'
-- 
-   name: woman_elf
-   location: assets/People & Body/woman_elf.png
-   strings: 
-   - ':woman_elf:'
-- 
-   name: woman_facepalming
-   location: assets/People & Body/woman_facepalming.png
-   strings: 
-   - ':woman_facepalming:'
-- 
-   name: woman_factory_worker
-   location: assets/People & Body/woman_factory_worker.png
-   strings: 
-   - ':woman_factory_worker:'
-- 
-   name: woman_fairy
-   location: assets/People & Body/woman_fairy.png
-   strings: 
-   - ':woman_fairy:'
-- 
-   name: woman_farmer
-   location: assets/People & Body/woman_farmer.png
-   strings: 
-   - ':woman_farmer:'
-- 
-   name: woman_feeding_baby
-   location: assets/People & Body/woman_feeding_baby.png
-   strings: 
-   - ':woman_feeding_baby:'
-- 
-   name: woman_firefighter
-   location: assets/People & Body/woman_firefighter.png
-   strings: 
-   - ':woman_firefighter:'
-- 
-   name: woman_frowning
-   location: assets/People & Body/woman_frowning.png
-   strings: 
-   - ':woman_frowning:'
-- 
-   name: woman_genie
-   location: assets/People & Body/woman_genie.png
-   strings: 
-   - ':woman_genie:'
-- 
-   name: woman_gesturing_no
-   location: assets/People & Body/woman_gesturing_no.png
-   strings: 
-   - ':woman_gesturing_no:'
-- 
-   name: woman_gesturing_ok
-   location: assets/People & Body/woman_gesturing_ok.png
-   strings: 
-   - ':woman_gesturing_ok:'
-- 
-   name: woman_getting_haircut
-   location: assets/People & Body/woman_getting_haircut.png
-   strings: 
-   - ':woman_getting_haircut:'
-- 
-   name: woman_golfing
-   location: assets/People & Body/woman_golfing.png
-   strings: 
-   - ':woman_golfing:'
-- 
-   name: woman_guard
-   location: assets/People & Body/woman_guard.png
-   strings: 
-   - ':woman_guard:'
-- 
-   name: woman_in_lotus_position
-   location: assets/People & Body/woman_in_lotus_position.png
-   strings: 
-   - ':woman_in_lotus_position:'
-- 
-   name: woman_in_manual_wheelchair
-   location: assets/People & Body/woman_in_manual_wheelchair.png
-   strings: 
-   - ':woman_in_manual_wheelchair:'
-- 
-   name: woman_in_motorized_wheelchair
-   location: assets/People & Body/woman_in_motorized_wheelchair.png
-   strings: 
-   - ':woman_in_motorized_wheelchair:'
-- 
-   name: woman_in_steamy_room
-   location: assets/People & Body/woman_in_steamy_room.png
-   strings: 
-   - ':woman_in_steamy_room:'
-- 
-   name: woman_in_tuxedo
-   location: assets/People & Body/woman_in_tuxedo.png
-   strings: 
-   - ':woman_in_tuxedo:'
-- 
-   name: woman_judge
-   location: assets/People & Body/woman_judge.png
-   strings: 
-   - ':woman_judge:'
-- 
-   name: woman_juggling
-   location: assets/People & Body/woman_juggling.png
-   strings: 
-   - ':woman_juggling:'
-- 
-   name: woman_kneeling
-   location: assets/People & Body/woman_kneeling.png
-   strings: 
-   - ':woman_kneeling:'
-- 
-   name: woman_lifting_weights
-   location: assets/People & Body/woman_lifting_weights.png
-   strings: 
-   - ':woman_lifting_weights:'
-- 
-   name: woman_mage
-   location: assets/People & Body/woman_mage.png
-   strings: 
-   - ':woman_mage:'
-- 
-   name: woman_mechanic
-   location: assets/People & Body/woman_mechanic.png
-   strings: 
-   - ':woman_mechanic:'
-- 
-   name: woman_mountain_biking
-   location: assets/People & Body/woman_mountain_biking.png
-   strings: 
-   - ':woman_mountain_biking:'
-- 
-   name: woman_office_worker
-   location: assets/People & Body/woman_office_worker.png
-   strings: 
-   - ':woman_office_worker:'
-- 
-   name: woman_pilot
-   location: assets/People & Body/woman_pilot.png
-   strings: 
-   - ':woman_pilot:'
-- 
-   name: woman_playing_handball
-   location: assets/People & Body/woman_playing_handball.png
-   strings: 
-   - ':woman_playing_handball:'
-- 
-   name: woman_playing_water_polo
-   location: assets/People & Body/woman_playing_water_polo.png
-   strings: 
-   - ':woman_playing_water_polo:'
-- 
-   name: woman_police_officer
-   location: assets/People & Body/woman_police_officer.png
-   strings: 
-   - ':woman_police_officer:'
-- 
-   name: woman_pouting
-   location: assets/People & Body/woman_pouting.png
-   strings: 
-   - ':woman_pouting:'
-- 
-   name: woman_raising_hand
-   location: assets/People & Body/woman_raising_hand.png
-   strings: 
-   - ':woman_raising_hand:'
-- 
-   name: woman_rowing_boat
-   location: assets/People & Body/woman_rowing_boat.png
-   strings: 
-   - ':woman_rowing_boat:'
-- 
-   name: woman_running
-   location: assets/People & Body/woman_running.png
-   strings: 
-   - ':woman_running:'
-- 
-   name: woman_scientist
-   location: assets/People & Body/woman_scientist.png
-   strings: 
-   - ':woman_scientist:'
-- 
-   name: woman_shrugging
-   location: assets/People & Body/woman_shrugging.png
-   strings: 
-   - ':woman_shrugging:'
-- 
-   name: woman_singer
-   location: assets/People & Body/woman_singer.png
-   strings: 
-   - ':woman_singer:'
-- 
-   name: woman_standing
-   location: assets/People & Body/woman_standing.png
-   strings: 
-   - ':woman_standing:'
-- 
-   name: woman_student
-   location: assets/People & Body/woman_student.png
-   strings: 
-   - ':woman_student:'
-- 
-   name: woman_superhero
-   location: assets/People & Body/woman_superhero.png
-   strings: 
-   - ':woman_superhero:'
-- 
-   name: woman_supervillain
-   location: assets/People & Body/woman_supervillain.png
-   strings: 
-   - ':woman_supervillain:'
-- 
-   name: woman_surfing
-   location: assets/People & Body/woman_surfing.png
-   strings: 
-   - ':woman_surfing:'
-- 
-   name: woman_swimming
-   location: assets/People & Body/woman_swimming.png
-   strings: 
-   - ':woman_swimming:'
-- 
-   name: woman_teacher
-   location: assets/People & Body/woman_teacher.png
-   strings: 
-   - ':woman_teacher:'
-- 
-   name: woman_technologist
-   location: assets/People & Body/woman_technologist.png
-   strings: 
-   - ':woman_technologist:'
-- 
-   name: woman_tipping_hand
-   location: assets/People & Body/woman_tipping_hand.png
-   strings: 
-   - ':woman_tipping_hand:'
-- 
-   name: woman_vampire
-   location: assets/People & Body/woman_vampire.png
-   strings: 
-   - ':woman_vampire:'
-- 
-   name: woman_walking
-   location: assets/People & Body/woman_walking.png
-   strings: 
-   - ':woman_walking:'
+   - ':man_wearing_turban:'
 - 
    name: woman_wearing_turban
    location: assets/People & Body/woman_wearing_turban.png
    strings: 
    - ':woman_wearing_turban:'
 - 
-   name: woman_with_probing_cane
-   location: assets/People & Body/woman_with_probing_cane.png
+   name: man_with_gua_pi_mao
+   location: assets/People & Body/man_with_gua_pi_mao.png
    strings: 
-   - ':woman_with_probing_cane:'
+   - ':man_with_gua_pi_mao:'
+- 
+   name: person_with_headscarf
+   location: assets/People & Body/person_with_headscarf.png
+   strings: 
+   - ':person_with_headscarf:'
+- 
+   name: person_in_tuxedo
+   location: assets/People & Body/person_in_tuxedo.png
+   strings: 
+   - ':person_in_tuxedo:'
+- 
+   name: man_in_tuxedo
+   location: assets/People & Body/man_in_tuxedo.png
+   strings: 
+   - ':man_in_tuxedo:'
+- 
+   name: woman_in_tuxedo
+   location: assets/People & Body/woman_in_tuxedo.png
+   strings: 
+   - ':woman_in_tuxedo:'
+- 
+   name: bride_with_veil
+   location: assets/People & Body/bride_with_veil.png
+   strings: 
+   - ':bride_with_veil:'
+- 
+   name: man_with_veil
+   location: assets/People & Body/man_with_veil.png
+   strings: 
+   - ':man_with_veil:'
 - 
    name: woman_with_veil
    location: assets/People & Body/woman_with_veil.png
    strings: 
    - ':woman_with_veil:'
 - 
-   name: woman_zombie
-   location: assets/People & Body/woman_zombie.png
+   name: pregnant_woman
+   location: assets/People & Body/pregnant_woman.png
    strings: 
-   - ':woman_zombie:'
+   - ':pregnant_woman:'
+- 
+   name: pregnant_man
+   location: assets/People & Body/pregnant_man.png
+   strings: 
+   - ':pregnant_man:'
+- 
+   name: pregnant_person
+   location: assets/People & Body/pregnant_person.png
+   strings: 
+   - ':pregnant_person:'
+- 
+   name: breast_feeding
+   location: assets/People & Body/breast_feeding.png
+   strings: 
+   - ':breast_feeding:'
+- 
+   name: woman_feeding_baby
+   location: assets/People & Body/woman_feeding_baby.png
+   strings: 
+   - ':woman_feeding_baby:'
+- 
+   name: man_feeding_baby
+   location: assets/People & Body/man_feeding_baby.png
+   strings: 
+   - ':man_feeding_baby:'
+- 
+   name: person_feeding_baby
+   location: assets/People & Body/person_feeding_baby.png
+   strings: 
+   - ':person_feeding_baby:'
+- 
+   name: angel
+   location: assets/People & Body/angel.png
+   strings: 
+   - ':angel:'
+- 
+   name: santa
+   location: assets/People & Body/santa.png
+   strings: 
+   - ':santa:'
+- 
+   name: mrs_claus
+   location: assets/People & Body/mrs_claus.png
+   strings: 
+   - ':mrs_claus:'
+- 
+   name: mx_claus
+   location: assets/People & Body/mx_claus.png
+   strings: 
+   - ':mx_claus:'
+- 
+   name: superhero
+   location: assets/People & Body/superhero.png
+   strings: 
+   - ':superhero:'
+- 
+   name: male_superhero
+   location: assets/People & Body/male_superhero.png
+   strings: 
+   - ':male_superhero:'
+- 
+   name: female_superhero
+   location: assets/People & Body/female_superhero.png
+   strings: 
+   - ':female_superhero:'
+- 
+   name: supervillain
+   location: assets/People & Body/supervillain.png
+   strings: 
+   - ':supervillain:'
+- 
+   name: male_supervillain
+   location: assets/People & Body/male_supervillain.png
+   strings: 
+   - ':male_supervillain:'
+- 
+   name: female_supervillain
+   location: assets/People & Body/female_supervillain.png
+   strings: 
+   - ':female_supervillain:'
+- 
+   name: mage
+   location: assets/People & Body/mage.png
+   strings: 
+   - ':mage:'
+- 
+   name: male_mage
+   location: assets/People & Body/male_mage.png
+   strings: 
+   - ':male_mage:'
+- 
+   name: female_mage
+   location: assets/People & Body/female_mage.png
+   strings: 
+   - ':female_mage:'
+- 
+   name: fairy
+   location: assets/People & Body/fairy.png
+   strings: 
+   - ':fairy:'
+- 
+   name: male_fairy
+   location: assets/People & Body/male_fairy.png
+   strings: 
+   - ':male_fairy:'
+- 
+   name: female_fairy
+   location: assets/People & Body/female_fairy.png
+   strings: 
+   - ':female_fairy:'
+- 
+   name: vampire
+   location: assets/People & Body/vampire.png
+   strings: 
+   - ':vampire:'
+- 
+   name: male_vampire
+   location: assets/People & Body/male_vampire.png
+   strings: 
+   - ':male_vampire:'
+- 
+   name: female_vampire
+   location: assets/People & Body/female_vampire.png
+   strings: 
+   - ':female_vampire:'
+- 
+   name: merperson
+   location: assets/People & Body/merperson.png
+   strings: 
+   - ':merperson:'
+- 
+   name: merman
+   location: assets/People & Body/merman.png
+   strings: 
+   - ':merman:'
+- 
+   name: mermaid
+   location: assets/People & Body/mermaid.png
+   strings: 
+   - ':mermaid:'
+- 
+   name: elf
+   location: assets/People & Body/elf.png
+   strings: 
+   - ':elf:'
+- 
+   name: male_elf
+   location: assets/People & Body/male_elf.png
+   strings: 
+   - ':male_elf:'
+- 
+   name: female_elf
+   location: assets/People & Body/female_elf.png
+   strings: 
+   - ':female_elf:'
+- 
+   name: genie
+   location: assets/People & Body/genie.png
+   strings: 
+   - ':genie:'
+- 
+   name: male_genie
+   location: assets/People & Body/male_genie.png
+   strings: 
+   - ':male_genie:'
+- 
+   name: female_genie
+   location: assets/People & Body/female_genie.png
+   strings: 
+   - ':female_genie:'
+- 
+   name: zombie
+   location: assets/People & Body/zombie.png
+   strings: 
+   - ':zombie:'
+- 
+   name: male_zombie
+   location: assets/People & Body/male_zombie.png
+   strings: 
+   - ':male_zombie:'
+- 
+   name: female_zombie
+   location: assets/People & Body/female_zombie.png
+   strings: 
+   - ':female_zombie:'
+- 
+   name: troll
+   location: assets/People & Body/troll.png
+   strings: 
+   - ':troll:'
+- 
+   name: massage
+   location: assets/People & Body/massage.png
+   strings: 
+   - ':massage:'
+- 
+   name: man_getting_massage
+   location: assets/People & Body/man_getting_massage.png
+   strings: 
+   - ':man_getting_massage:'
+- 
+   name: woman_getting_massage
+   location: assets/People & Body/woman_getting_massage.png
+   strings: 
+   - ':woman_getting_massage:'
+- 
+   name: haircut
+   location: assets/People & Body/haircut.png
+   strings: 
+   - ':haircut:'
+- 
+   name: man_getting_haircut
+   location: assets/People & Body/man_getting_haircut.png
+   strings: 
+   - ':man_getting_haircut:'
+- 
+   name: woman_getting_haircut
+   location: assets/People & Body/woman_getting_haircut.png
+   strings: 
+   - ':woman_getting_haircut:'
+- 
+   name: walking
+   location: assets/People & Body/walking.png
+   strings: 
+   - ':walking:'
+- 
+   name: man_walking
+   location: assets/People & Body/man_walking.png
+   strings: 
+   - ':man_walking:'
+- 
+   name: woman_walking
+   location: assets/People & Body/woman_walking.png
+   strings: 
+   - ':woman_walking:'
+- 
+   name: standing_person
+   location: assets/People & Body/standing_person.png
+   strings: 
+   - ':standing_person:'
+- 
+   name: man_standing
+   location: assets/People & Body/man_standing.png
+   strings: 
+   - ':man_standing:'
+- 
+   name: woman_standing
+   location: assets/People & Body/woman_standing.png
+   strings: 
+   - ':woman_standing:'
+- 
+   name: kneeling_person
+   location: assets/People & Body/kneeling_person.png
+   strings: 
+   - ':kneeling_person:'
+- 
+   name: man_kneeling
+   location: assets/People & Body/man_kneeling.png
+   strings: 
+   - ':man_kneeling:'
+- 
+   name: woman_kneeling
+   location: assets/People & Body/woman_kneeling.png
+   strings: 
+   - ':woman_kneeling:'
+- 
+   name: person_with_probing_cane
+   location: assets/People & Body/person_with_probing_cane.png
+   strings: 
+   - ':person_with_probing_cane:'
+- 
+   name: man_with_probing_cane
+   location: assets/People & Body/man_with_probing_cane.png
+   strings: 
+   - ':man_with_probing_cane:'
+- 
+   name: woman_with_probing_cane
+   location: assets/People & Body/woman_with_probing_cane.png
+   strings: 
+   - ':woman_with_probing_cane:'
+- 
+   name: person_in_motorized_wheelchair
+   location: assets/People & Body/person_in_motorized_wheelchair.png
+   strings: 
+   - ':person_in_motorized_wheelchair:'
+- 
+   name: man_in_motorized_wheelchair
+   location: assets/People & Body/man_in_motorized_wheelchair.png
+   strings: 
+   - ':man_in_motorized_wheelchair:'
+- 
+   name: woman_in_motorized_wheelchair
+   location: assets/People & Body/woman_in_motorized_wheelchair.png
+   strings: 
+   - ':woman_in_motorized_wheelchair:'
+- 
+   name: person_in_manual_wheelchair
+   location: assets/People & Body/person_in_manual_wheelchair.png
+   strings: 
+   - ':person_in_manual_wheelchair:'
+- 
+   name: man_in_manual_wheelchair
+   location: assets/People & Body/man_in_manual_wheelchair.png
+   strings: 
+   - ':man_in_manual_wheelchair:'
+- 
+   name: woman_in_manual_wheelchair
+   location: assets/People & Body/woman_in_manual_wheelchair.png
+   strings: 
+   - ':woman_in_manual_wheelchair:'
+- 
+   name: runner
+   location: assets/People & Body/runner.png
+   strings: 
+   - ':runner:'
+- 
+   name: man_running
+   location: assets/People & Body/man_running.png
+   strings: 
+   - ':man_running:'
+- 
+   name: woman_running
+   location: assets/People & Body/woman_running.png
+   strings: 
+   - ':woman_running:'
+- 
+   name: dancer
+   location: assets/People & Body/dancer.png
+   strings: 
+   - ':dancer:'
+- 
+   name: man_dancing
+   location: assets/People & Body/man_dancing.png
+   strings: 
+   - ':man_dancing:'
+- 
+   name: man_in_business_suit_levitating
+   location: assets/People & Body/man_in_business_suit_levitating.png
+   strings: 
+   - ':man_in_business_suit_levitating:'
+- 
+   name: dancers
+   location: assets/People & Body/dancers.png
+   strings: 
+   - ':dancers:'
+- 
+   name: men_with_bunny_ears_partying
+   location: assets/People & Body/men_with_bunny_ears_partying.png
+   strings: 
+   - ':men_with_bunny_ears_partying:'
 - 
    name: women_with_bunny_ears_partying
    location: assets/People & Body/women_with_bunny_ears_partying.png
    strings: 
    - ':women_with_bunny_ears_partying:'
 - 
-   name: writing_hand
-   location: assets/People & Body/writing_hand.png
+   name: person_in_steamy_room
+   location: assets/People & Body/person_in_steamy_room.png
    strings: 
-   - ':writing_hand:'
+   - ':person_in_steamy_room:'
 - 
-   name: zombie
-   location: assets/People & Body/zombie.png
+   name: man_in_steamy_room
+   location: assets/People & Body/man_in_steamy_room.png
    strings: 
-   - ':zombie:'
+   - ':man_in_steamy_room:'
+- 
+   name: woman_in_steamy_room
+   location: assets/People & Body/woman_in_steamy_room.png
+   strings: 
+   - ':woman_in_steamy_room:'
+- 
+   name: person_climbing
+   location: assets/People & Body/person_climbing.png
+   strings: 
+   - ':person_climbing:'
+- 
+   name: man_climbing
+   location: assets/People & Body/man_climbing.png
+   strings: 
+   - ':man_climbing:'
+- 
+   name: woman_climbing
+   location: assets/People & Body/woman_climbing.png
+   strings: 
+   - ':woman_climbing:'
+- 
+   name: fencer
+   location: assets/People & Body/fencer.png
+   strings: 
+   - ':fencer:'
+- 
+   name: horse_racing
+   location: assets/People & Body/horse_racing.png
+   strings: 
+   - ':horse_racing:'
+- 
+   name: skier
+   location: assets/People & Body/skier.png
+   strings: 
+   - ':skier:'
+- 
+   name: snowboarder
+   location: assets/People & Body/snowboarder.png
+   strings: 
+   - ':snowboarder:'
+- 
+   name: golfer
+   location: assets/People & Body/golfer.png
+   strings: 
+   - ':golfer:'
+- 
+   name: man_golfing
+   location: assets/People & Body/man_golfing.png
+   strings: 
+   - ':man_golfing:'
+- 
+   name: woman_golfing
+   location: assets/People & Body/woman_golfing.png
+   strings: 
+   - ':woman_golfing:'
+- 
+   name: surfer
+   location: assets/People & Body/surfer.png
+   strings: 
+   - ':surfer:'
+- 
+   name: man_surfing
+   location: assets/People & Body/man_surfing.png
+   strings: 
+   - ':man_surfing:'
+- 
+   name: woman_surfing
+   location: assets/People & Body/woman_surfing.png
+   strings: 
+   - ':woman_surfing:'
+- 
+   name: rowboat
+   location: assets/People & Body/rowboat.png
+   strings: 
+   - ':rowboat:'
+- 
+   name: man_rowing_boat
+   location: assets/People & Body/man_rowing_boat.png
+   strings: 
+   - ':man_rowing_boat:'
+- 
+   name: woman_rowing_boat
+   location: assets/People & Body/woman_rowing_boat.png
+   strings: 
+   - ':woman_rowing_boat:'
+- 
+   name: swimmer
+   location: assets/People & Body/swimmer.png
+   strings: 
+   - ':swimmer:'
+- 
+   name: man_swimming
+   location: assets/People & Body/man_swimming.png
+   strings: 
+   - ':man_swimming:'
+- 
+   name: woman_swimming
+   location: assets/People & Body/woman_swimming.png
+   strings: 
+   - ':woman_swimming:'
+- 
+   name: person_with_ball
+   location: assets/People & Body/person_with_ball.png
+   strings: 
+   - ':person_with_ball:'
+- 
+   name: man_bouncing_ball
+   location: assets/People & Body/man_bouncing_ball.png
+   strings: 
+   - ':man_bouncing_ball:'
+- 
+   name: woman_bouncing_ball
+   location: assets/People & Body/woman_bouncing_ball.png
+   strings: 
+   - ':woman_bouncing_ball:'
+- 
+   name: weight_lifter
+   location: assets/People & Body/weight_lifter.png
+   strings: 
+   - ':weight_lifter:'
+- 
+   name: man_lifting_weights
+   location: assets/People & Body/man_lifting_weights.png
+   strings: 
+   - ':man_lifting_weights:'
+- 
+   name: woman_lifting_weights
+   location: assets/People & Body/woman_lifting_weights.png
+   strings: 
+   - ':woman_lifting_weights:'
+- 
+   name: bicyclist
+   location: assets/People & Body/bicyclist.png
+   strings: 
+   - ':bicyclist:'
+- 
+   name: man_biking
+   location: assets/People & Body/man_biking.png
+   strings: 
+   - ':man_biking:'
+- 
+   name: woman_biking
+   location: assets/People & Body/woman_biking.png
+   strings: 
+   - ':woman_biking:'
+- 
+   name: mountain_bicyclist
+   location: assets/People & Body/mountain_bicyclist.png
+   strings: 
+   - ':mountain_bicyclist:'
+- 
+   name: man_mountain_biking
+   location: assets/People & Body/man_mountain_biking.png
+   strings: 
+   - ':man_mountain_biking:'
+- 
+   name: woman_mountain_biking
+   location: assets/People & Body/woman_mountain_biking.png
+   strings: 
+   - ':woman_mountain_biking:'
+- 
+   name: person_doing_cartwheel
+   location: assets/People & Body/person_doing_cartwheel.png
+   strings: 
+   - ':person_doing_cartwheel:'
+- 
+   name: man_cartwheeling
+   location: assets/People & Body/man_cartwheeling.png
+   strings: 
+   - ':man_cartwheeling:'
+- 
+   name: woman_cartwheeling
+   location: assets/People & Body/woman_cartwheeling.png
+   strings: 
+   - ':woman_cartwheeling:'
+- 
+   name: wrestlers
+   location: assets/People & Body/wrestlers.png
+   strings: 
+   - ':wrestlers:'
+- 
+   name: man_wrestling
+   location: assets/People & Body/man_wrestling.png
+   strings: 
+   - ':man_wrestling:'
+- 
+   name: woman_wrestling
+   location: assets/People & Body/woman_wrestling.png
+   strings: 
+   - ':woman_wrestling:'
+- 
+   name: water_polo
+   location: assets/People & Body/water_polo.png
+   strings: 
+   - ':water_polo:'
+- 
+   name: man_playing_water_polo
+   location: assets/People & Body/man_playing_water_polo.png
+   strings: 
+   - ':man_playing_water_polo:'
+- 
+   name: woman_playing_water_polo
+   location: assets/People & Body/woman_playing_water_polo.png
+   strings: 
+   - ':woman_playing_water_polo:'
+- 
+   name: handball
+   location: assets/People & Body/handball.png
+   strings: 
+   - ':handball:'
+- 
+   name: man_playing_handball
+   location: assets/People & Body/man_playing_handball.png
+   strings: 
+   - ':man_playing_handball:'
+- 
+   name: woman_playing_handball
+   location: assets/People & Body/woman_playing_handball.png
+   strings: 
+   - ':woman_playing_handball:'
+- 
+   name: juggling
+   location: assets/People & Body/juggling.png
+   strings: 
+   - ':juggling:'
+- 
+   name: man_juggling
+   location: assets/People & Body/man_juggling.png
+   strings: 
+   - ':man_juggling:'
+- 
+   name: woman_juggling
+   location: assets/People & Body/woman_juggling.png
+   strings: 
+   - ':woman_juggling:'
+- 
+   name: person_in_lotus_position
+   location: assets/People & Body/person_in_lotus_position.png
+   strings: 
+   - ':person_in_lotus_position:'
+- 
+   name: man_in_lotus_position
+   location: assets/People & Body/man_in_lotus_position.png
+   strings: 
+   - ':man_in_lotus_position:'
+- 
+   name: woman_in_lotus_position
+   location: assets/People & Body/woman_in_lotus_position.png
+   strings: 
+   - ':woman_in_lotus_position:'
+- 
+   name: bath
+   location: assets/People & Body/bath.png
+   strings: 
+   - ':bath:'
+- 
+   name: sleeping_accommodation
+   location: assets/People & Body/sleeping_accommodation.png
+   strings: 
+   - ':sleeping_accommodation:'
+- 
+   name: people_holding_hands
+   location: assets/People & Body/people_holding_hands.png
+   strings: 
+   - ':people_holding_hands:'
+- 
+   name: two_women_holding_hands
+   location: assets/People & Body/two_women_holding_hands.png
+   strings: 
+   - ':two_women_holding_hands:'
+- 
+   name: man_and_woman_holding_hands
+   location: assets/People & Body/man_and_woman_holding_hands.png
+   strings: 
+   - ':man_and_woman_holding_hands:'
+- 
+   name: two_men_holding_hands
+   location: assets/People & Body/two_men_holding_hands.png
+   strings: 
+   - ':two_men_holding_hands:'
+- 
+   name: couplekiss
+   location: assets/People & Body/couplekiss.png
+   strings: 
+   - ':couplekiss:'
+- 
+   name: woman_kiss_man
+   location: assets/People & Body/woman_kiss_man.png
+   strings: 
+   - ':woman_kiss_man:'
+- 
+   name: man_kiss_man
+   location: assets/People & Body/man_kiss_man.png
+   strings: 
+   - ':man_kiss_man:'
+- 
+   name: woman_kiss_woman
+   location: assets/People & Body/woman_kiss_woman.png
+   strings: 
+   - ':woman_kiss_woman:'
+- 
+   name: couple_with_heart
+   location: assets/People & Body/couple_with_heart.png
+   strings: 
+   - ':couple_with_heart:'
+- 
+   name: woman_heart_man
+   location: assets/People & Body/woman_heart_man.png
+   strings: 
+   - ':woman_heart_man:'
+- 
+   name: man_heart_man
+   location: assets/People & Body/man_heart_man.png
+   strings: 
+   - ':man_heart_man:'
+- 
+   name: woman_heart_woman
+   location: assets/People & Body/woman_heart_woman.png
+   strings: 
+   - ':woman_heart_woman:'
+- 
+   name: man_woman_boy
+   location: assets/People & Body/man_woman_boy.png
+   strings: 
+   - ':man_woman_boy:'
+- 
+   name: man_woman_girl
+   location: assets/People & Body/man_woman_girl.png
+   strings: 
+   - ':man_woman_girl:'
+- 
+   name: man_woman_girl_boy
+   location: assets/People & Body/man_woman_girl_boy.png
+   strings: 
+   - ':man_woman_girl_boy:'
+- 
+   name: man_woman_boy_boy
+   location: assets/People & Body/man_woman_boy_boy.png
+   strings: 
+   - ':man_woman_boy_boy:'
+- 
+   name: man_woman_girl_girl
+   location: assets/People & Body/man_woman_girl_girl.png
+   strings: 
+   - ':man_woman_girl_girl:'
+- 
+   name: man_man_boy
+   location: assets/People & Body/man_man_boy.png
+   strings: 
+   - ':man_man_boy:'
+- 
+   name: man_man_girl
+   location: assets/People & Body/man_man_girl.png
+   strings: 
+   - ':man_man_girl:'
+- 
+   name: man_man_girl_boy
+   location: assets/People & Body/man_man_girl_boy.png
+   strings: 
+   - ':man_man_girl_boy:'
+- 
+   name: man_man_boy_boy
+   location: assets/People & Body/man_man_boy_boy.png
+   strings: 
+   - ':man_man_boy_boy:'
+- 
+   name: man_man_girl_girl
+   location: assets/People & Body/man_man_girl_girl.png
+   strings: 
+   - ':man_man_girl_girl:'
+- 
+   name: woman_woman_boy
+   location: assets/People & Body/woman_woman_boy.png
+   strings: 
+   - ':woman_woman_boy:'
+- 
+   name: woman_woman_girl
+   location: assets/People & Body/woman_woman_girl.png
+   strings: 
+   - ':woman_woman_girl:'
+- 
+   name: woman_woman_girl_boy
+   location: assets/People & Body/woman_woman_girl_boy.png
+   strings: 
+   - ':woman_woman_girl_boy:'
+- 
+   name: woman_woman_boy_boy
+   location: assets/People & Body/woman_woman_boy_boy.png
+   strings: 
+   - ':woman_woman_boy_boy:'
+- 
+   name: woman_woman_girl_girl
+   location: assets/People & Body/woman_woman_girl_girl.png
+   strings: 
+   - ':woman_woman_girl_girl:'
+- 
+   name: man_boy
+   location: assets/People & Body/man_boy.png
+   strings: 
+   - ':man_boy:'
+- 
+   name: man_boy_boy
+   location: assets/People & Body/man_boy_boy.png
+   strings: 
+   - ':man_boy_boy:'
+- 
+   name: man_girl
+   location: assets/People & Body/man_girl.png
+   strings: 
+   - ':man_girl:'
+- 
+   name: man_girl_boy
+   location: assets/People & Body/man_girl_boy.png
+   strings: 
+   - ':man_girl_boy:'
+- 
+   name: man_girl_girl
+   location: assets/People & Body/man_girl_girl.png
+   strings: 
+   - ':man_girl_girl:'
+- 
+   name: woman_boy
+   location: assets/People & Body/woman_boy.png
+   strings: 
+   - ':woman_boy:'
+- 
+   name: woman_boy_boy
+   location: assets/People & Body/woman_boy_boy.png
+   strings: 
+   - ':woman_boy_boy:'
+- 
+   name: woman_girl
+   location: assets/People & Body/woman_girl.png
+   strings: 
+   - ':woman_girl:'
+- 
+   name: woman_girl_boy
+   location: assets/People & Body/woman_girl_boy.png
+   strings: 
+   - ':woman_girl_boy:'
+- 
+   name: woman_girl_girl
+   location: assets/People & Body/woman_girl_girl.png
+   strings: 
+   - ':woman_girl_girl:'
+- 
+   name: speaking_head_in_silhouette
+   location: assets/People & Body/speaking_head_in_silhouette.png
+   strings: 
+   - ':speaking_head_in_silhouette:'
+- 
+   name: bust_in_silhouette
+   location: assets/People & Body/bust_in_silhouette.png
+   strings: 
+   - ':bust_in_silhouette:'
+- 
+   name: busts_in_silhouette
+   location: assets/People & Body/busts_in_silhouette.png
+   strings: 
+   - ':busts_in_silhouette:'
+- 
+   name: people_hugging
+   location: assets/People & Body/people_hugging.png
+   strings: 
+   - ':people_hugging:'
+- 
+   name: family
+   location: assets/People & Body/family.png
+   strings: 
+   - ':family:'
+- 
+   name: footprints
+   location: assets/People & Body/footprints.png
+   strings: 
+   - ':footprints:'

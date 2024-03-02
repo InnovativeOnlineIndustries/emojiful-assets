@@ -4,15 +4,40 @@
    strings: 
    - ':checkered_flag:'
 - 
+   name: triangular_flag_on_post
+   location: assets/Flags/triangular_flag_on_post.png
+   strings: 
+   - ':triangular_flag_on_post:'
+- 
    name: crossed_flags
    location: assets/Flags/crossed_flags.png
    strings: 
    - ':crossed_flags:'
 - 
-   name: england
-   location: assets/Flags/england.png
+   name: waving_black_flag
+   location: assets/Flags/waving_black_flag.png
    strings: 
-   - ':england:'
+   - ':waving_black_flag:'
+- 
+   name: waving_white_flag
+   location: assets/Flags/waving_white_flag.png
+   strings: 
+   - ':waving_white_flag:'
+- 
+   name: rainbow_flag
+   location: assets/Flags/rainbow_flag.png
+   strings: 
+   - ':rainbow_flag:'
+- 
+   name: transgender_flag
+   location: assets/Flags/transgender_flag.png
+   strings: 
+   - ':transgender_flag:'
+- 
+   name: pirate_flag
+   location: assets/Flags/pirate_flag.png
+   strings: 
+   - ':pirate_flag:'
 - 
    name: flag_ac
    location: assets/Flags/flag_ac.png
@@ -254,10 +279,10 @@
    strings: 
    - ':flag_cm:'
 - 
-   name: flag_cn
-   location: assets/Flags/flag_cn.png
+   name: cn
+   location: assets/Flags/cn.png
    strings: 
-   - ':flag_cn:'
+   - ':cn:'
 - 
    name: flag_co
    location: assets/Flags/flag_co.png
@@ -304,10 +329,10 @@
    strings: 
    - ':flag_cz:'
 - 
-   name: flag_de
-   location: assets/Flags/flag_de.png
+   name: de
+   location: assets/Flags/de.png
    strings: 
-   - ':flag_de:'
+   - ':de:'
 - 
    name: flag_dg
    location: assets/Flags/flag_dg.png
@@ -369,10 +394,10 @@
    strings: 
    - ':flag_er:'
 - 
-   name: flag_es
-   location: assets/Flags/flag_es.png
+   name: es
+   location: assets/Flags/es.png
    strings: 
-   - ':flag_es:'
+   - ':es:'
 - 
    name: flag_et
    location: assets/Flags/flag_et.png
@@ -409,20 +434,20 @@
    strings: 
    - ':flag_fo:'
 - 
-   name: flag_fr
-   location: assets/Flags/flag_fr.png
+   name: fr
+   location: assets/Flags/fr.png
    strings: 
-   - ':flag_fr:'
+   - ':fr:'
 - 
    name: flag_ga
    location: assets/Flags/flag_ga.png
    strings: 
    - ':flag_ga:'
 - 
-   name: flag_gb
-   location: assets/Flags/flag_gb.png
+   name: gb
+   location: assets/Flags/gb.png
    strings: 
-   - ':flag_gb:'
+   - ':gb:'
 - 
    name: flag_gd
    location: assets/Flags/flag_gd.png
@@ -589,10 +614,10 @@
    strings: 
    - ':flag_is:'
 - 
-   name: flag_it
-   location: assets/Flags/flag_it.png
+   name: it
+   location: assets/Flags/it.png
    strings: 
-   - ':flag_it:'
+   - ':it:'
 - 
    name: flag_je
    location: assets/Flags/flag_je.png
@@ -608,11 +633,6 @@
    location: assets/Flags/flag_jo.png
    strings: 
    - ':flag_jo:'
-- 
-   name: flag_jp
-   location: assets/Flags/flag_jp.png
-   strings: 
-   - ':flag_jp:'
 - 
    name: flag_ke
    location: assets/Flags/flag_ke.png
@@ -649,10 +669,10 @@
    strings: 
    - ':flag_kp:'
 - 
-   name: flag_kr
-   location: assets/Flags/flag_kr.png
+   name: kr
+   location: assets/Flags/kr.png
    strings: 
-   - ':flag_kr:'
+   - ':kr:'
 - 
    name: flag_kw
    location: assets/Flags/flag_kw.png
@@ -994,10 +1014,10 @@
    strings: 
    - ':flag_rs:'
 - 
-   name: flag_ru
-   location: assets/Flags/flag_ru.png
+   name: ru
+   location: assets/Flags/ru.png
    strings: 
-   - ':flag_ru:'
+   - ':ru:'
 - 
    name: flag_rw
    location: assets/Flags/flag_rw.png
@@ -1209,10 +1229,15 @@
    strings: 
    - ':flag_um:'
 - 
-   name: flag_us
-   location: assets/Flags/flag_us.png
+   name: flag_un
+   location: assets/Flags/flag_un.png
    strings: 
-   - ':flag_us:'
+   - ':flag_un:'
+- 
+   name: us
+   location: assets/Flags/us.png
+   strings: 
+   - ':us:'
 - 
    name: flag_uy
    location: assets/Flags/flag_uy.png
@@ -1299,32 +1324,17 @@
    strings: 
    - ':flag_zw:'
 - 
-   name: pirate_flag
-   location: assets/Flags/pirate_flag.png
+   name: flag_england
+   location: assets/Flags/flag_england.png
    strings: 
-   - ':pirate_flag:'
+   - ':flag_england:'
 - 
-   name: rainbow_flag
-   location: assets/Flags/rainbow_flag.png
+   name: flag_scotland
+   location: assets/Flags/flag_scotland.png
    strings: 
-   - ':rainbow_flag:'
+   - ':flag_scotland:'
 - 
-   name: scotland
-   location: assets/Flags/scotland.png
+   name: flag_wales
+   location: assets/Flags/flag_wales.png
    strings: 
-   - ':scotland:'
-- 
-   name: transgender_flag
-   location: assets/Flags/transgender_flag.png
-   strings: 
-   - ':transgender_flag:'
-- 
-   name: triangular_flag_on_post
-   location: assets/Flags/triangular_flag_on_post.png
-   strings: 
-   - ':triangular_flag_on_post:'
-- 
-   name: wales
-   location: assets/Flags/wales.png
-   strings: 
-   - ':wales:'
+   - ':flag_wales:'
